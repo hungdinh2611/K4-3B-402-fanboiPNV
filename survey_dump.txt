@@ -1,0 +1,210 @@
+===== Người 1 =====
+Q1: Có
+Q2_muon_biet: Chia kênh
+Q3_cach_tim: Dò từng kênh thông tin
+Q4_so_lan: Dưới 10 lần
+Q5_anh_huong: Không rõ nội dung bài
+Q5b_dieu_gi_xay_ra: 
+Q6_giup_nhieu_nhat: Deadline
+Q7_muon_doi: Thông báo
+
+===== Người 2 =====
+Q1: Có
+Q2_muon_biet: Muốn biết nộp daily standup và nhận được kết quả cụ thể
+Q3_cach_tim: Hỏi bột kute có nhận được câu TL
+Q4_so_lan: 5
+Q5_anh_huong: Mất thời gian
+Q5b_dieu_gi_xay_ra: Tôi phải đọc nhiều tin nhắn mới tìm được thông tin
+Q6_giup_nhieu_nhat: Bot kute
+Q7_muon_doi: 
+
+===== Người 3 =====
+Q1: Có
+Q2_muon_biet: Hỏi thông tin về nội dung khoá  học
+Q3_cach_tim: Chờ phản hồi trong ticket
+Q4_so_lan: 1 lần
+Q5_anh_huong: Bị mất thời gian thôi
+Q5b_dieu_gi_xay_ra: .
+Q6_giup_nhieu_nhat: .
+Q7_muon_doi: .
+
+===== Người 4 =====
+Q1: standup, cách nộp bài
+Q2_muon_biet: Muốn biết cách nộp bài đúng, cách đặt tên repo, cách nộp standup
+Q3_cach_tim: Tìm kiếm ở trong discord, phải lướt trong số tin nhắn bị trùng lặp hoặc có kí tự liên quan
+Q4_so_lan: Vài ba
+Q5_anh_huong: 
+Q5b_dieu_gi_xay_ra: 
+Q6_giup_nhieu_nhat: 
+Q7_muon_doi: 
+
+===== Người 5 =====
+Q1: Có
+Q2_muon_biet: Tìm topic còn trống, kết quả ok
+Q3_cach_tim: Chả làm gì. Không có khó khăn gì
+Q4_so_lan: 0
+Q5_anh_huong: 0
+Q5b_dieu_gi_xay_ra: Tôi nhận dc câu trả lời nhanh và đủ tin cậy
+Q6_giup_nhieu_nhat: 
+Q7_muon_doi: Ko
+
+===== Người 6 =====
+Q1: Có
+Q2_muon_biet: Mong muốn biết vấn đề nộp bài nhầm, mong xác nhận của labcoach
+Q3_cach_tim: Đặt câu trả hỏi trên post, bước mất thời gian nhất là đọc lại xem có ai hỏi chưa. Có
+Q4_so_lan: Có. 2 lần
+Q5_anh_huong: Hơi tốn thời gian
+Q5b_dieu_gi_xay_ra: Tôi phải đọc nhiều tin nhắn mới tìm được thông tin
+Q6_giup_nhieu_nhat: Ô search, hashtag
+Q7_muon_doi: Không biết
+
+===== Người 7 =====
+Q1: có
+Q2_muon_biet: tra cứu xp và nhận kết quả oke
+Q3_cach_tim: chưa hiểu rõ hướng dẫn sử dụng
+Q4_so_lan: 1. chỉ cần đọc 1 lần là hiểu
+Q5_anh_huong: bình thường
+Q5b_dieu_gi_xay_ra: hỏi ng khác
+Q6_giup_nhieu_nhat: bot kute
+Q7_muon_doi: dễ dàng sử dụng và chuẩn hóa thành 1 ô chat
+
+===== Người 8 =====
+Q1: Có
+Q2_muon_biet: Trang nộp bài lab báo chưa nộp bài
+Q3_cach_tim: Tìm trong mục hỏi đáp
+Q4_so_lan: 2 lần
+Q5_anh_huong: Không ảnh hưởng lắm
+Q5b_dieu_gi_xay_ra: Phải đọc nhiều tin nhắn
+Q6_giup_nhieu_nhat: Có các câu hỏi sẵn trên đó
+Q7_muon_doi: 
+
+===== Người 9 =====
+Q1: cách nộp bài, xp, ticket, standup, tài liệu
+Q2_muon_biet: tài liệu. mong nhận kết quả theo cách phân loại theo từng track
+Q3_cach_tim: tìm kiếm thủ công. nên mất thời gian để tìm được tài liệu mong muốn. nếu thời gian dư thì tìm được, gấp thì bị rối
+Q4_so_lan: hàng ngày
+Q5_anh_huong: bị loạn trang thông tin
+Q5b_dieu_gi_xay_ra: tôi phải đọc nhiều tin nhắn mới tìm được
+Q6_giup_nhieu_nhat: @ trợ lý hoặc mentor hoặc lab coach
+Q7_muon_doi: cách sắp xếp phân loại tài liệu có một cách khác dễ dàng tìm kiếm hơn
+
+===== Người 10 =====
+Q1: Có
+Q2_muon_biet: Đêm qua, được trả lời
+Q3_cach_tim: Tra cứu-không
+Q4_so_lan: 2 lần
+Q5_anh_huong: Không ảnh hưởng nhiều
+Q5b_dieu_gi_xay_ra: Hỏi lại người khác, tìm tin nhắn
+Q6_giup_nhieu_nhat: Cấp nhật liên tục
+Q7_muon_doi: 
+
+===== Người 11 =====
+Q1: Có
+Q2_muon_biet: Tìm hiểu cách sử dụng các câu lệnh của trợ lý cute
+Q3_cach_tim: Mình hỏi trợ lý cute và đã nhận được câu trả lời
+Q4_so_lan: Khoảng 2-3 lần
+Q5_anh_huong: Mình mất thêm 5-10 phút để tìm thông tin
+Q5b_dieu_gi_xay_ra: Tôi nhận được câu trả lời nhanh và đủ tin cậy
+Q6_giup_nhieu_nhat: Trợ lý cute
+Q7_muon_doi: Mình muốn thêm role và chia nhỏ các perm hơn
+
+===== Người 12 =====
+Q1: Có
+Q2_muon_biet: Mình tìm kiếm thông báo liên quan đến buổi học tiếp theo, check lịch giải đoạn buildphase
+Q3_cach_tim: Tìm kiếm trong các kênh thảo luận của BTC trước, hỏi bot kute, đôi khi được các bạn giải đáp giúp
+Q4_so_lan: 3
+Q5_anh_huong: Theo cách tìm kiếm cũ, chưa có khó khắn
+Q5b_dieu_gi_xay_ra: Bot trả lời thông tin chính xác và cần thiết.
+Q6_giup_nhieu_nhat: Thông báo lớp học
+Q7_muon_doi: Có thể có mục hỏi đáp cá nhân để có thể xem mình đã hỏi bot những gì thay vì kênh chung
+
+===== Người 13 =====
+Q1: Có
+Q2_muon_biet: hôm kia, t tìm cách để daily-standup và kiếm XP
+Q3_cach_tim: tôi không biết mình phải vào đâu để tìm câu trả lời
+Q4_so_lan: 5
+Q5_anh_huong: nó làm mất thời gian
+Q5b_dieu_gi_xay_ra: Tôi phải đọc nhiều tin nhắn mới tìm được thông tin ;Tôi phải hỏi lại người khác / TA / Mod
+Q6_giup_nhieu_nhat: lab coach giúp t
+Q7_muon_doi: có 1 trợ lý để giải đáp thắc mắc
+
+===== Người 14 =====
+Q1: có
+Q2_muon_biet: hỏi nhận thẻ sinh viên
+Q3_cach_tim: vẫn chưa dược câu trả lời, các lab không trả lời đc
+Q4_so_lan: nhiều
+Q5_anh_huong: không ảnh hưởng
+Q5b_dieu_gi_xay_ra: Tôi không nhận được câu trả lời
+Q6_giup_nhieu_nhat: không biết
+Q7_muon_doi: có thể nắm những thông báo cần thiết
+
+===== Người 15 =====
+Q1: Có
+Q2_muon_biet: Mong muốn tìm được thông tin về nhóm chọn dự án
+Q3_cach_tim: Tìm và đọc mô tả thông tin về nhóm, mất thời gian trong việc chọn nhóm có background phù hợp với mình
+Q4_so_lan: 2
+Q5_anh_huong: Chưa tìm được nhóm phù hợp
+Q5b_dieu_gi_xay_ra: Tôi phải đọc nhiều tin nhắn mới tìm được thông tin * Tôi phải hỏi lại người khác / TA / Mod
+Q6_giup_nhieu_nhat: Hỏi chatbot trong discord
+Q7_muon_doi: Chưa biết
+
+===== Người 16 =====
+Q1: Có
+Q2_muon_biet: Tìm thông tin về cách kiểm tra ai log đã hoạt động chưa. Không tìm được phương án giải quyết.
+Q3_cach_tim: Tag trợ lý kute để hỏi. Không lâu nhưng không có kết quả. Không biết phải làm gì tiếp.
+Q4_so_lan: 2
+Q5_anh_huong: Vẫn chưa biết đã activate được ai log cho đội của mình hay chưa.
+Q5b_dieu_gi_xay_ra: Nhận được câu trả lời nhưng làm theo hết rồi vẫn không có kết quả.
+Q6_giup_nhieu_nhat: Dùng ô search để tìm câu hỏi tương tự.
+Q7_muon_doi: Muốn được hỗ trợ với hướng dẫn chính xác, trả lời được thắc mắc.
+
+===== Người 17 =====
+Q1: Xp, standup
+Q2_muon_biet: Kết quả thật nhanh và ngắn gọn
+Q3_cach_tim: Hỏi chat bot kute, câu trả lời khá ổn
+Q4_so_lan: Trên 5 lần
+Q5_anh_huong: Không ảnh hưởng nhiều
+Q5b_dieu_gi_xay_ra: Tôi phải xem lại nhiều lần mới hiểu
+Q6_giup_nhieu_nhat: Bot kute tiện
+Q7_muon_doi: Trả lời hết các câu hỏi về quy định, nhiều câu phải hỏi coach
+
+===== Người 18 =====
+Q1: có
+Q2_muon_biet: cách xin nghỉ
+Q3_cach_tim: chatbot đã trả lời. không. có
+Q4_so_lan: 1
+Q5_anh_huong: không ảnh hưởng
+Q5b_dieu_gi_xay_ra: * Tôi nhận được câu trả lời nhanh và đủ tin cậy
+Q6_giup_nhieu_nhat: Chatbot
+Q7_muon_doi: Private chat
+
+===== Người 19 =====
+Q1: Có
+Q2_muon_biet: Muốn biết cách làm daily standup. Mong nhận kết quả cú pháp lệnh đầy đủ, nhanh
+Q3_cach_tim: Hỏi trợ lý kute, nó trả lời hơi dài dòng nhưng trong đó có câu trả lời
+Q4_so_lan: 1 lần
+Q5_anh_huong: Tôi bị nộp muộn daily standup lần đầu, nhưng sau đó quen rồi thì không bị nữa
+Q5b_dieu_gi_xay_ra: Tôi phải đọc nhiều tin nhắn mới tìm được thông tin
+Q6_giup_nhieu_nhat: Đồng đội trong team :)
+Q7_muon_doi: Bot thông minh hơn
+
+===== Người 20 =====
+Q1: Có. Tôi hay tìm thông báo chung
+Q2_muon_biet: Tôi muốn biết thông tin build phase
+Q3_cach_tim: Dạo qua các channel và cuộn chuột. Đôi lúc có đôi lúc không
+Q4_so_lan: Ngày nào cũng gặp
+Q5_anh_huong: Tốn thời gian
+Q5b_dieu_gi_xay_ra: Tôi phải đọc nhiều tin nhắn mới tìm được thông tin
+Q6_giup_nhieu_nhat: Thanh tìm kiếm
+Q7_muon_doi: Quá nhiều kênh dễ loạn. Cần sắp xếp hợp lý hơn
+
+===== Người 21 =====
+Q1: Có
+Q2_muon_biet: Tìm về xp, lịch học, deadline
+Q3_cach_tim: hỏi bot, tìm lại tin nhắn, bước tìm lại tin nhắn là mất thời gian nhất. Tỉ lệ nhận được câu trả lời là 75%
+Q4_so_lan: 4-6
+Q5_anh_huong: Nó làm tôi mất thời gian đi tìm thông tin mà không chắc chắn nó đúng
+Q5b_dieu_gi_xay_ra: Tôi phải đọc nhiều tin nhắn mới tìm được thông tin
+Q6_giup_nhieu_nhat: TÔi dùng phoenix
+Q7_muon_doi: có bot giúp tìm thông tin nhanh tróng
+
