@@ -54,7 +54,12 @@ Một học viên hỏi bot "Trợ lý" một câu logistics thường gặp (VD
 
 **AI tự làm:** phân loại intent (logistics / academic / chào hỏi / hỗn hợp) → tra cứu nguồn chính thức được cung cấp sẵn → quyết định trả lời ngắn gọn kèm trích nguồn, hoặc từ chối trả lời và chuyển TA nếu không tìm thấy nguồn/nguồn mâu thuẫn/câu hỏi mang tính cá nhân. Con người (TA) vẫn là người duy nhất xác nhận và cập nhật nguồn chính thức — bot không được tự tạo thông tin mới, đúng như 9 câu hỏi cá nhân và trường hợp Người 16 đã cho thấy hậu quả khi bot trả lời vượt quá phạm vi mình biết chắc.
 
-**Willing users:** ⚠️ **CHƯA CÓ** — file khảo sát vừa thu không có cột tên/liên hệ. Cần chốt ngay 2 tên trước 19:30 (xem hành động cần làm ở cuối file).
+**Willing users:
+Trần Anh Đăng 2A202602992
+Bùi Gia Huy 2A202602607
+Nguyễn Khánh Đô 2A202602687
+Mai Văn Trung 2A202602513
+Ngô Văn Giáp 2A202602644
 
 ---
 
@@ -66,7 +71,7 @@ Một học viên hỏi bot "Trợ lý" một câu logistics thường gặp (VD
 | Chốt 2 willing users (tên + liên hệ) | *Nguyen Minh Quan |
 | Viết prototype/system prompt cho bot B1 | *Dinh Bao Hung* |
 | Chuẩn bị hard tests (2 deadline mâu thuẫn, câu hỏi cá nhân, injection, câu hỏi hỗn hợp) | *Nguyen Thanh Nam* |
-| Điền form nộp CP1 + commit/push repo | Đội trưởng |
+| Điền form nộp CP1 + commit/push repo | Dinh Bao Hung |
 
 ---
 *Nguồn bằng chứng đầy đủ: `report_pain_points.md` (mining), `classified_messages.csv` (779 tin đã gắn nhãn), `khao_sat_tong_hop.md` (21 khảo sát), `survey_dump.txt` (log nguyên văn từng người).*
