@@ -1,0 +1,1033 @@
+msg_id,guild,channel,author,is_bot,msg_type,created_at_vn,reply_to,mentions_bot,n_attachments,n_chars,content,_intent_tags,_is_question
+M58687,K4-L2-3,channel_02,D3694,False,reply,2026-09-12 07:35,,False,0,53,Câu hỏi này để hôm ws chủ nhật trao đổi luon nhé [HV],uncertain,False
+M47011,K4-L2-3,channel_06,D8938,False,message,2026-09-12 09:39,,False,1,414,"@everyone
+
+Để BTC và các Lab Coach thuận tiện trong việc nhận diện, quản lý học viên và theo dõi điểm cộng, mọi người vui lòng đổi tên theo cú pháp:
+
+  Mã Nhóm - Họ và tên - 5 số cuối mã sinh viên
+
+Ví dụ: T001 - [HV]
+
+Mọi người kiểm tra và đổi lại tên giúp mình nhé. Việc thống nhất cách đặt tên sẽ giúp BTC và các Lab Coach dễ dàng theo dõi thông tin và ghi nhận điểm cộng của mọi người hơn.
+
+Cảm ơn mọi người! ❤️",logistics;academic;mixed,False
+M12505,K4-L2-3,channel_07,D8938,False,message,2026-09-12 09:40,,False,1,414,"@everyone
+
+Để BTC và các Lab Coach thuận tiện trong việc nhận diện, quản lý học viên và theo dõi điểm cộng, mọi người vui lòng đổi tên theo cú pháp:
+
+  Mã Nhóm - Họ và tên - 5 số cuối mã sinh viên
+
+Ví dụ: T001 - [HV]
+
+Mọi người kiểm tra và đổi lại tên giúp mình nhé. Việc thống nhất cách đặt tên sẽ giúp BTC và các Lab Coach dễ dàng theo dõi thông tin và ghi nhận điểm cộng của mọi người hơn.
+
+Cảm ơn mọi người! ❤️",logistics;academic;mixed,False
+M03059,K4-L2-3,channel_02,D4964,False,message,2026-09-12 10:21,,False,0,74,Em đang cần hỗ trợ về vấn đề giấy tờ gấp thì em liên lạc đến bộ phận nào ạ,uncertain,False
+M81088,K4-L2-3,channel_02,D3694,False,reply,2026-09-12 10:22,M03059,False,0,25,"Viết mail cho trường nhé,",uncertain,False
+M84888,K4-L2-3,channel_02,D4964,False,reply,2026-09-12 10:24,M81088,False,0,30,Em mail đến địa chỉ nào được ạ,uncertain,False
+M80709,K4-L2-3,channel_02,D2443,False,message,2026-09-12 10:31,,False,0,30,AIthucchien@vinuni.edu.vn bn ạ,uncertain,False
+M55038,K4-L2-3,channel_02,D4964,False,reply,2026-09-12 10:36,M80709,False,0,14,Ok mình cảm ơn,greeting,False
+M63574,K4-L2-3,channel_02,D3082,False,message,2026-09-12 11:06,,False,0,120,"A ơi, cho e hỏi, buổi workshop chủ nhật ngày mai thì có tính vào số buổi nghỉ ko ạ? Giả dụ sáng mai e có việc thì sao ạ?",uncertain,True
+M43132,K4-L2-3,channel_02,D3694,False,reply,2026-09-12 11:08,M63574,False,0,170,Build phase sẽ không tính vào hoạt động học trên lớp các buổi nghỉ đâu nhé. Với lại nếu sắp xếp được thì nên tham gia buổi đầu tiên vì có thắc mắc gì có thể trao đỏi luôn,logistics,False
+M11917,K4-L2-3,channel_02,D3082,False,reply,2026-09-12 11:09,M43132,False,0,14,Dạ e cảm ơn ạ!,greeting,False
+M17083,K4-L2-3,channel_02,D3694,False,message,2026-09-12 11:09,,False,0,83,Không có câu hỏi thì lắng nghe các quy định và nội dung thôi. Đâu có bắt buột hỏi 😅,uncertain,False
+M49586,K4-L2-3,channel_02,D1224,False,reply,2026-09-12 11:09,M43132,False,0,46,"Kiểu em ko có câu hỏi nào hỏi , có ổn ko ạ :))",uncertain,False
+M85072,K4-L2-3,channel_02,D1224,False,reply,2026-09-12 11:10,M17083,False,0,12,ok anh zai 😅,greeting,False
+M69081,K4-L2-3,channel_02,D2313,False,message,2026-09-12 12:04,,False,0,23,có điểm danh ws không ạ,logistics,False
+M56857,K4-L2-3,channel_02,D7482,False,message,2026-09-12 12:39,,False,0,83,T3 tuần sau lecture sáng em có việc muốn xin vào trễ 30p thì gửi mail cho a [HV] ạ?,uncertain,True
+M73605,K4-L2-3,channel_02,D1253,False,message,2026-09-12 12:39,,False,0,127,"Anh ơi cho e hỏi chút ạ. Vì buổi sáng học 13h mới tan, mà chiều em có lịch bận nên em có thể xin tan sớm vào buổi sáng không ạ?",logistics,True
+M17046,K4-L2-3,channel_02,D7688,False,reply,2026-09-12 13:08,M56857,False,0,69,"vào trước 30p là được nhé, b liên hệ labcoach hôm đó để điểm danh sau",logistics;academic;mixed,False
+M75756,K4-L2-3,channel_02,D7688,False,reply,2026-09-12 13:08,M73605,False,0,37,bạn xin labcoach của buổi hôm đấy nha,academic,False
+M00318,K4-L2-3,channel_02,D1253,False,reply,2026-09-12 13:09,M75756,False,0,10,E cảm ơn ạ,greeting,False
+M61696,K4-L2-3,channel_02,D7482,False,reply,2026-09-12 13:14,M17046,False,0,14,ok mình cảm ơn,greeting,False
+M07888,K4-L2-3,channel_02,D9148,False,reply,2026-09-12 13:32,M58687,False,0,154,với cả lv 2 này em cũng muốn hỏi thêm là em muốn theo hướng cv for predictive maintenance được không thay vì chỉ có detect vật thể trong cabin hay tự hành,uncertain,False
+M34631,K4-L2-3,channel_02,D3694,False,reply,2026-09-12 13:54,M07888,False,0,106,Về task thì cũng sẽ nhiều task đa dạng về data. Cũng open cho innovative. Còn cụ thể hẹn sáng mai nhé [HV],uncertain,False
+M83711,K4-L2-3,channel_02,D1224,False,message,2026-09-12 13:55,,False,0,51,anh [@D3694]  cho e hỏi vlearn chưa up bài mới hả ?,uncertain,True
+M68891,K4-L2-3,channel_02,D3694,False,message,2026-09-12 14:16,,False,0,30,[@D7688]  cái này hỏi [HV] nhé,uncertain,False
+M81490,K4-L2-3,channel_02,D7688,False,reply,2026-09-12 14:19,M83711,False,0,79,"bạn hỏi labcoach tại phòng nhé, vì slide/bài học thì giảng viên từng buổi sẽ up",academic,False
+M96607,K4-L2-3,channel_02,D6604,False,reply,2026-09-12 17:11,M83711,False,0,25,bài mới buổi 2 up rồi nhé,uncertain,False
+M49744,K4-L2-3,channel_03,D9617,False,message,2026-09-12 18:02,,False,0,1238,"THÔNG BÁO HOÀN THIỆN CÁC BƯỚC ONBOARDING VÀO CHƯƠNG TRÌNH
+
+Chào mừng các bạn đã đến với Chương trình AI20K - Build Phase Cohort 4A. Để hoàn tất quá trình onboarding và bắt đầu chặng đường 6 tuần tới, BTC thông tin đến các bạn học viên hoàn thiện hồ sơ và lập đội bắt đầu thực chiến.
+
+Các bạn học viên đăng nhập vào nền tảng Phoenix bằng link mời dưới đây và **Tiếp tục với Github** cùng email đã đăng ký với chương trình.
+
+> Link tham gia chương trình (link cập nhật mới nhất):
+> https://phoenix.note.transformerlabs.ai/invite/qYw_GaXnbiPxczQy5cNkMEPNuRrlYjSy_rQgOeiLfRI
+
+**Hoàn thành đủ các bước:**
+1. Vào nền tảng bằng lời mời
+2. Xác minh danh tính
+3. Kết nối và xác minh Discord
+4. Hoàn tất hồ sơ năng lực
+5. Lập đội / tham gia đội
+
+🗓️ **Thời hạn hoàn thành và ghép đội tự do đến 21:00 13/9**
+Sau thời gian trên hệ thống sẽ tự động ghép đội ngẫu nhiên.
+
+*Lưu ý:* Trường hợp tài khoản Github đang liên kết với nhiều email, hãy cài đặt email đăng ký với chương trình thành `Primary` tại https://github.com/settings/emails trước khi truy cập vào link mời.
+
+Mọi vấn đề thắc mắc trong quá trình onboarding các bạn vui lòng tạo ticket để được hỗ trợ.
+> Cách thức tạo ticket: gõ command `/ticket create` tại kênh [link:discord.com]
+
+@everyone",logistics;academic;mixed,False
+M01844,K4-L2-3,channel_02,D2313,False,message,2026-09-12 18:07,,False,0,91,mới có thông báo lập team trên phoenix nhưng cho em hỏi là lv2 có cần phải lập team không ạ,logistics,True
+M79538,K4-L2-3,channel_02,D9617,False,reply,2026-09-12 18:07,M01844,False,0,32,Thông báo dành cho các bạn L2 đó,uncertain,False
+M15866,K4-L2-3,channel_02,D3694,False,reply,2026-09-12 18:09,M01844,False,0,80,Nhóm này là dành cho các bạn mờ tất nhiên là thông báo cho toàn bộ mọi người rồi,logistics,False
+M32482,K4-L2-3,channel_02,D3694,False,message,2026-09-12 18:10,,False,0,52,Kiếm đồng đội để cùng vượt qua 6 tuần Build nhéeeeee,uncertain,False
+M31002,K4-L2-3,channel_02,D3694,False,message,2026-09-12 18:18,,False,0,110,Các bạn lưu ý là vào lại đúng link mời mới theo thông báo nhé [link:discord.com] để hệ thống tự nhận diện nha.,logistics,False
+M11422,K4-L2-3,channel_02,D2313,False,message,2026-09-12 18:19,,False,0,221,dạ em vẫn chưa biết là lv2 có build và sẽ build cái gì có giống như lv3 để lập team cho hợp lý ấy ạ. Với ngày đầu tiên em nghe mấy anh giảng viên bảo là lv2 chỉ học 3 tuần rồi bắt đầu thực chiến tại doanh nghiệp luôn ấy ạ,logistics,False
+M41884,K4-L2-3,channel_02,D3694,False,reply,2026-09-12 18:21,M11422,False,0,115,Mình sẽ đi từng giai đoạn trước tiên là lập team và sẽ có hướng dẫn cũng như chia sẻ vào buổi wokshop ngày mai nhé.,logistics,False
+M12580,K4-L2-3,channel_02,D7870,False,message,2026-09-12 18:22,,False,0,65,Nhưng mà bọn e vẫn chưa vào đc phoenix thì lập nhóm như thế nào ạ,logistics,False
+M18708,K4-L2-3,channel_02,D3694,False,reply,2026-09-12 18:22,M12580,False,0,87,"Đọc lại thông tin nhé [HV], thông báo là hướng dẫn các bạn hoàn thành quy trình onboard",uncertain,False
+M66649,K4-L2-3,channel_02,D7870,False,reply,2026-09-12 18:22,M18708,False,0,9,Dạ vâng ạ,uncertain,False
+M81468,K4-L2-3,channel_02,D8884,False,message,2026-09-12 18:22,,False,0,14,vào đc rồi bạn,uncertain,False
+M14245,K4-L2-3,channel_02,D3694,False,message,2026-09-12 18:23,,False,0,50,Nhớ  bấm join bằng đúng link trong thông báo nhé .,logistics,False
+M35849,K4-L2-3,channel_02,D3694,False,message,2026-09-12 18:24,,False,0,78,Và hẹn các bạn sáng mai chúng ta sẽ có buổi Wokrshop kick-off đầu với BTC nhé.,greeting,False
+M23596,K4-L2-3,channel_02,D9148,False,message,2026-09-12 18:25,,False,0,80,theo em hiểu có deliverables bắt buộc là btc ra đề bài rồi các nhóm thực hiện ạ?,logistics,True
+M11898,K4-L2-3,channel_02,D3694,False,message,2026-09-12 18:30,,False,0,53,Cụ thể thì sáng mai các bạn nhớ tham gia workshop nhé,uncertain,False
+M23716,K4-L2-3,channel_02,D3694,False,reply,2026-09-12 18:30,M23596,False,0,474,"Đề bài sẽ do các bạn chọn nhé, Chúng ta cơ bản sẽ đi từ : Thực hành  / làm việc để nắm quy trình  -> Trong quá trình thực hành và làm việc các bạn cũng sẽ phát hiện các vấn đề  -> Đề xuất cải tiến quy trình  giúp tiết kiệm thời gian hơn, tăng độ chính xác hơn, giảm thao tác manual hơn ... cũng sẽ rất nhiều bài toán cho các bạn phát triển. Với tinh thần là làm với tâm thế của 1 AI engineer, 1 model engineer, 1 automation engineer,…. như thầy có chia sẻ hôm trước nha [HV]",uncertain,False
+M49963,K4-L2-3,channel_02,D3694,False,reply,2026-09-12 18:37,M23787,False,0,145,"Cái này mình lại không có thông tin hỗ trợ được [HV] nhé, do thuộc phạm vi trên trường rồi. [@D7688]  Nếu có thông tin nhờ em cho bạn suggest nhé",uncertain,False
+M37634,K4-L2-3,channel_02,D7688,False,reply,2026-09-12 18:47,M23787,False,0,69,"gửi mail là được [HV] nhá, mail có trình bày lý do, bằng chứng đầy đủ",uncertain,False
+M83358,K4-L2-3,channel_02,D1224,False,message,2026-09-12 18:55,,False,0,37,cho mình hỏi một team bao nhiêu bạn ?,logistics,True
+M99769,K4-L2-3,channel_02,D1224,False,message,2026-09-12 18:57,,False,0,40,[@D7688]  cho mình hỏi một team mấy bạn?,logistics,True
+M36494,K4-L2-3,channel_02,D1224,False,reply,2026-09-12 19:01,M43101,False,0,13,ok cảm ơn bạn,greeting,False
+M43101,K4-L2-3,channel_02,D3694,False,reply,2026-09-12 19:01,M83358,False,0,58,"5 nhé , trên web vào sẽ thấy có 5 slot ở phần lập đôi thôi",uncertain,False
+M20982,K4-L2-3,channel_02,D2313,False,message,2026-09-12 19:07,,False,0,147,điền hồ sơ năng lực trên phoenix mà kỹ năng vừa ít vừa thành thạo không cao thì có sao không ạ. Có khả năng bị xem xét kết thúc đào tạo sớm không ạ,uncertain,False
+M09813,K4-L2-3,channel_02,D9148,False,message,2026-09-12 19:08,,False,0,30,còn lại prj đầu ra thế nào chứ,uncertain,False
+M47322,K4-L2-3,channel_02,D9148,False,message,2026-09-12 19:08,,False,0,26,cái này build nhóm thôi mà,logistics,False
+M65820,K4-L2-3,channel_02,D2313,False,message,2026-09-12 19:09,,False,0,35,dạ em cảm ơn anh [HV] đã giải đáp ạ,greeting,False
+M85321,K4-L2-3,channel_02,D3694,False,message,2026-09-12 19:09,,False,0,27,Không cần Over quá đâuu nha,uncertain,False
+M92726,K4-L2-3,channel_02,D3694,False,message,2026-09-12 19:09,,False,0,178,"Cái này chỉ là thông tin để các bạn muốn ghép team thì có thông tin để dễ match thôi nhé, sau đó BTC cũng sẽ dựa vào thông tin này để random cho phù hợp với các bạn chưa có team.",logistics,False
+M13014,K4-L2-3,channel_02,D1085,False,message,2026-09-12 19:16,,False,0,47,"Em hỏi với ạ, khác lớp lab có chung team đc k ạ",logistics;academic;mixed,False
+M38381,K4-L2-3,channel_02,D0842,False,message,2026-09-12 19:22,,False,0,28,thế khác level cũng được à a,uncertain,False
+M75621,K4-L2-3,channel_02,D7688,False,reply,2026-09-12 19:22,M13014,False,0,31,trong cùng khoá là được [HV] nè,uncertain,False
+M93314,K4-L2-3,channel_02,D1085,False,message,2026-09-12 19:22,,False,0,19,"Vâng ạ, em cảm ơn ạ",greeting,False
+M00554,K4-L2-3,channel_02,D0842,False,reply,2026-09-12 19:26,M75621,False,0,52,a ơi cho em hỏi là khác level có chung team được k ạ,logistics,True
+M26380,K4-L2-3,channel_02,D1224,False,reply,2026-09-12 19:26,M38381,False,0,17,không được mà cậu,uncertain,False
+M54957,K4-L2-3,channel_02,D9148,False,message,2026-09-12 19:26,,False,0,54,"lv2-3, mình có đăng trên phoenix và thread discord nhé",uncertain,False
+M83310,K4-L2-3,channel_02,D9148,False,message,2026-09-12 19:26,,False,0,40,team zero-one của mình đang tìm đồng đội,logistics_personal;logistics,False
+M37431,K4-L2-3,channel_02,D0842,False,reply,2026-09-12 19:27,M26380,False,0,73,thấy a ý bảo cùng khoá là được ý nên tôi hỏi lại cho chắc biết đâu có thể,uncertain,False
+M02964,K4-L2-3,channel_02,D7688,False,message,2026-09-12 19:28,,False,0,30,sip [HV] confirm e với nha ;-;,uncertain,False
+M11538,K4-L2-3,channel_02,D7688,False,message,2026-09-12 19:28,,False,0,19,chung level thôi nè,uncertain,False
+M23074,K4-L2-3,channel_02,D7688,False,reply,2026-09-12 19:28,M00554,False,0,7,ko nhaa,uncertain,False
+M31502,K4-L2-3,channel_02,D3694,False,message,2026-09-12 19:29,,False,0,15,Cùng 1 level ấy,uncertain,False
+M61093,K4-L2-3,channel_02,D0842,False,message,2026-09-12 19:29,,False,0,18,e cảm ơn các sếp ạ,greeting,False
+M30246,K4-L2-3,channel_02,D1253,False,reply,2026-09-12 19:51,M37634,False,0,103,"Tại e thấy trong sổ tay phải có xác nhận của giám đốc, nên là k biết e có phải chờ mail phản hồi k ạ???",uncertain,True
+M90166,K4-L2-3,channel_02,D3154,False,message,2026-09-12 20:41,,False,0,63,cho em hỏi level 2-3 build phase là bắt buộc hay optional vậy ạ,uncertain,False
+M13316,K4-L2-3,channel_02,D3694,False,reply,2026-09-12 21:32,M90166,False,0,107,bắt buột không phải option nhé. Các bạn vừa học trên trường vừa tham gia Build phase ban đêm với mentor nhé,uncertain,False
+M15562,K4-L2-3,channel_02,D0842,False,message,2026-09-12 21:32,,False,0,122,dạ cho em hỏi là e thấy level 2 nhiều bạn nontech thì liệu có được bắt tay giữa 2 team để làm 1 project hoàn chỉnh không ạ,logistics,True
+M40821,K4-L2-3,channel_02,D9148,False,message,2026-09-12 21:33,,False,0,18,hoặc kết hợp qa qc,uncertain,False
+M90319,K4-L2-3,channel_02,D9148,False,message,2026-09-12 21:33,,False,0,73,non-tech thì mình nghĩ nên bảo các bạn ấy vừa vibe code vừa đọc hiểu code,academic,False
+M45489,K4-L2-3,channel_02,D3694,False,reply,2026-09-12 21:34,M15562,False,0,391,"Các bạn có thể tìm cho mình những người đồng đội phụ hợp trong chương trình mà , mình chưa hiểu giữa 2 team này là phạm trù nào ? vì đã chia team thì các bạn sẽ work với team của mình ấy.  1 team đến 5 TV nên mình nghĩ các bạn nên chọn đa dạng để bổ sung cho nhau nhé. Với suy nghĩ cá nhân của mình thì với sự hỗ trợ của AI hiện tại non-tech hay không thì cũng không phải rào cản quá lớn đâu",logistics_personal;logistics,True
+M59772,K4-L2-3,channel_02,D9148,False,reply,2026-09-12 21:37,M45489,False,0,77,nếu discord không đủ chỗ thì nhóm em xin thêm new post trong thread được ko ạ,logistics,False
+M83398,K4-L2-3,channel_02,D3694,False,reply,2026-09-12 21:39,M59772,False,0,40,đủ chỗ ở đây hiểu như thế nào [HV] nhỉ ?,uncertain,True
+M24607,K4-L2-3,channel_02,D9148,False,message,2026-09-12 21:40,,False,0,63,ý là sau khi làm project thì khối lượng tin nhắn nhiều lên ấy ạ,greeting,False
+M79405,K4-L2-3,channel_02,D3694,False,reply,2026-09-12 21:40,M24607,False,0,108,"Trong discord sau khi các bạn tạo team sẽ có 1 thread cho các bạn ấy, các bạn muốn mở thêm có thể ping admin",logistics,False
+M42075,K4-L2-3,channel_02,D1224,False,reply,2026-09-12 21:43,M57505,False,0,11,1.5h-2h bro,uncertain,False
+M57505,K4-L2-3,channel_02,D3292,False,message,2026-09-12 21:43,,False,0,123,Cho em hỏi workshop ngày mai thời lượng diễn ra trong bao lâu vậy ạ? Em muốn biết để tiện sắp xếp một số công việc cá nhân.,uncertain,True
+M62614,K4-L2-3,channel_02,D9463,False,reply,2026-09-12 21:47,M13316,False,0,45,build trong 15 ngày hay cả sang phase 2 nữa ạ,uncertain,False
+M95970,K4-L2-3,channel_02,D9148,False,reply,2026-09-12 21:48,M62614,False,0,10,6 tuần bro,uncertain,False
+M14305,K4-L2-3,channel_02,D6134,False,message,2026-09-12 21:50,,False,1,54,Cho hỏi đạo hữu này là ai thí!!! đọc buồn cười quá =]],uncertain,True
+M12763,K4-L2-3,channel_02,D9463,False,reply,2026-09-12 21:51,M95970,False,0,95,tôi tưởng level 2 ko có build phase mà vào ojt vf luôn hay mới thêm build phase cho level 2 thế,uncertain,False
+M16545,K4-L2-3,channel_02,D9148,False,message,2026-09-12 21:52,,False,0,3,=)),uncertain,False
+M53038,K4-L2-3,channel_02,D9148,False,message,2026-09-12 21:52,,False,0,39,hôm nay cái channel [#channel] mới nháy,uncertain,False
+M67317,K4-L2-3,channel_02,D3389,False,message,2026-09-12 21:54,,False,0,37,2b vs 2a vẫn join chung được luôn ạ ?,uncertain,True
+M89580,K4-L2-3,channel_02,D9148,False,message,2026-09-12 21:54,,False,0,57,same level với same khóa vẫn join được đúng ko ạ [@D3694],uncertain,False
+M67785,K4-L2-3,channel_02,D3389,False,reply,2026-09-12 21:55,M89580,False,0,58,ông thấy team mình có nhiều người trùng bg quá ko ông :))),logistics,False
+M07458,K4-L2-3,channel_02,D9148,False,message,2026-09-12 21:56,,False,0,36,5 ông bg tech cũng có cái hay cái dở,uncertain,False
+M81573,K4-L2-3,channel_02,D9148,False,message,2026-09-12 21:56,,False,0,27,trùng thì phân role ra thôi,uncertain,False
+M87025,K4-L2-3,channel_02,D9148,False,message,2026-09-12 21:56,,False,0,3,:)),uncertain,False
+M00269,K4-L2-3,channel_02,D3154,False,message,2026-09-12 22:21,,False,0,53,"6 tuần à, mình thấy ngày 15 là đã qua bên VinFast rồi",uncertain,False
+M52024,K4-L2-3,channel_02,D3694,False,reply,2026-09-12 22:21,M62614,False,0,10,6 tuần nhé,uncertain,False
+M54235,K4-L2-3,channel_02,D3154,False,message,2026-09-12 22:21,,False,0,61,nghĩa là vừa làm bên VinFast tối vẫn build phase đúng không ạ,uncertain,False
+M52002,K4-L2-3,channel_02,D3694,False,reply,2026-09-12 22:22,M12763,False,0,38,"Vẫn Build nhé , Buld mạnh là đằng khác",uncertain,False
+M99639,K4-L2-3,channel_02,D3154,False,message,2026-09-12 22:22,,False,0,79,Anh [HV] có thể chia sẻ thêm cho tụi em về những yêu cầu gì cho level 2 không ạ,uncertain,False
+M24912,K4-L2-3,channel_02,D3694,False,reply,2026-09-12 22:23,M89580,False,0,137,"Đúng rồi , L2-L3 cohort này đều có thể ghép team chung với nhau  nhưng nên ưu tiên ghép chung lớp học gì trên trường ấy cho dễ ngồi chung",logistics,False
+M50728,K4-L2-3,channel_02,D3694,False,reply,2026-09-12 22:23,M99639,False,0,207,"Mai có thầy thì sẽ chi tiết và rõ hơn nhé [HV], nên nghe các thông tin chính thống thì mới xác thực được nhé. như mình chỉ phụ trách build phase thì các thông tin của mình chỉ giới hạn trong phạm vi này thôi",logistics_personal;greeting,False
+M48056,K4-L2-3,channel_02,D3694,False,message,2026-09-12 22:26,,False,0,298,"Mình cung hiểu là các bạn cũng nhiều câu hỏi và thắc mắc vì dù sao cũng chưa có tiền bối đi trước để tham khảo , mai các bạn có thể đặt câu hỏi với thầy và BTC để được giải đáp nè, nhưng theo cá nhân mình thì rủi ro đi kèm với cơ hội nhé. Cái nào mà nó rõ ràng và an toàn quá thì cũng ít cơ hội hơn",uncertain,False
+M74479,K4-L2-3,channel_02,D3694,False,reply,2026-09-12 22:34,M07458,False,0,86,Làm nhóm cũng nhiều cái vui và đút kết kinh nghiệm. Có nhiều team cũng tan rã nhanh đó,logistics,False
+M73509,K4-L2-3,channel_02,D2407,False,reply,2026-09-12 22:36,M74479,False,0,50,a ơi nếu trong nhóm có 1 hay 2 người out thì sao ạ,logistics,False
+M29762,K4-L2-3,channel_02,D3694,False,reply,2026-09-12 22:37,M73509,False,0,165,"Case này tụi mình cũng gặp nhiều rồi , nếu còn bạn nào cần ghép thì tụi mình ghép bổ sung vào còn không thì cứ đúng giờ xe chạy thôi, dù cho xe có đủ hay thiếu người",uncertain,False
+M60248,K4-L2-3,channel_02,D2407,False,message,2026-09-12 22:38,,False,0,35,có trường hợp nào solo leveling k a,uncertain,False
+M64792,K4-L2-3,channel_02,D3694,False,reply,2026-09-12 22:38,M60248,False,0,37,Từ khoá 2 trở đi là hầu như không có.,uncertain,False
+M36353,K4-L2-3,channel_02,D9148,False,reply,2026-09-12 22:41,M74479,False,0,33,em sợ đứt scope giữa đường thôi ạ,uncertain,False
+M99053,K4-L2-3,channel_02,D3694,False,reply,2026-09-12 22:45,M36353,False,0,173,"Vậy thì muốn thắng trận này, đồng đội là yếu tố cần chọn lựa đấy. Phải hợp tính cách mới dễ làm việc, trong case không hợp tính cách thì sẽ cần minh bạch rõ ràng ngay từ đầu",uncertain,False
+M65466,K4-L2-3,channel_02,D2407,False,reply,2026-09-12 22:46,M99053,False,0,80,có thể lùi lại thời gian chốt team k a tại e thấy có 1 buổi tiếp xúc là hơi ít ạ,logistics,False
+M54778,K4-L2-3,channel_02,D6569,False,message,2026-09-12 22:47,,False,0,155,em tò mò 1 chút là với những team chưa đủ người thì hệ thống bên phoenix qua thời gian 21h có tự xếp các bạn chưa có nhóm vào nhóm đang thiếu người không ạ,logistics,False
+M82848,K4-L2-3,channel_02,D3694,False,reply,2026-09-12 22:50,M65466,False,0,38,Mai các bạn có thể raise luôn nhé [HV],uncertain,False
+M89395,K4-L2-3,channel_02,D3694,False,reply,2026-09-12 22:51,M54778,False,0,66,"Hệ thống sẽ xép chứ, tất cả đều phải có team thì mới work được nha",logistics,False
+M81676,K4-L2-3,channel_02,D6569,False,message,2026-09-12 22:52,,False,0,84,à ý em là hệ thống ghép các bạn đó vào team đang thiếu luôn hay ghép 1 team mới ấy ạ,logistics,False
+M74381,K4-L2-3,channel_02,D3694,False,message,2026-09-12 22:53,,False,0,75,Sẽ ghép đủ 5 thành viên / 1 team nhé nó sẽ fill cho đến team cuối cùng thôi,logistics,False
+M55809,K4-L2-3,channel_08,D3694,False,message,2026-09-12 23:00,,False,0,160,"Mình tạo topic này mong muốn các bạn chia sẻ các issuse gặp phải trong quá trình cài đặt phần mềm để học , giúp các bạn bị lỗi tương tự có thể co cách fix nhanh",academic,False
+M51326,K4-L2-3,channel_08,D7105,False,message,2026-09-12 23:14,,False,2,39,em chạy tới bước 3 thì bị lỗi như này ạ,academic,False
+M48859,K4-L2-3,channel_02,D1253,False,reply,2026-09-12 23:15,M37634,False,0,109,"A ơi, Tại e thấy trong sổ tay phải có xác nhận của giám đốc, nên là k biết e có phải chờ mail phản hồi k ạ???",uncertain,True
+M84662,K4-L2-3,channel_02,D9288,False,message,2026-09-12 23:15,,False,0,60,Ac labcoach hỗ trợ em với cái phoenix của em mãi k vào đc ấy,academic,False
+M00553,K4-L2-3,channel_02,D3389,False,message,2026-09-12 23:16,,False,0,85,"cho em hỏi tuần thứ 4 mình ojt, build 6 tuần vậy vừa obj fulltime vừa build phải ko ạ",uncertain,False
+M54372,K4-L2-3,channel_02,D9288,False,message,2026-09-12 23:16,,False,0,57,Dù em đki đúng mail nhưng vẫn báo k trùng mail đki vs btc,uncertain,False
+M78683,K4-L2-3,channel_02,D0485,False,reply,2026-09-12 23:16,M84662,False,0,17,bạn tạo ticket ấy,logistics,False
+M28576,K4-L2-3,channel_02,D9617,False,reply,2026-09-12 23:19,M54372,False,0,64,vào đúng link trong thông báo nhé không phải link trong mail nha,logistics,False
+M25574,K4-L2-3,channel_02,D9617,False,reply,2026-09-12 23:20,M71126,False,0,68,Ở đây nhé kênh thông báo quan trọng sẽ ở kênh này [link:discord.com],logistics,False
+M71126,K4-L2-3,channel_02,D9288,False,reply,2026-09-12 23:20,M28576,False,0,23,Cái thông báo nào vậy ạ,uncertain,False
+M78667,K4-L2-3,channel_02,D3694,False,reply,2026-09-12 23:23,M00553,False,0,21,Mai hỏi luôn nhé [HV],uncertain,False
+M64132,K4-L2-3,channel_02,D9288,False,reply,2026-09-12 23:30,M25574,False,0,22,Em zô đc r tks sốp nha,uncertain,False
+M19124,K4-L2-3,channel_02,D9616,False,reply,2026-09-13 00:25,M78667,False,0,47,a ơi sao deadline ghép đội tự do end sớm vậy a?,logistics,True
+M04816,K4-L2-3,channel_02,D3694,False,reply,2026-09-13 08:32,M19124,False,0,141,Time thì cũng sẽ limit không quá dài để theo đúng plan chương trình nè. Các bạn chưa tìm đc đồng đội BTC cũng hỗ trợ ghép nhé nên yên tâm nha,uncertain,False
+M30080,K4-L2-3,channel_02,D3694,False,reply,2026-09-13 08:34,M15629,False,0,13,help [@D7593],uncertain,False
+M32014,K4-L2-3,channel_02,D3694,False,message,2026-09-13 08:35,,False,0,67,Fact : Mình chỉ mới đến VinUni 1-2 lần à nên cũng mù các địa điểm 🥹,uncertain,False
+M56285,K4-L2-3,channel_02,D1224,False,message,2026-09-13 08:35,,False,0,77,cũng muốn các anh labcoach dẫn đi tham quan khắp trường VinUni một lần hahaha,academic,False
+M31445,K4-L2-3,channel_03,D3694,False,reply,2026-09-13 08:58,,False,0,59,"Các bạn đừng quên Lịch sáng nay nhé, zoom đã mở nha [@role]",logistics,False
+M16982,K4-L2-3,channel_03,D4888,False,reply,2026-09-13 08:59,,False,0,175,"Các bạn vào để chúng ta bắt đầu đúng giò cho workshop đầu tiên. Hôm nay Q&A để các em clear về chương trình nhé. [@role] 
+[link:zoom.us]
+
+Meeting ID: [ID]
+Passcode: [PASSCODE]",logistics;academic;mixed,False
+M66492,K4-L2-3,channel_08,D7688,False,message,2026-09-13 10:08,,False,0,11,CC [@D6587],uncertain,False
+M12802,K4-L2-3,channel_08,D6587,False,reply,2026-09-13 10:26,M51326,False,0,278,"chào bạn Ngay sau docker compose up -d, OPA chưa lấy được policy bundle từ cvat-server, nên health check báo:
+500 ... http://opa:8181/health?bundles
+Sau khoảng một phút, CVAT server hoàn tất migration; OPA tải bundle thành công và lần health check tiếp theo báo toàn bộ working.",greeting,True
+M29806,K4-L2-3,channel_08,D6587,False,message,2026-09-13 10:26,,False,0,111,"bạn cần gõ lệnh sau 
+
+cd ~/Projects/cvat-day2
+sleep 45
+docker exec -t cvat_server python manage.py health_check",uncertain,False
+M62112,K4-L2-3,channel_08,D6587,False,message,2026-09-13 10:26,,False,0,90,"Nếu vẫn lỗi, chờ thêm 30 giây rồi chạy lại. Chỉ tạo tài khoản khi tất cả dòng đều working.",academic,False
+M17439,K4-L2-3,channel_08,D6587,False,message,2026-09-13 10:27,,False,0,82,hình bản của bạn là ver cũ tag chuẩn CVAT v2.74.1 dùng openpolicyagent/opa:1.12.2.,uncertain,False
+M17696,K4-L2-3,channel_08,D6587,False,message,2026-09-13 10:27,,False,0,23,gửi output cho mình nhé,uncertain,False
+M35840,K4-L2-3,channel_08,D6587,False,message,2026-09-13 10:27,,False,0,73,openpolicyagent/opa:1.12.2. -> đây mới là bản chuẩn dùng cho chương trình,uncertain,False
+M57970,K4-L2-3,channel_08,D6587,False,message,2026-09-13 10:27,,False,0,66,"bạn chạy như sau 
+grep -n 'openpolicyagent/opa' docker-compose.yml",uncertain,False
+M03651,K4-L2-3,channel_08,D7105,False,message,2026-09-13 10:33,,False,1,30,Dạ như này là đc rồi đúng kh ạ,uncertain,False
+M47384,K4-L2-3,channel_08,D7105,False,message,2026-09-13 10:33,,False,0,14,Dạ em cảm ơn ạ,greeting,False
+M30224,K4-L2-3,channel_08,D6587,False,reply,2026-09-13 10:35,M03651,False,0,178,"ok rồi em nhé, giờ em chạy lệnh dưới đây, Sau đó mở http://localhost:8080 trên Chrome để đăng nhập nhé
+ docker exec -it cvat_server bash -ic 'python3 ~/manage.py createsuperuser'",greeting,False
+M22784,K4-L2-3,channel_08,D7105,False,message,2026-09-13 10:36,,False,0,22,"Dạ vâng ạ, em cảm ơn a",greeting,False
+M58152,K4-L2-3,channel_06,D8938,False,reply,2026-09-13 10:55,M39520,False,0,28,bạn báo lại với anh [HV] nhé,uncertain,False
+M27103,K4-L2-3,channel_02,D3694,False,message,2026-09-13 11:00,,False,0,8,Được nhé,uncertain,False
+M65925,K4-L2-3,channel_02,D1224,False,message,2026-09-13 11:00,,False,0,49,a [@D3694] ơi e có việc  bận em out trước được ko,uncertain,False
+M17184,K4-L2-3,channel_02,D1224,False,reply,2026-09-13 11:01,M27103,False,0,43,"Phoenix e vào đc rồi á , chờ ghép team thôi",logistics,False
+M99185,K4-L2-3,channel_06,D7306,False,reply,2026-09-13 11:02,M58152,False,0,44,dạ anh cho em xin liên hệ của anh [HV] với ạ,uncertain,False
+M02180,K4-L2-3,channel_06,D8938,False,message,2026-09-13 11:09,,False,0,42,[@user] anh ơi support hộ em bạn này với ạ,uncertain,False
+M18908,K4-L2-3,channel_06,D8938,False,reply,2026-09-13 11:10,M99185,False,0,54,mình tag anh [HV] vào đây rồi nhé có gì bạn hỏi anh ấy,uncertain,False
+M16114,K4-L2-3,channel_05,D8938,False,message,2026-09-13 11:21,,False,0,303,"@everyone  mn ơi, ngày mai bài lab sẽ cần sử dụng đến CVAT nhé.
+
+Bạn nào hiện tại chưa cài được CVAT hoặc đang gặp vấn đề trong quá trình cài đặt/sử dụng thì có thể nhắn tin cho bọn mình để được hỗ trợ nhé. Mọi người tranh thủ kiểm tra và cài đặt trước để ngày mai có thể làm bài lab thuận lợi nhất nha!",academic,False
+M21623,K4-L2-3,channel_02,D2313,False,message,2026-09-13 11:22,,False,0,22,mình điểm danh ws ko ạ,logistics,False
+M33885,K4-L2-3,channel_02,D3923,False,message,2026-09-13 11:23,,False,0,41,vào mà cứ bị out ra thì phải làm sao ạ :v,uncertain,False
+M19404,K4-L2-3,channel_02,D0485,False,message,2026-09-13 11:25,,False,0,58,mình thấy thầy bảo điểm danh auto nếu đặt đúng cú pháp tên,logistics,False
+M74716,K4-L2-3,channel_02,D6569,False,message,2026-09-13 11:25,,False,0,99,cho e hỏi mai học lab CVAT thì dữ liệu để gán nhãn được bên chương trình cấp hay bọn e tự tìm thế ạ,academic,False
+M91265,K4-L2-3,channel_02,D2012,False,reply,2026-09-13 11:26,M74716,False,0,49,"Ảnh để gán nhãn, ngày mai các bạn sẽ được cấp nhé",uncertain,False
+M97517,K4-L2-3,channel_05,D8938,False,message,2026-09-13 11:27,,False,0,78,mn có thể qua đây để xem chia sẻ kinh nghiệp setup CVAT nhé [link:discord.com],logistics,False
+M40002,K4-L2-3,channel_02,D0842,False,message,2026-09-13 11:28,,False,0,69,Cho em hỏi CVAT build phase là bên BTC host server riêng đúng không ạ,uncertain,False
+M18676,K4-L2-3,channel_02,D2407,False,message,2026-09-13 11:29,,False,0,21,có điểm danh hả mn :v,logistics,False
+M60614,K4-L2-3,channel_02,D2012,False,reply,2026-09-13 11:29,M40002,False,0,64,Chi tiết hướng dẫn cài CVAT đã được gửi trong [#channel] nha bạn,greeting,False
+M10804,K4-L2-3,channel_02,D9148,False,message,2026-09-13 11:43,,False,0,10,không lmao,uncertain,False
+M06137,K4-L2-3,channel_02,D9148,False,message,2026-09-13 11:44,,False,0,47,quan trọng là cái timeline để build và học thôi,uncertain,False
+M50070,K4-L2-3,channel_02,D3154,False,message,2026-09-13 11:46,,False,0,29,thấy nó nhắc thông báo hú hồn,uncertain,False
+M60122,K4-L2-3,channel_02,D3154,False,message,2026-09-13 11:46,,False,0,65,"cho mình hỏi cái daily-standup này làm ở đâu vậy nhỉ, làm thế nào",logistics,False
+M73161,K4-L2-3,channel_06,D7306,False,reply,2026-09-13 11:54,M18908,False,0,104,"dạ em xin lỗi anh, ngày mai em chưa về quê được do có 1 vài lý do, nên em vẫn xin phép học bình thường ạ",academic,False
+M94349,K4-L2-3,channel_02,D3292,False,message,2026-09-13 11:54,,False,0,79,[@D3694] anh ơi cho em hỏi các buổi workshop có thể xem lại record ở đâu vậy ạ?,logistics,True
+M33002,K4-L2-3,channel_02,D6134,False,message,2026-09-13 12:01,,False,0,48,Hạn tìm đồng đội đến bao giờ thế mọi người ơi!!!,logistics,False
+M80017,K4-L2-3,channel_02,D2012,False,reply,2026-09-13 12:20,M33002,False,0,28,Bạn xem trong [#channel] nha,uncertain,False
+M67980,K4-L2-3,channel_02,D7870,False,message,2026-09-13 12:41,,False,0,147,"Hôm điền form thông tin thì e ko có xe nên đã chọn đi bus, nhưng nay e mới mượn được xe của bạn đi tạm thì phần thẻ ra vào phải xử lý như thế nào ạ",logistics,False
+M10991,K4-L2-3,channel_02,D2407,False,message,2026-09-13 12:45,,False,0,32,cho e xin slide của  thầy [HV] ạ,uncertain,False
+M32239,K4-L2-3,channel_02,D3694,False,reply,2026-09-13 12:53,M94349,False,0,68,"Kênh tài nguyên nhé, tụi mình đang chờ hệ thống xử lý rồi sẽ gửi lên",uncertain,False
+M24139,K4-L2-3,channel_02,D1409,False,message,2026-09-13 14:35,,False,0,42,Cho em xin Sổ Tay Học Viên lv 2 lúc sáng ạ,uncertain,False
+M82237,K4-L2-3,channel_04,D9617,False,message,2026-09-13 14:47,,False,0,133,"Recording WS01: Kick off
+[link:zoom.us] 
+Passcode: [PASSCODE]
+
+Lưu ý: Tài liệu lưu hành nội bộ chương trình AI20K Build Phase
+[@role]",logistics;academic;mixed,False
+M44947,K4-L2-3,channel_08,D5459,False,message,2026-09-13 14:48,,False,1,53,cho em hỏi là em bị lỗi ở bước này thì phải làm sao ạ,academic,True
+M76498,K4-L2-3,channel_04,D9617,False,message,2026-09-13 15:30,,False,0,171,"Sổ tay học viên 
+https://drive.google.com/file/d/1MQOrnDojpzo1wAqXNgFkbTGMUPnd3RCm/view?usp=sharing
+
+Lưu ý: Tài liệu lưu hành nội bộ chương trình AI20K Build Phase
+[@role]",uncertain,True
+M82650,K4-L2-3,channel_02,D3694,False,reply,2026-09-13 15:57,M24139,False,0,31,[link:discord.com] đây nhé [HV],logistics,False
+M45903,K4-L2-3,channel_02,D7619,False,message,2026-09-13 16:07,,False,0,43,cho em hỏi là bao giờ có thẻ học viên vậy ạ,logistics,True
+M46209,K4-L2-3,channel_02,D1224,False,reply,2026-09-13 16:08,M45903,False,0,29,có ngày khai giảng rồi mà bro,uncertain,False
+M88368,K4-L2-3,channel_02,D1377,False,message,2026-09-13 16:57,,False,0,133,Cho em hỏi là thành viên team 4-5 người. Nếu team đang sẵn 4 người rồi thì BTC sẽ giữ nguyên hay sẽ random thêm 1 bạn nữa cho đủ 5 ạ?,logistics,True
+M97423,K4-L2-3,channel_02,D3694,False,reply,2026-09-13 17:00,M88368,False,0,85,Tùy tình hình số người còn dư nhé nếu lẻ thì vẫn phải ghép vào các team còn thiếu nha,logistics,False
+M43428,K4-L2-3,channel_02,D1224,False,reply,2026-09-13 17:14,M88368,False,0,42,"mình mới nhắn tin, bạn reply giúp mình nhé",uncertain,False
+M94723,K4-L2-3,channel_08,D1224,False,reply,2026-09-13 17:34,M44947,False,0,103,"bạn chạy lệnh này rồi gửi output giúp mình để mình hỗ trợ thêm cái này mình cũng bị ""docker compose ps""",uncertain,False
+M28055,K4-L2-3,channel_08,D5459,False,reply,2026-09-13 17:35,M94723,False,0,48,"mình fix được lỗi rồi b ạ, mình cảm ơn nhiều nhe",academic,False
+M34167,K4-L2-3,channel_08,D1224,False,reply,2026-09-13 17:36,M28055,False,0,51,"ok cậu , chúc cậu học tốt trên hành trình sắp tới 😍",greeting,False
+M18985,K4-L2-3,channel_02,D8980,False,message,2026-09-13 18:44,,False,0,43,cho em hỏi làm sao để có role learner vậy ạ,uncertain,True
+M23919,K4-L2-3,channel_02,D9617,False,reply,2026-09-13 18:50,M18985,False,0,62,Bạn hoàn thành onboarding như thông báo nhé [link:discord.com],logistics,False
+M72798,K4-L2-3,channel_02,D1224,False,message,2026-09-13 19:23,,False,0,1,M,uncertain,False
+M23736,K4-L2-3,channel_02,D1409,False,message,2026-09-13 19:53,,False,0,40,rất mong chờ random thành viên sắp tới 😇,uncertain,False
+M47339,K4-L2-3,channel_02,D3694,False,reply,2026-09-13 20:13,M23736,False,0,45,này kiểu xé túi mù nhỉ cũng rất đáng mong chờ,uncertain,False
+M57545,K4-L2-3,channel_02,D2533,False,message,2026-09-13 20:29,,False,2,61,Dạ phoenix vẫn đang báo mail của em bị sai tài khoản github ạ,uncertain,False
+M53930,K4-L2-3,channel_02,D2533,False,message,2026-09-13 20:30,,False,0,39,Hiện tại em vẫn chưa vào được phoenix ạ,uncertain,False
+M97706,K4-L2-3,channel_02,D9617,False,reply,2026-09-13 20:35,M57545,False,0,68,[HV] đăng nhập bằng link mời từ thông báo BTC nhé [link:discord.com],logistics,False
+M27549,K4-L2-3,channel_02,D1224,False,message,2026-09-13 20:36,,False,0,22,hồi hộp chờ bóc túi mù,uncertain,False
+M75130,K4-L2-3,channel_02,D8980,False,reply,2026-09-13 20:36,M23919,False,0,66,em làm theo 5 bước trong thông báo rùi mà vẫn ko có role learner ạ,uncertain,False
+M14573,K4-L2-3,channel_02,D9617,False,reply,2026-09-13 20:37,M75130,False,0,93,[HV] kiểm tra hồ sơ cá nhân  trên Phoenix có đúng với Discord hiện tại trong server không nhé,uncertain,False
+M49710,K4-L2-3,channel_02,D6176,False,message,2026-09-13 20:42,,False,0,96,cho em hỏi e có gửi mail hỗ trợ bên AI thực chiến mà chưa thấy phản hồi thì e nhờ ai giúp được ạ,uncertain,False
+M05287,K4-L2-3,channel_02,D8980,False,reply,2026-09-13 20:43,M14573,False,0,96,"vẫn ko được ạ, cho em hỏi nếu em out group discord này, thì em bấm vào link có vào lại được ko ạ",logistics,False
+M23868,K4-L2-3,channel_02,D9617,False,reply,2026-09-13 20:44,M05287,False,0,233,"Hiện tại bạn đang liên kết với discord [ID] ([HV]), nếu tài khoản này không truy cập được thì [HV] vào Hồ sơ cá nhân > Tôi cần đổi tài khoản Discord để AD duyệt cấp role Learner trong server Discord cho tài khoản Discord hiện tại nhé",uncertain,False
+M77746,K4-L2-3,channel_02,D8980,False,reply,2026-09-13 20:45,M23868,False,0,5,rồi ạ,uncertain,False
+M14882,K4-L2-3,channel_02,D5793,False,message,2026-09-13 20:46,,False,0,120,[dorospin](https://cdn.discordapp.com/emojis/1511623856811413614.webp?size=48&animated=true&name=dorospin&lossless=true),uncertain,True
+M13573,K4-L2-3,channel_02,D9617,False,message,2026-09-13 21:03,,False,0,37,https://klipy.com/gifs/mr-bean-mrbean,uncertain,False
+M34676,K4-L2-3,channel_02,D9617,False,reply,2026-09-13 21:03,M27549,False,0,40,Hình ảnh [HV] đang chờ đợi đúng không :v,uncertain,False
+M93168,K4-L2-3,channel_02,D5793,False,message,2026-09-13 21:08,,False,0,91,https://cdn.discordapp.com/attachments/1208289988693991444/1540698547446489148/IMG_8880.gif,uncertain,False
+M80884,K4-L2-3,channel_02,D8914,False,message,2026-09-13 21:13,,False,0,29,[@D9617] rep tin nhắn e với ạ,uncertain,False
+M38839,K4-L2-3,channel_02,D9616,False,message,2026-09-13 21:14,,False,0,92,https://cdn.discordapp.com/attachments/1202082826690756648/1538583513224192070/HildeMood.gif,uncertain,False
+M40040,K4-L2-3,channel_02,D9616,False,message,2026-09-13 21:14,,False,0,32,không biết bao giờ mới gacha nhỉ,logistics,True
+M94339,K4-L2-3,channel_06,D2922,False,reply,2026-09-13 21:38,M00604,False,0,22,anh ghim lên kênh đi ạ,uncertain,False
+M30201,K4-L2-3,channel_02,D5566,False,message,2026-09-13 21:40,,False,0,72,Các anh chị ơi cho em hỏi điểm chuyên cần ở vin uni tính như thế nào ah?,uncertain,True
+M84013,K4-L2-3,channel_02,D7870,False,reply,2026-09-13 21:42,M67980,False,0,56,[@D9617] ad ơi trường hợp của em thì nên xử lý thế nào ạ,uncertain,False
+M19574,K4-L2-3,channel_02,D4964,False,reply,2026-09-13 21:43,M67980,False,0,35,[HV] chú bảo vệ viết vé vào th b oi,uncertain,False
+M29136,K4-L2-3,channel_02,D9617,False,reply,2026-09-13 21:43,M30201,False,0,84,"Sao chưa nhận role Learner nữa đó [HV], hoàn thành onboarding nhé [link:discord.com]",logistics,False
+M12345,K4-L2-3,channel_02,D4964,False,message,2026-09-13 21:44,,False,0,47,Còn bạn muốn đăng ký xe luôn thì liên hệ a [HV],uncertain,False
+M23126,K4-L2-3,channel_02,D9617,False,reply,2026-09-13 21:44,M12345,False,0,35,Cảm ơn [HV] đã trả lời giúp bạn nhé,greeting,False
+M21820,K4-L2-3,channel_02,D9148,False,message,2026-09-13 21:45,,False,0,66,btw admin cho em hỏi guidelines cho các nhóm là mai gửi ạ [@D9617],logistics,False
+M15951,K4-L2-3,channel_02,D7870,False,reply,2026-09-13 21:46,M19574,False,0,12,Cảm ơn b nhé,greeting,False
+M38833,K4-L2-3,channel_02,D3694,False,reply,2026-09-13 21:56,M21820,False,0,98,"đúng rồi nhé trước tiền done việc sắp team và thành lập team trước đã nha, mình sẽ đi từng bước nè",logistics,False
+M52725,K4-L2-3,channel_02,D5566,False,reply,2026-09-13 22:04,M29136,False,0,11,vâng ah anh,uncertain,False
+M40118,K4-L2-3,channel_02,D5566,False,reply,2026-09-13 22:13,M12345,False,0,69,cho mình hỏi là mình phải tag tài khoản [HV] về chuyện đăng ký xe ah?,uncertain,True
+M21929,K4-L2-3,channel_02,D3694,False,reply,2026-09-13 22:46,M21820,False,0,100,"nãy mình đọc không kỹ, hình thức mai mình sẽ thông báo đến các bạn khi đã done hết việc sắp team nha",logistics,False
+M56638,K4-L2-3,channel_02,D9617,False,reply,2026-09-13 22:47,M67405,False,0,48,Các bạn đã về chung 1 đội nhé [link:discord.com],logistics,False
+M67405,K4-L2-3,channel_02,D2577,False,message,2026-09-13 22:47,,False,0,74,[@D3694]  em muốn lập đội riêng cùng với 1 bạn  [HV] thì tạo đội như nào ạ,uncertain,False
+M71396,K4-L2-3,channel_02,D9148,False,reply,2026-09-13 22:47,M21929,False,0,20,vâng thế cũng được ạ,uncertain,False
+M07901,K4-L2-3,channel_08,D5159,False,message,2026-09-13 22:49,,False,0,67,"Hi, mình vẫn chưa cài được CVAT. Có bạn nào hỗ trợ được mình không?",uncertain,True
+M21864,K4-L2-3,channel_08,D2012,False,reply,2026-09-13 22:54,M07901,False,0,26,Bạn đang mắc ở chỗ nào nhỉ,uncertain,False
+M53942,K4-L2-3,channel_08,D5159,False,message,2026-09-13 22:56,,False,0,18,Mình đang ở bước 2,uncertain,False
+M30675,K4-L2-3,channel_08,D2012,False,message,2026-09-13 22:59,,False,0,82,git clone --depth 1 --branch v2.74.1 https://github.com/cvat-ai/cvat.git cvat-day2,uncertain,False
+M66302,K4-L2-3,channel_08,D2012,False,message,2026-09-13 22:59,,False,0,66,"Bạn thử chạy giúp mình lệnh này nhé, vẫn trong cửa sổ bạn vừa chụp",uncertain,False
+M47681,K4-L2-3,channel_08,D5159,False,message,2026-09-13 23:01,,False,0,10,Đây bạn ạ:,uncertain,False
+M41033,K4-L2-3,channel_08,D2012,False,message,2026-09-13 23:04,,False,0,68,"Bạn chạy tiếp lệnh này:
+cd cvat-day2
+
+Sau đó là:
+docker compose pull",uncertain,False
+M71241,K4-L2-3,channel_02,D9148,False,message,2026-09-13 23:05,,False,0,127,[@D3694] anh ơi cái repo này là template đúng không ạ https://github.com/AI20K-Build-Phase-Cohort-4A/P-004/blob/main/README.md?,uncertain,True
+M82505,K4-L2-3,channel_08,D5159,False,message,2026-09-13 23:05,,False,0,23,Mình chạy cả 2 lệnh rồi,uncertain,False
+M10708,K4-L2-3,channel_02,D0842,False,message,2026-09-13 23:07,,False,0,118,"bro đọc lại hướng dẫn sử dụng đi, tạo team là có lời mời từ bot vào org đấy chứ không phải tạo riêng từ github cá nhân",logistics,False
+M18165,K4-L2-3,channel_08,D2012,False,message,2026-09-13 23:07,,False,0,27,Bạn mở Docker trên máy tính,uncertain,False
+M80794,K4-L2-3,channel_08,D2012,False,message,2026-09-13 23:07,,False,1,50,Bấm vào hình bánh răng (Setting) ở thanh phía trên,uncertain,False
+M42604,K4-L2-3,channel_08,D2012,False,message,2026-09-13 23:08,,False,1,31,Chọn Resources ở thanh bên trái,uncertain,False
+M48153,K4-L2-3,channel_08,D2012,False,message,2026-09-13 23:08,,False,0,40,Sau đó bấm nút Apply ở góc dưới bên trái,uncertain,False
+M50526,K4-L2-3,channel_08,D2012,False,message,2026-09-13 23:08,,False,1,36,"Rồi chọn WSL, gạt bật Ubuntu lên nhé",uncertain,False
+M23695,K4-L2-3,channel_08,D2012,False,message,2026-09-13 23:09,,False,0,54,"Bạn quay lại cửa sổ chạy lệnh rồi chạy:
+docker version",uncertain,False
+M41144,K4-L2-3,channel_08,D5159,False,message,2026-09-13 23:09,,False,0,16,Mình đã làm xong,uncertain,False
+M07679,K4-L2-3,channel_08,D2012,False,message,2026-09-13 23:10,,False,0,38,"Thì mình chạy lại 
+docker compose pull",uncertain,False
+M91845,K4-L2-3,channel_08,D2012,False,message,2026-09-13 23:10,,False,0,38,Nếu hiện đủ Client và Server là ok rồi,greeting,False
+M10716,K4-L2-3,channel_02,D9148,False,message,2026-09-13 23:11,,False,0,4,à ok,greeting,False
+M18746,K4-L2-3,channel_02,D9148,False,message,2026-09-13 23:11,,False,0,86,"[@D9617] check giúp em repo này đã đủ 5 thành viên chưa với ạ, có 1 bạn báo vào bị 404",uncertain,False
+M86664,K4-L2-3,channel_08,D5159,False,message,2026-09-13 23:11,,False,0,16,Mình chạy ra ntn,uncertain,False
+M90708,K4-L2-3,channel_02,D9148,False,message,2026-09-13 23:11,,False,0,53,https://github.com/AI20K-Build-Phase-Cohort-4A/P-004/,uncertain,False
+M50652,K4-L2-3,channel_02,D9617,False,reply,2026-09-13 23:12,M18746,False,0,54,[HV] bảo bạn kiểm tra lời mời xem có bị miss không nhé,uncertain,False
+M39872,K4-L2-3,channel_08,D2012,False,message,2026-09-13 23:13,,False,0,113,"Bạn chạy lần lượt từng lệnh nhé
+sudo usermod -aG docker $USER
+
+newgrp docker
+
+docker version
+
+docker compose pull",uncertain,False
+M17149,K4-L2-3,channel_08,D5159,False,message,2026-09-13 23:14,,False,0,16,Vẫn ra vậy bạn ạ,uncertain,False
+M21374,K4-L2-3,channel_08,D5159,False,message,2026-09-13 23:15,,False,0,21,phải install đúng ko?,uncertain,True
+M95672,K4-L2-3,channel_08,D5159,False,message,2026-09-13 23:17,,False,0,22,Vẫn không kết nối được,uncertain,False
+M94307,K4-L2-3,channel_08,D2012,False,message,2026-09-13 23:18,,False,0,78,"Bạn chạy thử
+sudo apt update && sudo apt install -y coreutils util-linux-extra",uncertain,False
+M50282,K4-L2-3,channel_02,D9148,False,reply,2026-09-13 23:23,M50652,False,0,8,được r ạ,uncertain,False
+M54305,K4-L2-3,channel_08,D2012,False,message,2026-09-13 23:23,,False,0,91,"Bạn chạy thử lại lần lượt 3 lệnh này nhé
+newgrp docker
+
+docker version
+
+docker compose pull",uncertain,False
+M99126,K4-L2-3,channel_08,D5159,False,message,2026-09-13 23:23,,False,0,41,"Có vẻ được đấy bạn, ra client, server rồi",uncertain,False
+M63361,K4-L2-3,channel_08,D2012,False,message,2026-09-13 23:24,,False,0,42,Bạn tiếp tục theo hướng dẫn trong file nha,uncertain,False
+M97172,K4-L2-3,channel_08,D5159,False,message,2026-09-13 23:27,,False,1,58,Mình gõ tiếp khối lệnh sau trong cửa sổ đó đúng không bạn?,uncertain,True
+M65681,K4-L2-3,channel_08,D2012,False,message,2026-09-13 23:29,,False,0,60,"Bạn vừa pull thành công rồi
+Giờ bạn chạy nốt lệnh thứ 4 thoi",uncertain,False
+M72648,K4-L2-3,channel_08,D2012,False,message,2026-09-13 23:34,,False,0,26,Cái OPA này nó hơi chậm tý,uncertain,False
+M76725,K4-L2-3,channel_08,D2012,False,message,2026-09-13 23:34,,False,0,51,Bạn chờ 1-2p rồi chạy lại lệnh health check thử nhé,uncertain,False
+M90204,K4-L2-3,channel_08,D5159,False,message,2026-09-13 23:39,,False,0,68,Mình đã chạy ổn và tạo được tài khoản rồi bạn nhé. Cảm ơn bạn nhiều!,greeting,False
+M56157,K4-L3-4,channel_10,D3108,False,message,2026-09-12 06:57,,True,0,61,[@BOT] mình hôm khai giảng chưa nhận thẻ học viên thì làm sao,uncertain,False
+M43912,K4-L3-4,channel_10,D7235,False,message,2026-09-12 07:02,,True,0,82,[@BOT]  chương trình học ở mỗi lớp học giống nhau hay khác nhau trong cùng 1 level,logistics,False
+M89035,K4-L3-4,channel_10,D2838,False,message,2026-09-12 07:29,,True,0,79,"[@BOT]  Bài lab1 tôi clone code, không fork thì bị tính là fail rồi đúng không?",academic,True
+M13974,K4-L3-4,channel_10,D3828,False,message,2026-09-12 07:30,,True,0,76,[@BOT]  cho  mình hỏi việc mình được điểm danh hay chưa có thể check ở đâu ạ,logistics,False
+M63736,K4-L3-4,channel_11,D3694,False,reply,2026-09-12 07:35,,False,0,8,[@D7688],uncertain,False
+M36047,K4-L3-4,channel_11,D7688,False,reply,2026-09-12 07:36,,False,0,97,mấy hôm đầu tụi mình sẽ nới dl để cho các bạn làm quen với chương trình nên không sao đâu [HV] nè,uncertain,False
+M03948,K4-L3-4,channel_10,D1431,False,message,2026-09-12 07:38,,False,0,70,khi tôi commit tại sao ko thấy lịch sử bên activity ở kênh discord này,logistics;academic;mixed,False
+M79611,K4-L3-4,channel_10,D1431,False,message,2026-09-12 07:39,,True,0,77,[@BOT] khi tôi commit tại sao ko thấy lịch sử bên activity ở kênh discord này,logistics;academic;mixed,False
+M01578,K4-L3-4,channel_10,D1431,False,message,2026-09-12 07:41,,True,0,49,[@BOT] main là link github của project của nhóm à,logistics,False
+M55571,K4-L3-4,channel_11,D5195,False,message,2026-09-12 08:16,,False,1,73,em có test thử nộp daily thì nó hiện như vậy là bình thường hay có lỗi ạa,academic,False
+M99906,K4-L3-4,channel_10,D1719,False,message,2026-09-12 08:16,,True,0,58,[@BOT] thẻ học viên không vào được trường thì phải làm sao,uncertain,False
+M22827,K4-L3-4,channel_11,D9617,False,reply,2026-09-12 08:28,M55571,False,0,72,"Bình thường nhé [HV], ngày bắt đầu ghi nhận XP daily standup là 14/9 nhé",logistics,False
+M03966,K4-L3-4,channel_11,D4704,False,message,2026-09-12 08:51,,False,0,182,Các anh chị cho em hỏi là thẻ học viên của em lúc vào trường thì bác bảo vệ bảo là chưa được kích hoạt và phải đi lối khác ạ. Anh chị cho em hỏi là như thế thì có vấn đề gì không ạ ?,uncertain,True
+M07726,K4-L3-4,channel_10,D7235,False,message,2026-09-12 08:54,,True,0,43,[@BOT] có tổng cộng bao nhiêu lớp level 3-4,logistics,False
+M09090,K4-L3-4,channel_10,D7235,False,message,2026-09-12 08:58,,True,0,62,"[@BOT] có tổng bao nhiêu lớp học trong khóa 4 ví dụ c401, d301",logistics,False
+M19079,K4-L3-4,channel_10,D9608,False,message,2026-09-12 09:00,,True,0,57,[@BOT] Record của những buổi workshop tối được lưu ở đâu?,logistics,True
+M67840,K4-L3-4,channel_10,D3877,False,message,2026-09-12 09:03,,True,0,34,[@BOT] kiểm tra điểm danh trên lớp,logistics,False
+M63973,K4-L3-4,channel_11,D6329,False,reply,2026-09-12 09:19,M03966,False,0,57,Bạn trao đổi vấn đề này lại với anh [HV] trên outlook nhé,greeting,False
+M03493,K4-L3-4,channel_11,D8542,False,message,2026-09-12 09:28,,False,0,66,code101: https://github.com/tom-e666/VinUni_Codelab_Day02_Template,academic,False
+M35505,K4-L3-4,channel_10,D8379,False,message,2026-09-12 11:30,,True,0,38,[@BOT] giới thiệu tôi về daily standup,logistics,False
+M87016,K4-L3-4,channel_10,D8379,False,message,2026-09-12 11:31,,True,0,57,[@BOT] xem danh sách đầy đủ tất cả các lệnh gọi bạn ở đâu,logistics,False
+M48268,K4-L3-4,channel_11,D8609,False,message,2026-09-12 11:34,,False,0,475,"📢 Mọi người ơi, cho mình xin 1 phút làm khảo sát với!
+
+Nhóm mình đang khảo sát về thói quen lựa chọn đồ ăn và muốn biết mọi người thường mất bao lâu để quyết định ăn gì, cũng như những khó khăn khi lựa chọn món.
+
+Survey chỉ có 5 câu, làm khoảng 1 phút thôi. Mọi người làm giúp mình và trả lời đúng với trải nghiệm thực tế nhé 🙏
+
+👉 Rất mong mọi người hỗ trợ để nhóm mình có dữ liệu đánh giá bài toán. Cảm ơn mọi người nhiều! ❤️
+https://presenter.ahaslides.com/survey/s/yv2msnb",logistics,False
+M99806,K4-L3-4,channel_11,D9499,False,message,2026-09-12 11:36,,False,0,7,[@user],uncertain,False
+M84993,K4-L3-4,channel_10,D8411,False,message,2026-09-12 12:51,,True,0,42,[@BOT] check xem t đã nộp bài codelab chưa,logistics;academic;mixed,False
+M24585,K4-L3-4,channel_10,D8119,False,message,2026-09-12 13:33,,True,0,8,[@BOT] 1,uncertain,False
+M30801,K4-L3-4,channel_10,D8119,False,message,2026-09-12 13:33,,False,0,1,1,uncertain,False
+M78985,K4-L3-4,channel_10,D3738,False,message,2026-09-12 13:33,,True,0,62,[@BOT] muốn đăng kí phương tiện di chuyển khác thì làm thế nào,uncertain,False
+M94466,K4-L3-4,channel_10,D8119,False,message,2026-09-12 13:33,,True,0,45,[@BOT] hôm qua ngồi  nhầm phòng lab có sao ko,academic,False
+M19767,K4-L3-4,channel_11,D6329,False,message,2026-09-12 13:42,,False,0,40,C401 ca sáng bạn nào mất thì qua lấy nhá,uncertain,False
+M47349,K4-L3-4,channel_11,D6329,False,message,2026-09-12 13:42,,False,0,22,[HV] thì 1 thùng sting,uncertain,False
+M89324,K4-L3-4,channel_11,D6329,False,message,2026-09-12 13:42,,False,0,20,Nữ thì đang suy nghĩ,uncertain,False
+M77476,K4-L3-4,channel_10,D5243,False,message,2026-09-12 13:59,,True,0,40,[@BOT] xem bảng xếp hạng điểm XP kiểu gì,logistics,False
+M11631,K4-L3-4,channel_10,D1431,False,message,2026-09-12 14:05,,True,0,102,[@BOT] Sử dụng gmail đăng ký khóa học với gmail github để đăng nhập phoenix khác nhau có làm sao không,uncertain,False
+M67625,K4-L3-4,channel_11,D0433,False,message,2026-09-12 14:20,,False,0,77,cho em hỏi là được làm nhóm 5 người không ạ hay bắt buộc là nhóm 4 người thôi,logistics,True
+M27566,K4-L3-4,channel_11,D8143,False,message,2026-09-12 14:24,,False,0,126,cho em hỏi khóa mình có cấp giấy chứng nhận sinh viên cho học viên không ạ ? Tại phường em đang yêu cầu để miễn khám quân sự ạ,uncertain,True
+M70525,K4-L3-4,channel_11,D9617,False,reply,2026-09-12 14:52,M67625,False,0,23,tối đa 4 người nhé [HV],uncertain,False
+M37211,K4-L3-4,channel_11,D2204,False,message,2026-09-12 15:11,,False,1,121,"các bạn labcoach cho mình hỏi, mình quét mã điểm danh đầy đủ nhưng tsao trên app ko có lịch sử điểm danh nhỉ? mình cảm ơn",logistics;academic;mixed,True
+M57346,K4-L3-4,channel_11,D7688,False,reply,2026-09-12 15:17,M37211,False,0,28,điểm danh gửi mail về it nhé,logistics,False
+M28943,K4-L3-4,channel_11,D2961,False,reply,2026-09-12 15:21,M57346,False,0,61,là mình mail về IT để kiểm tra các lượt điểm danh của mình ạ?,logistics_personal;logistics,True
+M41722,K4-L3-4,channel_11,D2204,False,reply,2026-09-12 15:21,M57346,False,0,33,cụ thể là gửi mail về đâu bạn nhỉ,uncertain,False
+M26655,K4-L3-4,channel_11,D7688,False,reply,2026-09-12 15:22,M41722,False,0,199,"cái này thì b phải report đầy đủ, bạn điểm danh hôm nào, có tick chưa, mail bạn là gì, ... rồi gửi bên dev ngta check, chứ giờ bạn gửi mỗi cái hình khó biết lắm á. mail it ở đây nè [link:discord.com]",logistics,False
+M58214,K4-L3-4,channel_11,D1407,False,message,2026-09-12 15:24,,False,0,67,các bạn labcoach cho mình hỏi là xem lịch sử điểm danh trên đâu nhỉ,logistics;academic;mixed,True
+M51989,K4-L3-4,channel_11,D8434,False,reply,2026-09-12 15:31,M37211,False,0,196,cho  mình hỏi là mấy hôm nay bọn mình đều cho các học viên điểm danh bằng cách quét mã QR điền form thì không biết mấy hôm đó bạn học ở lớp nào để bọn mình có thể nắm được rõ và xem hỗ trợ các bạn,logistics,True
+M97078,K4-L3-4,channel_11,D2204,False,reply,2026-09-12 15:32,M51989,False,0,37,mình học 3B Lec C401 và 3B Lab E403 ạ,academic,False
+M22344,K4-L3-4,channel_11,D8434,False,message,2026-09-12 15:34,,False,0,190,2  hôm nay mình đứng ở lớp C401 thì mình đều cho các bạn quét QR điền form mà thì mình đang hiểu là thay vì bạn quét mã điểm danh bằng QR form thì bạn quét mã QR bằng app Vinuni đúng không ạ,logistics,False
+M54811,K4-L3-4,channel_11,D8434,False,message,2026-09-12 15:38,,False,0,8,[@D2204],uncertain,False
+M14918,K4-L3-4,channel_11,D5508,False,reply,2026-09-12 15:40,M58214,False,0,372,"không có lịch sử điểm danh trên app MyVinUni đâu bạn, điểm danh bằng link của microsoft thì ghi nhận vào hệ thống microsoft thôi. Bạn có quét được bằng QR trong app MyVinUni đâu mà có lịch sử được. Nếu bạn muốn kiểm tra lịch sử điểm danh thì theo cơ chế của form không ghi nhận được, bạn chủ động chụp lại màn hình nhé, nếu hệ thống điểm danh thiếu còn có cái mà khiếu nại",logistics,False
+M64705,K4-L3-4,channel_11,D2204,False,reply,2026-09-12 15:40,M14918,False,0,11,thank b nhe,uncertain,False
+M87936,K4-L3-4,channel_11,D2204,False,reply,2026-09-12 15:40,M22344,False,0,214,"mình quét QR điền form như mn ạ, nhưng mà nay mình lên app check thử xem log điểm danh như nào thì thấy không có dữ liệu, cho mình hỏi nếu không phải check điểm danh trên app my vinuni thì check ở đâu ạ? cảm ơn bạn",logistics,True
+M47007,K4-L3-4,channel_11,D8434,False,reply,2026-09-12 15:43,M64705,False,0,199,nếu  bạn có đầy đủ bằng chứng nhưng hôm bạn tham gia đầy đủ trên lớp thì mình có thể mail về cho bên IT đến bên đó có thể hỗ trợ điểm danh cho bạn nhé ( như bạn Lab Coach [HV] đã giải đáp ở trên nhé),logistics;academic;mixed,False
+M35641,K4-L3-4,channel_10,D5508,False,message,2026-09-12 15:56,,True,0,87,[@BOT] tớ muốn dùng tính năng branch protection trên repo git của team thì làm thế nào?,logistics,True
+M08310,K4-L3-4,channel_10,D6243,False,message,2026-09-12 16:03,,True,0,17,[@BOT] TẠO TICKET,logistics,False
+M73901,K4-L3-4,channel_10,D6888,False,message,2026-09-12 16:13,,True,0,57,[@BOT] mình muốn kiểm tra lịch sử điểm danh thì xem ở đâu,logistics,False
+M80709,K4-L3-4,channel_10,D6243,False,message,2026-09-12 16:31,,True,0,33,[@BOT] có nhwuxng ticket type nào,logistics,False
+M02671,K4-L3-4,channel_10,D5653,False,reply,2026-09-12 16:32,M81774,True,0,1,3,uncertain,False
+M61735,K4-L3-4,channel_10,D5653,False,message,2026-09-12 16:32,,True,0,57,[@BOT] tôi không đăng nhập được vào phoenix agent thì sao,uncertain,False
+M48190,K4-L3-4,channel_10,D6243,False,message,2026-09-12 16:33,,True,0,34,[@BOT] danh sách giảng viên hỗ trợ,uncertain,False
+M23893,K4-L3-4,channel_10,D6243,False,message,2026-09-12 16:34,,True,0,57,[@BOT] danh sách giảng viên hỗ trợ trong lớp c401 và e403,logistics,False
+M40776,K4-L3-4,channel_10,D6243,False,message,2026-09-12 16:34,,False,0,59,[@D6243] danh sách giảng viên hỗ trợ trong lớp c401 và e403,logistics,False
+M10902,K4-L3-4,channel_10,D4169,False,message,2026-09-12 17:44,,True,0,40,[@BOT] check điểm bonus của mình thế nào,logistics_personal,False
+M55443,K4-L3-4,channel_10,D6722,False,message,2026-09-12 18:09,,True,0,30,[@BOT] check điểm danh như nào,logistics,False
+M49945,K4-L3-4,channel_10,D5508,False,message,2026-09-12 18:45,,True,0,40,[@BOT] khi nào thì bắt đầu tính điểm xp?,logistics,True
+M31100,K4-L3-4,channel_10,D5508,False,reply,2026-09-12 18:46,M36672,True,0,13,[@BOT] tất cả,uncertain,False
+M00499,K4-L3-4,channel_10,D5508,False,reply,2026-09-12 18:49,M51292,True,0,188,[@BOT] 1. hôm qua có workshop mà chưa thấy hệ thống cộng điểm XP. 2. activity có commit mà chưa thấy hệ thống cộng điểm XP. 3. Tớ thảo luận thường xuyên mà chưa thấy hệ thống cộng điểm XP.,logistics,False
+M72229,K4-L3-4,channel_10,D6179,False,message,2026-09-12 18:52,,True,0,32,[@BOT] tối nay có workshop không,uncertain,False
+M45980,K4-L3-4,channel_10,D5508,False,reply,2026-09-12 18:53,M39039,True,0,13,[@BOT] tất cả,uncertain,False
+M44562,K4-L3-4,channel_10,D1719,False,message,2026-09-12 18:54,,True,0,53,[@BOT] cách để xem xem mình có bị miss buổi nào không,uncertain,False
+M44772,K4-L3-4,channel_10,D1719,False,message,2026-09-12 18:54,,True,0,32,[@BOT] ý tôi là miss điểm danh ý,logistics,False
+M24294,K4-L3-4,channel_10,D1719,False,message,2026-09-12 18:55,,True,0,26,[@BOT] xem ở trên trường ý,uncertain,False
+M74482,K4-L3-4,channel_11,D1719,False,message,2026-09-12 19:02,,False,0,139,"[@D8434] chiều nay em có điểm danh ở lớp 3a-lec-d401, nhưng mà em điền nhầm thành buổi sáng thay vì buổi chiều, em cần phải xử lý như nào ạ",logistics,False
+M20199,K4-L3-4,channel_11,D1719,False,message,2026-09-12 19:04,,False,0,152,với cả em muốn góp ý 1 chút là trên hệ thống hãy cho sinh viên biết được là hôm đó họ đi (hiện tích xanh) hay nghỉ(hiện tích đỏ) để dễ quan sát được k ạ,uncertain,False
+M55295,K4-L3-4,channel_11,D8434,False,reply,2026-09-12 19:06,M74482,False,0,138,cái này nếu mà em điểm danh nhầm thì em có thể gửi lại form theo đúng buổi hôm nay và báo lại cho các lại về cho bên IT để họ xác nhận lại,logistics,False
+M06292,K4-L3-4,channel_11,D8434,False,reply,2026-09-12 19:10,M20199,False,0,242,hiện tại thời gian đầu thì BTC đang cho các bạn điểm danh bằng QR form để BTC đồng bộ tài khoản Vinuni của các bạn với hệ thống app của trường nên các bạn sẽ được điểm danh bằng app sớm thôi nhé và lúc đó các bạn sẽ check dc lịch sử điểm danh,logistics,False
+M44966,K4-L3-4,channel_11,D5508,False,reply,2026-09-12 19:44,M74482,False,0,366,"Link điểm danh hiện tại sau khi điền sẽ hiện button lưu câu trả lời đó bạn, bạn muốn tự check thì mỗi lần điền điểm danh bạn lưu lại nhé. Nếu chẳng may điền sai thì bạn có thể sửa câu trả lời. Nếu bạn ko chọn lưu thì ko sửa được, và bạn cũng sẽ ko check được bạn đã điểm danh những buổi nào. Trước khi chờ hệ thống hoàn thiện thì nên chủ động để ko mất quyền lợi nha",logistics,False
+M06541,K4-L3-4,channel_11,D8554,False,message,2026-09-12 20:10,,False,0,17,Chao` moi nguoi 🙌,greeting,False
+M04107,K4-L3-4,channel_11,D2018,False,reply,2026-09-12 20:11,M06541,False,0,12,chao` anh ^^,greeting,False
+M79982,K4-L3-4,channel_11,D7108,False,message,2026-09-12 20:33,,False,0,95,"liên lạc với anh [HV] điều phối viên như nào nhỉ mng, em có email nhưng chưa nhận được phản hồi",uncertain,False
+M17602,K4-L3-4,channel_11,D7936,False,reply,2026-09-12 20:41,M06541,False,0,17,Chào anh đẹp giai,greeting,False
+M56777,K4-L3-4,channel_10,D7038,False,message,2026-09-12 20:54,,True,0,81,[@BOT] hạn thành lập team là ngày nào? team không đủ 4 người có bị giải tán không,logistics,True
+M10726,K4-L3-4,channel_10,D7936,False,message,2026-09-12 21:04,,True,0,23,[@BOT] 1 tiếng độ chung,uncertain,False
+M96789,K4-L3-4,channel_10,D7936,False,message,2026-09-12 21:04,,True,0,55,[@BOT] làm như thế nào để kịp tiến độ của chương trình?,uncertain,True
+M30120,K4-L3-4,channel_10,D7936,False,message,2026-09-12 21:07,,True,0,53,[@BOT] daily standup là dành cho nhóm thôi đúng không,logistics,False
+M73790,K4-L3-4,channel_11,D1719,False,reply,2026-09-12 21:10,M44966,False,0,46,"Hình như k sửa dc hay sao ý ạ, em thử k sửa dc",uncertain,False
+M30077,K4-L3-4,channel_10,D8748,False,message,2026-09-12 21:57,,True,0,13,[@BOT] cả hai,uncertain,False
+M88727,K4-L3-4,channel_10,D8748,False,message,2026-09-12 21:57,,True,0,79,"[@BOT] các hoạt động cày exp, daily standup v.v... trên discord khi nào bắt đầu",logistics,False
+M89326,K4-L3-4,channel_10,D8748,False,message,2026-09-12 22:00,,True,0,114,[@BOT] /daily-standup có bắt buộc không? liệt kê tất cả các hoạt động bắt buộc hoặc nên làm trên discord hàng ngày,logistics,True
+M23639,K4-L3-4,channel_11,D6014,False,message,2026-09-12 22:25,,False,0,80,"các anh chị Lab Coach ơi, em muốn xin slide nay thầy dạy ở 3a-lec-d301 được ko ạ",academic,False
+M32171,K4-L3-4,channel_10,D7699,False,message,2026-09-12 22:28,,True,0,67,[@BOT] cho tôi file hướng dẫn setup từ git đến phoenix đến team với,logistics,False
+M70960,K4-L3-4,channel_11,D7593,False,reply,2026-09-12 22:28,M79982,False,1,57,[HV] có thể ping trực tiếp anh [HV] trong discord này nhé,uncertain,False
+M94888,K4-L3-4,channel_10,D7699,False,message,2026-09-12 22:28,,True,0,70,"[@BOT] tôi nhớ là có 1 file hay link j đó hướng dẫn đầy đủ, bạn có ko?",logistics,True
+M97637,K4-L3-4,channel_10,D7699,False,message,2026-09-12 22:28,,False,0,63,"tôi nhớ là có 1 file hay link j đó hướng dẫn đầy đủ, bạn có ko?",logistics,True
+M94913,K4-L3-4,channel_11,D7593,False,reply,2026-09-12 22:29,M23639,False,0,150,"theo quy định của chương trình thì hạn chế tải tài liệu và lưu truyền ra bên ngoài á, [HV] có thể dùng trực tiếp trên VLearn nhé (mình team VLearn 🤡 )",logistics,False
+M65016,K4-L3-4,channel_11,D6014,False,reply,2026-09-12 22:32,M94913,False,0,54,tại em thấy nay slide thầy giảng khác Vlearn a ạ =)))),uncertain,False
+M53294,K4-L3-4,channel_11,D6014,False,message,2026-09-12 22:33,,False,0,4,hihi,uncertain,False
+M59261,K4-L3-4,channel_11,D7593,False,reply,2026-09-12 22:33,M65016,False,0,60,[HV] có nhớ Lab Coach hôm nay phòng học của [HV] là ai khum?,academic,True
+M90075,K4-L3-4,channel_11,D6014,False,message,2026-09-12 22:33,,False,0,45,ý là vẫn giống nhưng có 1 vài slide thêm ấy a,uncertain,False
+M56148,K4-L3-4,channel_10,D3828,False,message,2026-09-12 22:34,,True,0,103,[@BOT]  cho mình hỏi vớ mình học lớp 3b mà  kênh khóa học toàn lớp 3a thì mình xin vào lớp 3b kiểu gì ạ,logistics,False
+M82865,K4-L3-4,channel_11,D6014,False,reply,2026-09-12 22:35,M59261,False,0,39,em nhớ có chị đeo kính hay cầm ipad =)),uncertain,False
+M41890,K4-L3-4,channel_11,D7593,False,reply,2026-09-12 22:36,M82865,False,0,95,"okela, để mình nhờ bạn ấy liên hệ lại Giảng viên upload slide mới nhất lên VLearn nhé [:emoji:]",greeting,False
+M15893,K4-L3-4,channel_11,D6014,False,reply,2026-09-12 22:45,M41890,False,0,13,e cảm ơn a  😀,greeting,False
+M75511,K4-L3-4,channel_11,D4844,False,reply,2026-09-12 23:06,M41890,False,0,97,à anh ví dụ như có những chỗ mình chưa hiểu về phần kiến thức thì mình có thể hỏi ai được anh nhỉ,uncertain,False
+M13567,K4-L3-4,channel_11,D4844,False,reply,2026-09-12 23:08,M25073,False,0,10,e cảm ơn ạ,greeting,False
+M25073,K4-L3-4,channel_11,D7593,False,reply,2026-09-12 23:08,M75511,False,0,50,hỏi VLearn với AI Tutor 🤡  kèm anh [@user] bạn nhé,uncertain,False
+M79067,K4-L3-4,channel_11,D7593,False,message,2026-09-12 23:09,,False,1,86,bôi đen và hỏi trực tiếp trên VLearn với các mức độ giải thích cho từng cá nhân em hén,academic,False
+M81403,K4-L3-4,channel_10,D9964,False,message,2026-09-12 23:18,,True,0,79,"Tôi muốn hỏi về vấn đề thẻ học viên, tìm ai để hỏi rõ về vấn đề này nhất [@BOT]",uncertain,False
+M18933,K4-L3-4,channel_11,D9076,False,reply,2026-09-12 23:28,M82865,False,1,55,Hiện slide mới của thầy đã được up trên vlearn rồi nhé.,uncertain,False
+M02512,K4-L3-4,channel_10,D8102,False,message,2026-09-12 23:43,,True,0,57,[@BOT] t có thể tải slide từ Vlearn xuống máy được ko nhỉ,uncertain,False
+M72484,K4-L3-4,channel_10,D5559,False,message,2026-09-12 23:53,,False,0,13,Hạn nộp Lab02,logistics;academic;mixed,False
+M07416,K4-L3-4,channel_10,D5559,False,message,2026-09-12 23:54,,True,0,20,Hạn nộp Lab02 [@BOT],logistics;academic;mixed,False
+M88027,K4-L3-4,channel_11,D3115,False,message,2026-09-13 00:08,,False,0,109,cho em hỏi Lab2 có được extend thời gian submit thêm không v ạ? Em lỡ nộp muộn 1 phút không submit bài được ạ,academic,True
+M92861,K4-L3-4,channel_11,D6014,False,message,2026-09-13 00:09,,False,0,17,hic mình cũng thế,uncertain,False
+M20574,K4-L3-4,channel_10,D6014,False,message,2026-09-13 00:15,,True,0,21,[@BOT] muộn sau 23h59,uncertain,False
+M75012,K4-L3-4,channel_10,D6014,False,message,2026-09-13 00:15,,True,0,38,[@BOT] nộp lab muộn trừ bao nhiêu điểm,academic,False
+M17305,K4-L3-4,channel_10,D6014,False,message,2026-09-13 00:16,,False,0,1,1,uncertain,False
+M87457,K4-L3-4,channel_10,D6014,False,message,2026-09-13 00:16,,True,0,8,[@BOT] 1,uncertain,False
+M24366,K4-L3-4,channel_11,D7593,False,message,2026-09-13 00:21,,False,1,60,[HV] với [HV] chịu khó vào chỗ vlearn-support gửi ticket nhé,logistics,False
+M59723,K4-L3-4,channel_11,D6014,False,reply,2026-09-13 00:25,M24366,False,0,6,dạ anh,uncertain,False
+M36687,K4-L3-4,channel_11,D9809,False,message,2026-09-13 00:38,,False,0,57,Mình có group xin tập gym hay tham gia bơi ở trường k ạ ?,uncertain,True
+M40677,K4-L3-4,channel_10,D7496,False,message,2026-09-13 01:27,,True,0,172,[@BOT] tôi nộp codelab trên vlearn đúng giờ deadline như thông báo (23:59) nhưng commit trên máy bị lỗi và sau thời gian đó mới lên thì có được tính là nộp đúng hạn không ?,logistics;academic;mixed,True
+M21817,K4-L3-4,channel_12,D3694,False,message,2026-09-13 08:42,,False,0,1128,"🚀 THÔNG BÁO WORKSHOP 02 
+
+Theo như thông báo trước đó, thì định kì tối thứ 5 và chủ nhật hàng tuần sẽ là các Buổi WS, vào tối 13/9 ( hôm nay ) chúng ta sẽ đi vào Buổi WS 2 với chủ đề : Problem → MVP Canvas
+
+Diễn giả : Diễn giả: ThS [HV] : Founder, CEO - Bot bán hàng, Gương Mặt Trẻ Việt Nam Tiêu Biểu 2020.
+
+> 🕗 Thời gian: 20:00 — tối nay, ngày 13/09
+> 📍 Hình thức: Online qua Zoom
+> 
+> Join Zoom Meeting
+> [link:zoom.us]
+> 
+> Meeting ID: [ID]
+> Passcode: [PASSCODE]
+
+   💻 Quy định khi vào Zoom
+
+Thời gian: Vui lòng vào sớm 10 phút (19:50) để ổn định kỹ thuật.
+
+
+📝 CÚ PHÁP ĐẶT TÊN CHUẨN:
+
+**Mã nhóm — Mã đội — Họ và tên **
+
+💡 Ví dụ cụ thể:
+
+> Nếu bạn là [HV] , thuộc mã team 001, thuộc mã nhóm G01
+>  ➡️ Bạn đặt tên là: G01 — T001 — [HV]g trường hợp buổi các buổi đầu tiên chưa có mã nhóm / team các bạn có thể dùng : **TÊN - 5 chữ số cuối mssv**
+
+Đây là quy định bắt buộc, các bạn vui lòng tuân thủ để không gặp vấn đề phát sinh khi tính điểm danh chuyên cần
+
+
+🆘  ĐẶC BIỆT LƯU Ý : CẦN ĐĂNG NHẬP VÀO ZOOM BẰNG EMAIL ĐÃ  DÙNG ĐỂ ĐĂNG NHẬP TRÊN https://phoenix.note.transformerlabs.ai/
+
+Các bạn lưu ý lịch để tham gia nhé
+
+[@role]",logistics;academic;mixed,False
+M08376,K4-L3-4,channel_11,D6243,False,message,2026-09-13 08:55,,False,0,1,.,uncertain,False
+M80655,K4-L3-4,channel_11,D5251,False,message,2026-09-13 09:05,,False,0,191,"[@user] Cho mình hỏi là: Email cá nhân nhận lịch mã số 02, sau đó nhận thêm mã số 03. Còn email outlook thì ngược lại nhận lịch mã số 03, sau đó nhận mã số 02. Vậy mình nên học theo lịch nào?",logistics,True
+M74089,K4-L3-4,channel_10,D4291,False,message,2026-09-13 09:07,,True,0,102,[@BOT] Với tư cách là 1 học viên khóa 4. Tài khoản zoom phải đặt tên như thế nào khi tham gia workshop,greeting,False
+M58070,K4-L3-4,channel_10,D6667,False,message,2026-09-13 09:09,,True,0,51,[@BOT]  làm thế nào để tôi biết là tôi đã điểm danh,logistics,False
+M25142,K4-L3-4,channel_10,D7936,False,message,2026-09-13 09:10,,True,0,105,[@BOT]  mình tự check điểm bonus trên lớp của mình như thế nào ? và điểm đó thì có tác dụng như thế nào ?,logistics_personal;logistics,True
+M78232,K4-L3-4,channel_10,D6667,False,message,2026-09-13 09:10,,True,0,43,điểm danh thường ngày ở google forms [@BOT],logistics,False
+M58634,K4-L3-4,channel_11,D8312,False,reply,2026-09-13 09:12,M80655,False,0,30,Bạn dùng lịch có chữ UPDATED á,logistics,False
+M92004,K4-L3-4,channel_11,D5251,False,reply,2026-09-13 09:14,M58634,False,0,116,"lịch outlook có chữ updated nhưng ngày 10/9, lịch trong gmail ko có nhưng gửi ngày 11/9, vậy thì theo lịch nào vậy ạ",logistics,False
+M96715,K4-L3-4,channel_10,D1962,False,message,2026-09-13 09:24,,True,0,33,[@BOT] lệnh xem list đề tài là gì,uncertain,False
+M42370,K4-L3-4,channel_10,D7936,False,message,2026-09-13 09:41,,True,0,47,[@BOT] dung topic pick ở đâu và xài như thế nào,logistics,False
+M71150,K4-L3-4,channel_10,D7936,False,message,2026-09-13 09:42,,True,0,12,[@BOT]  cả 2,uncertain,False
+M00815,K4-L3-4,channel_11,D7688,False,reply,2026-09-13 10:07,M92004,False,0,21,theo updated nhé [HV],uncertain,False
+M85755,K4-L3-4,channel_10,D4567,False,message,2026-09-13 10:11,,True,0,86,[@BOT] sang phase build các thành viên trong nhóm khác lớp có được về cùng 1 lớp không,logistics,False
+M27034,K4-L3-4,channel_11,D9703,False,message,2026-09-13 10:19,,False,1,177,e đăng nhập vào zoom để tối nay workshop mà cứ báo như này thì tối e đăng nhập bằng mail cá nhân rồi đổi tên theo quy định được không ạ? hay có cách nào để khắc phục lỗi này k ạ,academic,True
+M66739,K4-L3-4,channel_11,D3694,False,reply,2026-09-13 10:24,M27034,False,0,60,Vào bằng mail cá nhân nhé không dùng mail của trương đâu nha,uncertain,False
+M84839,K4-L3-4,channel_11,D3694,False,message,2026-09-13 10:24,,False,0,51,mai cá nhân các bạn dùng để nhận mail của trường ấy,uncertain,False
+M96872,K4-L3-4,channel_10,D8542,False,message,2026-09-13 10:30,,True,0,131,"[@BOT] hiện nay chương trình 20k, khóa 4 có vận hành một dạng repo ""common law"" tổng hợp các reminder, tips & tricks, FAQ nào không",uncertain,False
+M86278,K4-L3-4,channel_10,D8542,False,message,2026-09-13 10:34,,True,0,13,[@BOT] cả hai,uncertain,False
+M92442,K4-L3-4,channel_10,D8542,False,message,2026-09-13 10:34,,True,0,213,"[@BOT] computation limit của bạn là bao nhiêu, bạn là một chatbot cho tất cả mọi người, mỗi người cũng có chatbot riêng. Vậy thì bạn nghiêng về option hỏi trợ lí kute, hay để mỗi người tự dùng chatbot của riêng họ",uncertain,False
+M05936,K4-L3-4,channel_10,D3108,False,message,2026-09-13 11:14,,True,0,48,[@BOT] kiểm tra mình đã điểm danh hay chưa ở đâu,logistics,False
+M96792,K4-L3-4,channel_10,D3108,False,message,2026-09-13 11:14,,True,0,48,[@BOT] kiểm tra buổi học hàng ngày sáng chiều ấy,uncertain,False
+M12561,K4-L3-4,channel_10,D6243,False,message,2026-09-13 11:51,,True,0,55,"[@BOT] daily standup , mentor duty, giải thích chi tiết",logistics;academic;mixed,False
+M29651,K4-L3-4,channel_10,D6243,False,message,2026-09-13 11:51,,True,0,22,[@BOT] giải thích cả 2,academic,False
+M15979,K4-L3-4,channel_10,D6243,False,message,2026-09-13 11:54,,True,0,41,[@BOT] demo daily stand up và mentor duty,uncertain,False
+M46713,K4-L3-4,channel_10,D6243,False,message,2026-09-13 11:55,,True,0,70,"[@BOT] tìm hiểu về cách thực hiện của cả 2, nộp lên là nộp nội dung gì",uncertain,False
+M19479,K4-L3-4,channel_11,D2403,False,reply,2026-09-13 12:13,M36687,False,0,15,em ké câu hỏi ạ,uncertain,False
+M22362,K4-L3-4,channel_11,D7688,False,reply,2026-09-13 12:23,M19479,False,0,61,"k nhá [HV] ơi, [HV] xem bài các tiện ích học viên trên fb nhé",uncertain,False
+M97511,K4-L3-4,channel_11,D2403,False,reply,2026-09-13 12:26,M22362,False,0,127,em thấy trước có bạn nào đăng bài gr fb có thông tin là thành lập clb là xin phép với bên trường là thông tin chính xác không ạ,uncertain,False
+M45329,K4-L3-4,channel_11,D7688,False,reply,2026-09-13 12:31,M97511,False,0,38,"k nha, có btc rep ở dưới bài đó rùi nè",uncertain,False
+M03823,K4-L3-4,channel_10,D5437,False,message,2026-09-13 13:35,,True,0,31,[@BOT] đặt tên zoom như thế nào,uncertain,False
+M59124,K4-L3-4,channel_10,D9374,False,message,2026-09-13 13:58,,True,0,50,[@BOT] Tôi có thể theo dõi điểm lab của mình ở đâu,logistics_personal;logistics;academic;mixed,False
+M05641,K4-L3-4,channel_10,D9374,False,reply,2026-09-13 13:59,M03496,True,0,27,điểm lab đã nộp trên vlearn,academic,False
+M00931,K4-L3-4,channel_10,D9656,False,message,2026-09-13 14:09,,False,0,1,.,uncertain,False
+M91580,K4-L3-4,channel_10,D4146,False,message,2026-09-13 14:39,,False,0,34,[#channel] Xem điểm cộng ở đâu vậy,logistics,False
+M86786,K4-L3-4,channel_10,D4146,False,message,2026-09-13 14:40,,True,0,43,[@BOT] Xem điểm cộng của bản thân ở đâu vậy,logistics,False
+M97148,K4-L3-4,channel_10,D4844,False,message,2026-09-13 14:50,,True,0,90,[@BOT] build phase tôi có thể vừa sài github và vừa sài gitlab được không hay only github?,academic,True
+M35288,K4-L3-4,channel_10,D4844,False,message,2026-09-13 14:51,,True,0,54,nếu tôi dùng cả 2 trong build phase được không? [@BOT],uncertain,True
+M35552,K4-L3-4,channel_10,D4844,False,message,2026-09-13 14:57,,True,0,88,à tôi push cả 2 lên cả gitlab và github thì có vi phạm nguyên tắc của btc không ? [@BOT],academic,True
+M00404,K4-L3-4,channel_11,D5508,False,reply,2026-09-13 15:26,M19479,False,0,73,được tập gym và bơi thoải mái mà ở trường khác chứ ko phải ở VinUni =)))),uncertain,False
+M95844,K4-L3-4,channel_10,D1407,False,message,2026-09-13 15:33,,True,0,33,"[@BOT] giải thích các phase 1,2,3",academic,False
+M28257,K4-L3-4,channel_10,D1407,False,message,2026-09-13 15:34,,True,0,15,[@BOT] cả 3 nhé,uncertain,False
+M85253,K4-L3-4,channel_11,D2403,False,reply,2026-09-13 15:38,M00404,False,0,63,trong khu ocp 1 hay quanh khu có phòng gym nào ngon giá ok ko a,greeting,False
+M72446,K4-L3-4,channel_11,D9454,False,reply,2026-09-13 16:07,M85253,False,0,130,"trong đây chủ yếu đóng theo năm thôi bạn, theo vài tháng thì loanh quanh 1tr/tháng, bạn cần biết chi tiết hơn thì ntin riêng mình.",greeting,False
+M19498,K4-L3-4,channel_10,D5242,False,message,2026-09-13 16:53,,True,0,93,[@BOT]  về lập team hai lớp có khó khăn ở hoạt động build phase không khi team 2 lớp 3b và 3a,logistics,False
+M36640,K4-L3-4,channel_10,D5242,False,message,2026-09-13 17:11,,True,0,56,[@BOT]  nếu rời nhóm thì repo liên kết vói tôi sẽ ra sao,logistics,False
+M53663,K4-L3-4,channel_10,D5242,False,message,2026-09-13 17:11,,True,0,61,[@BOT] Quyền truy cập của bạn vào repo đó sẽ thay đổi ra sao?,uncertain,True
+M85508,K4-L3-4,channel_10,D1848,False,message,2026-09-13 17:20,,True,0,33,[@BOT]  tối nay có lịch gì không?,logistics,True
+M16742,K4-L3-4,channel_10,D1848,False,message,2026-09-13 17:22,,True,0,31,[@BOT] lịch trình tham gia zoom,logistics,False
+M26168,K4-L3-4,channel_10,D4607,False,message,2026-09-13 18:41,,True,0,80,[@BOT] Làm sao để tôi sửa được lỗi không có quyền truy cập khi vào phoenix agent,academic,False
+M32861,K4-L3-4,channel_11,D5284,False,message,2026-09-13 19:10,,False,0,80,"Về cách đặt tên buổi Workshop, ngoài mã đội và tên thì còn mã nhóm là gì vậy mn?",logistics,True
+M55110,K4-L3-4,channel_11,D5508,False,reply,2026-09-13 19:13,M32861,False,0,38,Khi được phân cho mentor sẽ có mã nhóm,logistics,False
+M19701,K4-L3-4,channel_10,D7732,False,message,2026-09-13 19:28,,True,0,70,[@BOT]  sao tôi không thấy tôi thuộc G bao nhiêu mà chỉ thấy mỗi T-116,uncertain,False
+M57197,K4-L3-4,channel_10,D1631,False,message,2026-09-13 19:53,,False,0,65,"tôi đã lập đội ở trên phoenix, tôi muốn tìm mã đội, thì tìm ở đâu",logistics,False
+M88243,K4-L3-4,channel_10,D1631,False,message,2026-09-13 19:53,,True,0,72,"[@BOT] tôi đã lập đội ở trên phoenix, tôi muốn tìm mã đội, thì tìm ở đâu",logistics,False
+M81645,K4-L3-4,channel_10,D1631,False,message,2026-09-13 19:54,,True,0,26,[@BOT] cụ thể là tìm ở đâu,logistics,False
+M26493,K4-L3-4,channel_10,D1631,False,message,2026-09-13 19:55,,False,0,21,trên nền tảng phoenix,uncertain,False
+M65250,K4-L3-4,channel_10,D1631,False,message,2026-09-13 19:55,,True,0,28,[@BOT] trên nền tảng phoenix,uncertain,False
+M06365,K4-L3-4,channel_10,D1631,False,message,2026-09-13 19:56,,True,0,48,"[@BOT] tìm mã đội, mã nhóm trên nền tảng phoenix",logistics,False
+M49339,K4-L3-4,channel_10,D1631,False,message,2026-09-13 19:56,,True,0,65,"[@BOT] cụ thể từng bước tìm mã đội, mã nhóm trên nền tảng phoenix",logistics,False
+M06908,K4-L3-4,channel_10,D1631,False,message,2026-09-13 19:57,,True,0,39,"[@BOT] tìm mã đội, mã nhóm trên discord",logistics,False
+M02252,K4-L3-4,channel_11,D3694,False,reply,2026-09-13 20:10,M55110,False,0,35,Coi Bộ [HV] hiểu chương trình quá 😱,uncertain,False
+M15976,K4-L3-4,channel_10,D4291,False,message,2026-09-13 20:12,,True,0,33,[@BOT] lịch workshop ngày hôm nay,logistics,False
+M44084,K4-L3-4,channel_11,D8116,False,message,2026-09-13 20:12,,False,0,47,"Workshop bắt đầu chưa ạ, em vẫn chưa được duyệt",uncertain,False
+M12161,K4-L3-4,channel_11,D3694,False,message,2026-09-13 20:13,,False,0,15,bắt đầu rồi chứ,uncertain,False
+M60776,K4-L3-4,channel_11,D7038,False,message,2026-09-13 20:13,,False,0,23,em cx chưa được duyệt ạ,uncertain,False
+M06758,K4-L3-4,channel_11,D8116,False,message,2026-09-13 20:15,,False,0,41,Em vào dc 15p rồi nhưng chưa được duyệt ạ,uncertain,False
+M96955,K4-L3-4,channel_11,D3694,False,message,2026-09-13 20:16,,False,0,33,Xem đổi tên đúng cú pháp chưa nhé,uncertain,False
+M47421,K4-L3-4,channel_10,D3717,False,message,2026-09-13 20:59,,True,0,53,"[@BOT]  gate submit là làm gì, ý nghĩa mục đích là gì",uncertain,False
+M39235,K4-L3-4,channel_10,D8102,False,message,2026-09-13 21:08,,True,0,41,[@BOT] xem record lại buổi workshop ở đâu,logistics,False
+M79094,K4-L3-4,channel_10,D8102,False,message,2026-09-13 21:08,,True,0,37,[@BOT] sao mày trả lời như người vậy?,uncertain,True
+M91496,K4-L3-4,channel_10,D8102,False,message,2026-09-13 21:09,,True,0,50,"[@BOT] trước khi trả lời hãy xưng ""tôi là bot"" nhé",greeting,False
+M01360,K4-L3-4,channel_11,D3854,False,message,2026-09-13 21:15,,False,0,110,Cho em hỏi ạ: Cửa sổ lập đội đã đóng thì btc có thể hỗ trợ gia hạn thời gian đến hết ngày hôm nay được không ạ,uncertain,False
+M50841,K4-L3-4,channel_11,D9617,False,message,2026-09-13 21:18,,False,0,67,"Các bạn chờ BTC ghép đội nhé, hiện tại cửa sổ lập đội tự do đã đóng",uncertain,False
+M49863,K4-L3-4,channel_10,D5393,False,message,2026-09-13 21:23,,True,0,180,"[@BOT] trả lời cả 3 Nộp báo cáo daily day ở đâu trên Discord?
+Nộp báo cáo daily day như thế nào khi chưa có đề tài team?
+Có cần nộp báo cáo daily day khi chưa có đề tài team không?",logistics,True
+M94849,K4-L3-4,channel_10,D5393,False,message,2026-09-13 21:23,,True,0,67,[@BOT] daily day nếu chưa có đề tài team thì nộp cái gì nộp như nào,logistics,False
+M50890,K4-L3-4,channel_10,D5393,False,message,2026-09-13 21:25,,True,0,45,[@BOT] lịch thời gian nộp daily day hàng ngày,logistics,False
+M66632,K4-L3-4,channel_10,D5393,False,message,2026-09-13 21:29,,True,0,47,[@BOT] cái này thành viên nào cũng phải tag nhỉ,uncertain,False
+M58536,K4-L3-4,channel_10,D5393,False,message,2026-09-13 21:30,,True,0,411,"[@BOT] daily day là thành viên nào cũng phải tag nhỉ trường hợp ""Nộp như thế nào khi chưa có đề tài team?
+Bạn vẫn sử dụng lệnh /daily-standup như bình thường nha. Trong phần nội dung báo cáo, bạn có thể ghi rõ là team đang trong quá trình thảo luận, tìm kiếm hoặc lựa chọn đề tài. Nếu có khó khăn gì trong việc chọn đề, bạn có thể điền vào phần blocker (trường này là tùy chọn, không bắt buộc nè).
+"" thì như nào",logistics,True
+M76564,K4-L3-4,channel_10,D5393,False,message,2026-09-13 21:41,,True,0,473,"[@BOT] trường hợp ""Nộp như thế nào khi chưa có đề tài?
+Dù team chưa chốt đề tài chính thức, nhưng chắc chắn bạn vẫn đang có những hoạt động để chuẩn bị cho dự án mà, đúng không? Bạn có thể ghi nội dung báo cáo như sau:
+Ví dụ 1: ""Đang cùng team thảo luận và brainstorm để chọn đề tài dự án.""
+Ví dụ 2: ""Nghiên cứu các công nghệ liên quan để đề xuất ý tưởng cho team.""
+Ví dụ 3: ""Đã họp team 30 phút để lọc ra top 3 đề tài tiềm năng."""" cần ghi cả field yesterday và today không",logistics,True
+M15491,K4-L3-4,channel_10,D5393,False,message,2026-09-13 21:42,,True,0,474,"[@BOT]  trường hợp ""Nộp như thế nào khi chưa có đề tài?
+Dù team chưa chốt đề tài chính thức, nhưng chắc chắn bạn vẫn đang có những hoạt động để chuẩn bị cho dự án mà, đúng không? Bạn có thể ghi nội dung báo cáo như sau:
+Ví dụ 1: ""Đang cùng team thảo luận và brainstorm để chọn đề tài dự án.""
+Ví dụ 2: ""Nghiên cứu các công nghệ liên quan để đề xuất ý tưởng cho team.""
+Ví dụ 3: ""Đã họp team 30 phút để lọc ra top 3 đề tài tiềm năng."""" cần ghi cả field yesterday và today không",logistics,True
+M28677,K4-L3-4,channel_11,D8542,False,message,2026-09-13 21:43,,False,0,74,Nghe vtv nhắc nay là Dev Day #256. Chúc các dev một ngày thật ý nghĩa nhé.,uncertain,False
+M53281,K4-L3-4,channel_11,D0526,False,message,2026-09-13 21:46,,False,0,109,Cho em hỏi ạ: Em có nhóm với bạn rồi nhưng kịp tạo thì khóa tạo nhóm thì btc có tạo điều kiện mở lại không ạ.,logistics,False
+M60145,K4-L3-4,channel_10,D5393,False,message,2026-09-13 21:46,,True,0,473,"[@BOT] trường hợp ""Nộp như thế nào khi chưa có đề tài?
+Dù team chưa chốt đề tài chính thức, nhưng chắc chắn bạn vẫn đang có những hoạt động để chuẩn bị cho dự án mà, đúng không? Bạn có thể ghi nội dung báo cáo như sau:
+Ví dụ 1: ""Đang cùng team thảo luận và brainstorm để chọn đề tài dự án.""
+Ví dụ 2: ""Nghiên cứu các công nghệ liên quan để đề xuất ý tưởng cho team.""
+Ví dụ 3: ""Đã họp team 30 phút để lọc ra top 3 đề tài tiềm năng."""" cần ghi cả field yesterday và today không",logistics,True
+M09449,K4-L3-4,channel_12,D9617,False,message,2026-09-13 21:49,,False,0,1675,"📢 THÔNG BÁO LỰA CHỌN ĐỀ TÀI
+
+BTC đã hoàn tất việc sắp xếp thành viên và danh sách các team. Ngân hàng đề tài chính thức sẽ được công khai lúc 22h00 hôm nay, Chủ [HV], ngày 13/09/2026.
+
+Sau khi ngân hàng đề được công bố, các team cần chủ động tổ chức trao đổi nội bộ và thống nhất với đầy đủ thành viên trước khi đăng ký. Không nên để một cá nhân tự lựa chọn khi team chưa thảo luận kỹ.
+
+Khi đánh giá đề tài, team cần cân nhắc:
+
+> Mức độ phù hợp với năng lực và định hướng của các thành viên.
+> 
+> Khả năng xây dựng sản phẩm có thể triển khai và demo trong thời gian khóa học.
+> 
+> Khả năng tiếp cận dữ liệu, tài liệu, công cụ và hạ tầng.
+> 
+> Yêu cầu về AI Agent, human-in-the-loop, đánh giá chất lượng và an toàn.
+> 
+> Phạm vi công việc và phương án phân công giữa các thành viên.
+
+Quy định đăng ký:
+
+Đọc kỹ các thông tin trong sheet đề tài
+
+> **Nội dung trong ngân hàng là gợi ý để nhóm lựa chọn và tinh chỉnh theo tình hình thực tế khi khảo sát, trao đổi trực tiếp với người dùng trong quá trình phát triển sản phẩm.**
+> 
+> **Mỗi đề tài chỉ nhận tối đa 2 team đăng ký.**
+> 
+> **Team cần thống nhất thứ tự ưu tiên giữa các đề tài.**
+> 
+> **Trường hợp team muốn đề xuất đề tài mới, cần được BTC duyệt bằng việc tạo ticket.**
+
+
+Các mốc thời gian quan trọng:
+
+- 22:00 Chủ [HV], ngày 13/09/2026: Công khai ngân hàng đề tài.
+- 23:59 Chủ [HV], ngày 20/09/2026: Hạn cuối lựa chọn và đăng ký đề tài - Hoàn thiện các delieverables Gate 1.
+
+Sau ngày 20/09/2026: BTC sẽ không tiếp nhận hoặc hỗ trợ thêm các yêu cầu liên quan đến việc lựa chọn hoặc đề xuất đề tài.
+
+Các team vui lòng chủ động sắp xếp thời gian thảo luận, lựa chọn nghiêm túc và hoàn tất đăng ký đúng thời hạn.
+
+[@role]",logistics,False
+M12158,K4-L3-4,channel_11,D0531,False,message,2026-09-13 21:49,,False,0,143,"nhóm em cũng đã có đủ 4 thành viên nhưng các bạn đang tham gia workshop nên chưa lập nhóm kịp trên phoenix ạ, em có thể xin được hỗ trợ không ạ",logistics,False
+M13308,K4-L3-4,channel_11,D8102,False,message,2026-09-13 21:51,,False,0,10,(test tên),uncertain,False
+M79747,K4-L3-4,channel_11,D9617,False,message,2026-09-13 21:51,,False,0,58,Các bạn theo dõi thông báo mới nhất nhé [link:discord.com],logistics,False
+M04103,K4-L3-4,channel_10,D0531,False,message,2026-09-13 21:53,,True,0,22,[@BOT] cách tạo ticket,logistics,False
+M57586,K4-L3-4,channel_10,D0712,False,message,2026-09-13 21:53,,True,0,23,[@BOT] cách chọn đề tài,uncertain,False
+M66718,K4-L3-4,channel_10,D0531,False,message,2026-09-13 21:54,,True,0,46,[@BOT]  tạo ticket nhờ hỗ trợ trong server nào,logistics,False
+M71194,K4-L3-4,channel_10,D0712,False,message,2026-09-13 21:54,,True,0,49,[@BOT] sau khi chọn xong nếu muốn đổi thì như nào,greeting,False
+M23792,K4-L3-4,channel_10,D1899,False,message,2026-09-13 21:56,,True,0,27,[@BOT] daily standup là sao,logistics,False
+M88388,K4-L3-4,channel_10,D5515,False,message,2026-09-13 21:56,,True,0,77,"[@BOT] ai là người có quyền pick chủ đề, leader hay mọi thành viên trong team",logistics,False
+M62003,K4-L3-4,channel_10,D9156,False,message,2026-09-13 21:58,,True,0,36,[@BOT] delirables gate 1 có những gì,uncertain,False
+M30724,K4-L3-4,channel_10,D1899,False,message,2026-09-13 21:59,,True,0,36,[@BOT] xp tích theo team hay cá nhân,logistics,False
+M91836,K4-L3-4,channel_12,D9617,False,message,2026-09-13 22:00,,False,0,176,"Thông báo: Ngân hàng đề tài chính thức AI20K Build Phase Cohort 4:
+https://docs.google.com/spreadsheets/d/1KcqXZNqbPWVI8o10Dsmy9IWr1gXNULWciornlKRIwPE/edit?usp=sharing
+
+[@role]",uncertain,True
+M16850,K4-L3-4,channel_10,D8825,False,message,2026-09-13 22:06,,True,0,57,[@BOT] soạn 1 tin nhắn mẫu báo cáo daily để tôi tham khảo,uncertain,False
+M80512,K4-L3-4,channel_10,D8813,False,message,2026-09-13 22:06,,True,0,38,[@BOT] làm sao để chốt đề tài cho nhóm,logistics,False
+M18341,K4-L3-4,channel_10,D8813,False,message,2026-09-13 22:07,,True,0,34,[@BOT] chọn đề tài vào channel nào,uncertain,False
+M04739,K4-L3-4,channel_10,D8825,False,message,2026-09-13 22:10,,True,0,170,"[@BOT] đối với báo cáo mentor thì sao, nếu trong 1 tuần có 2 lịch báo cáo thì sẽ gửi lệnh như nào. Cung cấp cho tôi thêm thông tin và soạn mẫu 1 tin nhắn để tôi tham khảo",logistics,False
+M57039,K4-L3-4,channel_10,D8825,False,reply,2026-09-13 22:10,M12284,True,0,13,cả 1 và 2 nhé,uncertain,False
+M94804,K4-L3-4,channel_11,D0531,False,message,2026-09-13 22:11,,False,0,14,/ticket create,logistics,False
+M36026,K4-L3-4,channel_10,D1719,False,message,2026-09-13 22:16,,True,0,43,[@BOT] chọn chủ đề làm build phases trên đó,uncertain,False
+M98619,K4-L3-4,channel_10,D1719,False,message,2026-09-13 22:16,,True,0,34,[@BOT] cách pick topic trên phonex,uncertain,False
+M85020,K4-L3-4,channel_11,D1719,False,message,2026-09-13 22:19,,False,0,54,[@D9617] cho em hỏi cách pick topic trên phoenix với ạ,uncertain,False
+M67633,K4-L3-4,channel_11,D9617,False,reply,2026-09-13 22:20,M85020,False,0,45,Bạn gõ /topic pick trong channel của team nhé,logistics,False
+M16926,K4-L3-4,channel_10,D1053,False,message,2026-09-13 22:21,,True,0,51,[@BOT] Cách chi tiết để chọn chủ đề cho build phase,greeting,False
+M17206,K4-L3-4,channel_11,D9156,False,message,2026-09-13 22:22,,False,0,197,[@D9617] team em vừa nhận được random 1 bạn nhưng em check thấy bạn đã out discord này. không biết bạn này có còn hoạt động trong chương trình không ạ. nếu bạn đã out thì có hỗ trợ ghép lại không ạ,logistics,True
+M95655,K4-L3-4,channel_10,D7659,False,message,2026-09-13 22:26,,True,0,26,[@BOT] nộp đề tài như nào?,uncertain,True
+M47344,K4-L3-4,channel_11,D4339,False,message,2026-09-13 23:18,,False,0,4,+1 ạ,uncertain,False
+M71564,K4-L3-4,channel_10,D4169,False,message,2026-09-13 23:39,,True,0,25,[@BOT] nộp đề tài kiểu gì,uncertain,False
+M12653,K4-L3-4,channel_10,D4169,False,message,2026-09-13 23:41,,True,0,36,[@BOT] có được đổi đề tài đã chọn ko,uncertain,False
+M46780,K4-L3-4,channel_10,D8102,False,message,2026-09-13 23:46,,True,0,30,[@BOT] mày nghỉ ngơi xong chưa,uncertain,False
+M10278,K4-L3-4,channel_10,D9815,False,message,2026-09-13 23:52,,True,0,54,[@BOT] cho mình hỏi có thể đổi đề tài được mấy lần nhỉ,uncertain,False
+M66633,K4-L3-4,channel_10,D6179,False,message,2026-09-13 23:54,,True,0,91,[@BOT] channel activity hoạt động thế nào? phải merge vào main nhóm thì mới bắn thông báo à,logistics,True
+M00968,K4-L3-4,channel_10,D6179,False,message,2026-09-13 23:55,,True,0,20,[@BOT] anh cảm ơn em,greeting,False
+M98092,K4-L3-4,channel_10,D6179,False,message,2026-09-13 23:55,,True,0,60,"[@BOT] -activity để làm gì? khi nào có ""commit mới lên sóng""",logistics,True
+M96921,K4-L3-4,channel_10,D3866,False,message,2026-09-13 23:56,,True,0,60,[@BOT] raise ticket chọn chủ đề mới sẽ mất thời gian bao lâu,logistics,False
+M77407,K4-L3-4,channel_10,D2961,False,message,2026-09-14 00:04,,True,0,81,[@BOT] daily standup là tất cả thành viên trong nhóm nộp hay chỉ 1 thảnh viên nộp,logistics,False
+M68577,K4-L3-4,channel_10,D4537,False,message,2026-09-14 00:06,,True,0,40,[@BOT] daily stand up có exp hay j khong,logistics,False
+M51773,K4-L3-4,channel_10,D9697,False,message,2026-09-14 00:09,,True,0,27,[@BOT] chi tiết về demo day,greeting,False
+M86034,K4-L3-4,channel_10,D9697,False,message,2026-09-14 00:11,,True,0,41,[@BOT] cách thức trình bày trong demo day,uncertain,False
+M20587,K4-L3-4,channel_10,D6179,False,message,2026-09-14 00:12,,True,0,54,"[@BOT] trong /daily-standup , field blocker để làm gì?",logistics,True
+M53254,K4-L3-4,channel_10,D3717,False,message,2026-09-14 00:19,,True,0,105,[@BOT] Thực trạng vấn đề và ràng buộc trong các topic là mẫu hay là bắt buộc phải bám sát khi chọn đề tài,greeting,False
+M09203,K4-L3-4,channel_10,D4844,False,message,2026-09-14 00:25,,True,0,31,[@BOT] daily standup là gì nhỉ?,logistics,True
+M13163,K4-L3-4,channel_10,D4844,False,message,2026-09-14 00:26,,False,0,36,nội dung daily standup ngày 14/9 nhé,logistics,False
+M94107,K4-L3-4,channel_10,D4844,False,message,2026-09-14 00:26,,True,0,77,vậy yêu cầu của daily standup ngày hôm nay nộp lúc 10h là về chủ đề gì [@BOT],logistics,False
+M38061,K4-L3-4,channel_10,D4844,False,message,2026-09-14 00:27,,True,0,43,nội dung daily standup ngày 14/9 nhé [@BOT],logistics,False
+M80674,K4-L3-4,channel_10,D4844,False,message,2026-09-14 00:28,,True,0,32,cú pháp của daily standup [@BOT],logistics,False
+M42852,K4-L3-4,channel_10,D4844,False,message,2026-09-14 00:29,,False,0,95,"Cú pháp của lệnh bot để thực hiện daily standup?
+Cú pháp để ghi lại hoặc báo cáo daily standup?",logistics,True
+M84422,K4-L3-4,channel_10,D4844,False,message,2026-09-14 00:29,,True,0,102,"Cú pháp của lệnh bot để thực hiện daily standup?
+Cú pháp để ghi lại hoặc báo cáo daily standup?
+[@BOT]",logistics,True
+M16758,K4-L3-4,channel_10,D8963,False,message,2026-09-14 00:41,,True,0,33,[@BOT] pick đề tài ở kênh nào vậy,uncertain,False
+M49377,K4-L3-4,channel_10,D4844,False,message,2026-09-14 02:16,,True,0,52,sao mình lại ko có trong thread thảo luận nhỉ [@BOT],uncertain,False
+M16687,K4-L3-4,channel_10,D4844,False,message,2026-09-14 02:20,,True,1,27,tôi nhập bị sai gì à [@BOT],uncertain,False
+M63514,K4-L3-4,channel_11,D9960,False,message,2026-09-14 06:30,,False,0,123,[@D9617] em ó ý tưởng ngoài project bank thì cho em hỏi là cách thức cũng như quy chế xét duyệt project ngoài bank là gì ạ.,uncertain,True
+M61254,K4-L3-4,channel_10,D5523,False,message,2026-09-14 07:06,,True,0,85,[@BOT] Mình lỡ mất buổi workshop và dailystandup hôm qua thì có ảnh hưởng như thế nào,logistics,False
+M64308,K4-L3-4,channel_11,D9617,False,reply,2026-09-14 07:48,M63514,False,0,67,Thảnh tạo ticket type Đề xuất đề tài mới Thầy sẽ duyệt cho team nhé,logistics,False
+M16016,K4-L3-4,channel_10,D6778,False,message,2026-09-14 08:29,,True,0,36,[@BOT] check exp đang có như thế nào,logistics,False
+M83169,K4-L3-4,channel_10,D4539,False,message,2026-09-14 08:38,,True,0,11,[@BOT] cả 3,uncertain,False
+M89758,K4-L3-4,channel_10,D4539,False,message,2026-09-14 08:38,,True,0,87,[@BOT] bắt đầu hoạt động daily standup và các hoạt động có liên qua đến exp từ bao giờ?,logistics,True
+M95485,K4-L3-4,channel_10,D4539,False,message,2026-09-14 08:39,,True,0,371,"[@BOT]
+
+1. Thời điểm bắt đầu hoạt động daily standup và các hoạt động liên quan đến exp trong quá trình onboarding?
+2. Thời điểm bắt đầu hoạt động daily standup và các hoạt động liên quan đến exp trong một dự án cụ thể?
+3. Thời điểm bắt đầu hoạt động daily standup và các hoạt động liên quan đến exp theo quy định chung của khóa học?
+
+Hoặc bạn mô tả rõ hơn giúp mình nhé!",logistics,True
+M13661,K4-L3-4,channel_10,D9617,False,reply,2026-09-14 08:49,M95485,False,0,21,BẮT ĐẦU TỪ HÔM NAY NÈ,uncertain,False
+M77226,K4-L3-4,channel_10,D8119,False,message,2026-09-14 08:56,,True,0,30,[@BOT] dung daily stand up ntn,uncertain,False
+M91752,K4-L3-4,channel_10,D5559,False,message,2026-09-14 08:56,,True,0,50,[@BOT] mình có thể nộp đề tài nhóm mình chọn ở đâu,logistics,False
+M97872,K4-L3-4,channel_10,D8119,False,message,2026-09-14 08:56,,True,0,57,"[@BOT] dung daily standup o dau, va con cach nao de + exp",logistics,False
+M07571,K4-L3-4,channel_10,D5559,False,reply,2026-09-14 08:57,M05904,True,0,59,[@BOT] mình phải gõ /topic pick vào kênh nào để chọn đề tài,uncertain,False
+M76548,K4-L3-4,channel_10,D8119,False,message,2026-09-14 08:57,,True,0,22,[@BOT] lan luot 1 va 2,uncertain,False
+M31759,K4-L3-4,channel_10,D8748,False,message,2026-09-14 09:02,,True,0,34,[@BOT] cho tôi 1 daily standup mẫu,logistics,False
+M31265,K4-L3-4,channel_10,D8748,False,message,2026-09-14 09:03,,False,0,1,@,uncertain,False
+M53889,K4-L3-4,channel_10,D6778,False,message,2026-09-14 09:03,,True,0,45,[@BOT] 1 ví dụ về cách sử dụng /daily-standup,logistics,False
+M13908,K4-L3-4,channel_10,D6778,False,message,2026-09-14 09:05,,True,0,41,[@BOT] hạn báo cáo daily-standup mỗi ngày,logistics,False
+M57734,K4-L3-4,channel_10,D7699,False,message,2026-09-14 09:05,,True,0,119,"[@BOT]  quy cách nộp daily standup, cả nhóm có phải nộp ko? hình thức nộp như nào, viết ra sao, có mẫu ko? Nộp vào đâu?",logistics,True
+M37965,K4-L3-4,channel_10,D7699,False,message,2026-09-14 09:06,,True,0,37,[@BOT] quy cách nộp daily sandup thôi,uncertain,False
+M79664,K4-L3-4,channel_10,D7699,False,message,2026-09-14 09:06,,True,0,125,"[@BOT] nộp daily standup cả nhóm có phải nộp ko hay 1 người thôi? hình thức nộp như nào, viết ra sao, có mẫu ko? Nộp vào đâu?",logistics,True
+M01157,K4-L3-4,channel_10,D7699,False,message,2026-09-14 09:07,,True,0,92,[@BOT] cả 2 Quy cách nộp daily standup cho cả nhóm và Quy cách nộp daily standup cho cá nhân,logistics,False
+M65121,K4-L3-4,channel_10,D0372,False,message,2026-09-14 09:14,,True,0,151,"[@BOT] 
+
+Quy cách nộp daily standup cho nhóm
+nộp theo nhóm một người nộp cho cả nhóm hay là mỗi cá nhân đều phải nôp
+Quy định về việc nộp bài nói chung",logistics,False
+M65205,K4-L3-4,channel_10,D7699,False,message,2026-09-14 09:14,,True,1,74,"[@BOT] nộp ở đâu cơ, phần này mình đánh lệnh /daily-standup rồi mà ko được",logistics,False
+M72480,K4-L3-4,channel_10,D0372,False,message,2026-09-14 09:14,,False,0,94,"Quy cách nộp daily standup cho nhóm (theo nhóm hay cá nhân)
+Quy định về việc nộp bài nói chung",logistics,False
+M41530,K4-L3-4,channel_12,D9617,False,message,2026-09-14 09:15,,False,0,1336,"**[REMIND]** THÔNG BÁO HOÀN THIỆN CÁC BƯỚC ONBOARDING VÀO CHƯƠNG TRÌNH
+
+Chào mừng các bạn đã đến với Chương trình AI20K - Build Phase Cohort 4. Để hoàn tất quá trình onboarding và bắt đầu chặng đường 6 tuần tới, BTC thông tin đến các bạn học viên [@role]  chưa hoàn thiện hồ sơ và lập đội bắt đầu thực chiến.
+
+Các bạn học viên chưa được định danh, vui lòng đăng nhập vào nền tảng Phoenix bằng link mời dưới đây và **Tiếp tục với Github** cùng email đã đăng ký với chương trình.
+
+> Link tham gia chương trình:
+> https://phoenix.note.transformerlabs.ai/invite/mJqIWQFwiPWu2MRWZ5JYARkOrQarrK4hTdcqlTVFP5g
+
+Hoàn thành đủ các bước:
+1. Vào nền tảng bằng lời mời
+2. Xác minh danh tính
+3. Kết nối và xác minh Discord
+4. Hoàn tất hồ sơ năng lực
+5. Chờ hệ thống ghép đội
+
+🗓️ Thời hạn hoàn thành đến 21:00 14/9/2026
+**Sau thời gian trên hệ thống sẽ tự động mời các bạn chưa hoàn tất hồ sơ ra khỏi server Discord hiện tại vì không xác minh được danh tính trên Phoenix và Discord.**
+
+Lưu ý: Trường hợp tài khoản Github đang liên kết với nhiều email, hãy cài đặt email đăng ký với chương trình thành Primary tại https://github.com/settings/emails trước khi truy cập vào link mời.
+
+Mọi vấn đề thắc mắc trong quá trình onboarding các bạn vui lòng tạo ticket để được hỗ trợ.
+> Cách thức tạo ticket: gõ command /ticket create tại kênh ⁠[link:discord.com]",logistics;academic;mixed,False
+M45897,K4-L3-4,channel_10,D0372,False,message,2026-09-14 09:16,,False,0,116,"bạn hãy cho tôi biết 
+Quy cách nộp daily standup cho nhóm (theo nhóm hay cá nhân)
+Quy định về việc nộp bài nói chung",logistics,False
+M66116,K4-L3-4,channel_10,D0372,False,message,2026-09-14 09:18,,True,0,124,"[@BOT] 
+bạn hãy cho tôi biết 
+Quy cách nộp daily standup cho nhóm (theo nhóm hay cá nhân)
+Quy định về việc nộp bài nói chung",logistics,False
+M07653,K4-L3-4,channel_10,D6243,False,message,2026-09-14 09:21,,True,0,29,[@BOT] hạn nộp daily stand up,logistics,False
+M91027,K4-L3-4,channel_10,D0372,False,message,2026-09-14 09:21,,True,0,54,[@BOT] viết /daily-standup ở nhóm nào hay kênh nào nhỉ,logistics,False
+M37039,K4-L3-4,channel_10,D8748,False,message,2026-09-14 09:22,,True,0,103,[@BOT] ngoài daily-standup còn phải nộp gì trong discord nhóm nữa không? và làm sao xem số XP hiện tại?,logistics,True
+M58077,K4-L3-4,channel_10,D7158,False,message,2026-09-14 09:22,,True,0,84,[@BOT]  Tham gia hỏi câu hỏi ở workshop là auto cộng điểm hay phải đăng ký chờ duyệt,uncertain,False
+M51928,K4-L3-4,channel_10,D9854,False,message,2026-09-14 09:25,,True,0,42,[@BOT] mình có thể ghi daily-standup ở đâu,logistics,False
+M19942,K4-L3-4,channel_11,D7699,False,message,2026-09-14 09:27,,False,1,103,[@D9617] anh ơi nhóm em cả team nhận lệnh daily standup hết mà có mỗi em ko được ạ! Anh xem giúp em với,logistics,False
+M69477,K4-L3-4,channel_10,D9854,False,message,2026-09-14 09:28,,True,0,79,[@BOT] cho mình hỏi mình có thể ghi daily-standup ở kênh Discord cụ thể nào vậy,logistics,False
+M02135,K4-L3-4,channel_10,D4788,False,message,2026-09-14 09:31,,True,0,60,[@BOT] pick là chốt đề tài à về sau dùng lệnh gì để chọn lại,uncertain,False
+M02793,K4-L3-4,channel_10,D4788,False,message,2026-09-14 09:31,,False,0,53,pick là chốt đề tài à về sau dùng lệnh gì để chọn lại,uncertain,False
+M76319,K4-L3-4,channel_10,D6179,False,message,2026-09-14 09:31,,True,0,52,[@BOT] bạn có đọc được ngân hàng 382 đề tài khoá 4 ?,uncertain,True
+M83607,K4-L3-4,channel_10,D9854,False,message,2026-09-14 09:31,,True,0,31,[@BOT] chỗ thảo luận nhóm ở đâu,logistics,False
+M46207,K4-L3-4,channel_10,D6179,False,message,2026-09-14 09:32,,True,0,145,"[@BOT] trong kênh thông báo , đường link đây https://docs.google.com/spreadsheets/d/1KcqXZNqbPWVI8o10Dsmy9IWr1gXNULWciornlKRIwPE/edit?usp=sharing",logistics,True
+M25799,K4-L3-4,channel_11,D6778,False,reply,2026-09-14 09:33,M19942,False,1,46,bạn gõ như này r hiện ra cái trên bấm vô là đc,uncertain,False
+M26845,K4-L3-4,channel_10,D5508,False,message,2026-09-14 09:33,,True,0,114,"[@BOT] để không bị miss thông báo nhưng cũng không bị spam thông báo, cài đặt chế độ chỉ mentions là được đúng ko?",uncertain,True
+M83821,K4-L3-4,channel_11,D7699,False,message,2026-09-14 09:35,,False,0,83,"[@D9617] à được rồi anh ạ discord em chặn lệnh function, em vừa enable lại được rồi",academic,False
+M04392,K4-L3-4,channel_11,D7286,False,message,2026-09-14 09:37,,False,0,109,"Các bạn labcoach cho mình hỏi khi nào thì được nhận thẻ với áo ạ, khai giảng mình không đi được nên chưa nhận",logistics;academic;mixed,False
+M28018,K4-L3-4,channel_10,D5104,False,message,2026-09-14 09:47,,True,0,51,[@BOT] daily standup cho nhóm có phải nộp không bạn,logistics,False
+M04634,K4-L3-4,channel_10,D5291,False,reply,2026-09-14 09:49,M67171,False,0,12,cảm ơn ô nhé,greeting,False
+M67171,K4-L3-4,channel_10,D0719,False,message,2026-09-14 09:49,,False,0,64,"Kênh đó chỉ để thông báo thôi bro à, gõ lệnh ở kênh thảo luận ấy",uncertain,False
+M73225,K4-L3-4,channel_10,D2838,False,message,2026-09-14 09:53,,True,0,52,[@BOT] phần /daily-standup làm ở đâu và làm như nào?,logistics,True
+M30047,K4-L3-4,channel_10,D2838,False,reply,2026-09-14 09:54,M61098,True,0,30,1. sử dụng lệnh /daily-standup,logistics,False
+M01069,K4-L3-4,channel_10,D2838,False,reply,2026-09-14 09:56,M24307,True,0,74,"địa điểm (forum thread của team) là mục ""thảo luận"" trong team đúng không?",logistics,True
+M27846,K4-L3-4,channel_10,D0531,False,message,2026-09-14 09:58,,True,0,98,"[@BOT] lệnh daily standup là gì, báo cáo tiến độ học cá nhân hay báo cáo việc build phase của team",logistics,False
+M12266,K4-L3-4,channel_10,D2787,False,message,2026-09-14 10:06,,True,0,68,[@BOT] Lệnh daily standup là báo cáo tiến độ build phase đúng không?,logistics,True
+M80778,K4-L3-4,channel_10,D9703,False,message,2026-09-14 10:09,,True,0,77,"[@BOT] Là ngày nào cũng gửi /daily-standup hả, trước 23h59 ngày đó phải không",logistics,False
+M47514,K4-L3-4,channel_10,D2838,False,message,2026-09-14 10:12,,True,0,163,"[@BOT] Liệt kê toàn bộ công việc phải làm và cần làm trong 1 ngày khi tham gia chương trình Build Phase, của cá nhân và của nhóm, note lai những việc nào được +XP?",logistics,True
+M81080,K4-L3-4,channel_10,D6014,False,message,2026-09-14 10:12,,True,0,30,[@BOT] nộp daily standup ở đâu,logistics,False
+M78574,K4-L3-4,channel_10,D2787,False,message,2026-09-14 10:14,,True,0,106,[@BOT] nộp daily standup chỉ ở nội dung build phase thôi hay có cả học LAB và LEC trên giảng đường vinuni?,logistics;academic;mixed,True
+M81764,K4-L3-4,channel_10,D3866,False,message,2026-09-14 10:20,,True,0,35,[@BOT] tạo ticket để đề xuất đề tài,logistics,False
+M75939,K4-L3-4,channel_10,D9960,False,message,2026-09-14 10:24,,True,0,74,[@BOT] giờ tôi muốn tạo đề xuất ý tưởng ngoài project bank thì tạo thế nào,uncertain,False
+M80418,K4-L3-4,channel_10,D5437,False,message,2026-09-14 10:24,,True,0,40,[@BOT] chọn đề tài ròi nộp bằng cách nào,uncertain,False
+M58069,K4-L3-4,channel_10,D5523,False,message,2026-09-14 10:25,,True,0,164,[@BOT] điểm danh của các buổi workshop / mentor duty có tính vào limit vắng tối đa 4 buổi trong một khoá học không. Được vắng tối đa mấy buổi workshop/ mentor duty.,logistics,False
+M89067,K4-L3-4,channel_10,D9960,False,reply,2026-09-14 10:25,M93395,True,0,2,1.,uncertain,False
+M21463,K4-L3-4,channel_11,D6667,False,message,2026-09-14 10:39,,False,0,171,"dạ cho em hỏi là hôm nay em mới nộp daily standup, em nhận được thông báo là em nộp muộn không được điểm danh vậy là hôm qua em tham gia lớp  học là không tính điểm danh ạ",logistics,True
+M88122,K4-L3-4,channel_10,D4567,False,message,2026-09-14 10:39,,True,0,46,mentor duty 1 tuần phải báo cáo mấy lần [@BOT],uncertain,False
+M02015,K4-L3-4,channel_10,D7699,False,message,2026-09-14 10:43,,True,0,25,[@BOT] mentor duty là gì?,uncertain,True
+M27434,K4-L3-4,channel_11,D5508,False,reply,2026-09-14 10:46,M21463,False,0,48,daily online ko có liên quan tới lớp học offline,logistics,False
+M34618,K4-L3-4,channel_10,D7038,False,message,2026-09-14 10:50,,True,0,46,[@BOT]  nhóm không đủ 4 người thì có sao không,logistics,False
+M40510,K4-L3-4,channel_11,D3694,False,message,2026-09-14 11:14,,False,0,83,Các bạn có thể thử Deepseek bản 4.1 đang đc x4 mức sử dụng trên Opencode Go gói 10$,academic,False
+M66575,K4-L3-4,channel_10,D7158,False,message,2026-09-14 11:17,,True,0,34,[@BOT] lấy data ở đâu để làm dự án,logistics,False
+M04524,K4-L3-4,channel_10,D3717,False,message,2026-09-14 11:18,,True,0,37,[@BOT] khi nào biết mentor mình là ai,logistics,False
+M99331,K4-L3-4,channel_10,D3717,False,message,2026-09-14 11:18,,True,0,32,[@BOT] hạn nộp mentor duty là gì,logistics,False
+M31729,K4-L3-4,channel_10,D7158,False,message,2026-09-14 11:19,,True,0,34,[@BOT] lấy data cho dự án làm nhóm,logistics,False
+M32641,K4-L3-4,channel_10,D3717,False,message,2026-09-14 11:19,,True,0,39,[@BOT] mentor của quá trinh build phase,uncertain,False
+M00819,K4-L3-4,channel_10,D2743,False,message,2026-09-14 11:20,,True,0,24,[@BOT] đổi trong discord,uncertain,False
+M21470,K4-L3-4,channel_10,D2743,False,message,2026-09-14 11:20,,True,0,40,[@BOT] chọn topic xong có đổi được không,uncertain,False
+M03935,K4-L3-4,channel_10,D7158,False,message,2026-09-14 11:23,,True,0,49,[@BOT] điểm nào sẽ ảnh hưởng tới thực tập sau này,uncertain,False
+M23675,K4-L3-4,channel_10,D7158,False,message,2026-09-14 11:24,,True,0,75,[@BOT] tất cả các điểm ảnh hưởng hoặc boost hồ sơ cho việc thực tập sau này,uncertain,False
+M80383,K4-L3-4,channel_10,D3081,False,message,2026-09-14 11:26,,True,0,63,[@BOT] muốn đổi đề tài đồ án đã chọn qua topic pick thì như nào,uncertain,False
+M59935,K4-L3-4,channel_10,D1014,False,message,2026-09-14 11:29,,True,0,38,[@BOT] /topic pick đề tài ở kênh nào ?,uncertain,True
+M84706,K4-L3-4,channel_10,D3081,False,message,2026-09-14 11:29,,True,0,73,[@BOT] có cách nào để biết đề tài nào còn trống hoặc chưa được chọn không,uncertain,False
+M42906,K4-L3-4,channel_10,D2838,False,message,2026-09-14 11:30,,True,0,134,[@BOT] Checklist công việc cho học viên trong giai đoạn Build Phase trên kênh #Build và Checklist công việc liên quan đến Office Hours,uncertain,False
+M39909,K4-L3-4,channel_10,D1719,False,message,2026-09-14 11:39,,True,0,47,[@BOT] cách xem bản thân có bao nhiêu exp ở đâu,logistics,False
+M45837,K4-L3-4,channel_10,D5291,False,message,2026-09-14 11:57,,True,0,29,[@BOT] hạn nộp daily stand-up,logistics,False
+M32570,K4-L3-4,channel_10,D9697,False,message,2026-09-14 12:01,,True,0,45,[@BOT] các tiêu chí đánh giá ở demo day là gì,uncertain,False
+M18465,K4-L3-4,channel_10,D9697,False,message,2026-09-14 12:04,,True,0,85,[@BOT] có bắt buộc phải trao đổi trong phần thảo luận của team trên discord này không,logistics,False
+M02662,K4-L3-4,channel_10,D9697,False,message,2026-09-14 12:05,,True,0,77,[@BOT] nhang chúng tôi có thể lập nhóm bên ngoài và chỉ trao đổi tại đó không,logistics,False
+M39073,K4-L3-4,channel_10,D5998,False,message,2026-09-14 12:19,,True,0,36,[@BOT] làm thế nào để đăng kí đề tài,uncertain,False
+M78589,K4-L3-4,channel_10,D5998,False,message,2026-09-14 12:21,,True,0,30,[@BOT]  thế dùng ở channel nào,uncertain,False
+M84372,K4-L3-4,channel_11,D5878,False,reply,2026-09-14 12:27,M21463,False,0,35,"mình cũng thế, cũng đang hoang mang",uncertain,False
+M87089,K4-L3-4,channel_11,D3694,False,message,2026-09-14 12:46,,False,0,13,Không sao nhé,uncertain,False
+M70834,K4-L3-4,channel_11,D3694,False,reply,2026-09-14 12:47,M21463,False,0,25,Cái này khác trên lớp nha,logistics,False
+M67839,K4-L3-4,channel_11,D5878,False,reply,2026-09-14 12:52,M70834,False,0,104,"cho e hỏi là, cái daily stand up này hôm nào cũng phải vào làm song song với điểm danh trên lớp đúng k ạ",logistics,True
+M85377,K4-L3-4,channel_11,D5523,False,message,2026-09-14 13:00,,False,0,272,Cho em hỏi điểm danh của các buổi workshop / mentor duty có tính vào limit vắng tối đa 4 buổi trong một khoá học không ạ? Em vắng buổi hôm qua thì còn được vắng tối đa mấy buổi workshop/ mentor duty nữa trong suốt phần còn lại của khoá học ạ? Em cảm ơn ban tổ chức đã đọc.,logistics,True
+M47177,K4-L3-4,channel_11,D9617,False,reply,2026-09-14 13:09,M85377,False,0,170,Các hoạt động build online không liên quan đến các hoạt đông offline trên lớp học. Nên quy định vắng tối đa 4 buổi trên lớp không tính các buổi workshop / mentor duty nhé,logistics,False
+M49552,K4-L3-4,channel_11,D3694,False,reply,2026-09-14 13:17,M67839,False,0,8,Đúng rồi,uncertain,False
+M30631,K4-L3-4,channel_11,D3694,False,message,2026-09-14 13:18,,False,0,56,Hôm đó mình có nhắc là cần phân biệt rõ các hoạt động ấy,uncertain,False
+M84768,K4-L3-4,channel_11,D3694,False,message,2026-09-14 13:18,,False,0,43,"[link:discord.com] 
+có thể xem lại ở đây nè",logistics,False
+M89356,K4-L3-4,channel_11,D3694,False,message,2026-09-14 13:18,,False,0,47,Các bạn khum tham gia ws kick-off đúng khôngggg,uncertain,False
+M02078,K4-L3-4,channel_10,D2204,False,message,2026-09-14 13:19,,True,0,83,"[@BOT] làm sao để check điểm XP, và làm sao để biết mình đã được điểm danh workshop",logistics,False
+M32784,K4-L3-4,channel_11,D5878,False,reply,2026-09-14 13:23,M49552,False,0,135,"em có ạ, mà nay em học tối nên k để ý thời gian nộp /daily ạ. A cho em hỏi nộp muộn 1 hôm thì có ảnh hưởng nhiều không ạ. Em cảm ơn a ạ",greeting,False
+M51628,K4-L3-4,channel_11,D3694,False,reply,2026-09-14 13:25,M32784,False,0,75,"Không làm thì nó không tính xp thôi , lần sau nhớ tập thoái quen là được nè",logistics,False
+M10983,K4-L3-4,channel_11,D7108,False,message,2026-09-14 13:26,,False,0,65,mình có tham gia ws hôm qua mà ko được duyệt hoạt động là sao nhỉ,uncertain,False
+M66800,K4-L3-4,channel_11,D3694,False,reply,2026-09-14 13:27,M10983,False,0,19,Ý [HV] là sao nhỉ ?,uncertain,True
+M64649,K4-L3-4,channel_11,D7108,False,message,2026-09-14 13:28,,False,0,16,à ko mình lộn :D,uncertain,False
+M15675,K4-L3-4,channel_10,D9697,False,message,2026-09-14 13:33,,True,0,8,[@BOT] 1,uncertain,False
+M32673,K4-L3-4,channel_10,D9697,False,message,2026-09-14 13:33,,True,0,139,[@BOT] nếu chọn chủ đề trong build phase liên quan đến phần cứng thì mình có phải tự chuẩn bị phần cứng không hay được ban tổ chức cung cấp,uncertain,False
+M97705,K4-L3-4,channel_10,D6729,False,message,2026-09-14 13:42,,True,0,30,[@BOT] cách nộp daily stand up,uncertain,False
+M63545,K4-L3-4,channel_10,D6729,False,message,2026-09-14 13:43,,True,0,22,[@BOT] nộp như thế nào,uncertain,False
+M67984,K4-L3-4,channel_10,D6729,False,message,2026-09-14 13:43,,True,0,8,[@BOT] 2,uncertain,False
+M35049,K4-L3-4,channel_11,D5508,False,message,2026-09-14 13:48,,False,0,128,"[@D3694] em ở team T062, do đặt nhầm tên thành T026 mà hôm qua không được điểm danh XP, BTC hỗ trợ em điểm danh bù được không ạ?",logistics,True
+M36443,K4-L3-4,channel_11,D3694,False,reply,2026-09-14 13:54,M35049,False,0,17,Tạo ticket đi nhé,logistics,False
+M82953,K4-L3-4,channel_10,D7315,False,message,2026-09-14 13:54,,True,0,23,[@BOT] check xp như nào,logistics,False
+M54714,K4-L3-4,channel_10,D7315,False,message,2026-09-14 13:55,,True,0,49,[@BOT] tổng hợp những cách để tăng xp lên cho tôi,logistics,False
+M99601,K4-L3-4,channel_10,D7315,False,message,2026-09-14 13:56,,True,0,29,[@BOT] tăng xp trong /rank ấy,logistics,False
+M49517,K4-L3-4,channel_10,D7315,False,message,2026-09-14 13:57,,True,0,116,[@BOT] thế giơ tay trên lớp đóng góp bài và thắng các trò chơi trên lớp thì có tính được cộng điểm trong rank này kh,logistics,False
+M54084,K4-L3-4,channel_10,D7315,False,message,2026-09-14 13:59,,True,0,210,"[@BOT] 1, nếu giơ tay phát biểu mất bao lâu được duyệt cộng điểm vì hiện tại có 2 lần tôi giơ tay mà chưa được thấy
+2, hiện tại thì nếu chưa được cộng vào thì có thể làm gì để kiến nghị (lập ticket yêu cầu à ?)",logistics,True
+M31042,K4-L3-4,channel_10,D8241,False,message,2026-09-14 14:00,,True,0,48,[@BOT] tài liệu nộp mentor duty bao gồm những gì,uncertain,False
+M75443,K4-L3-4,channel_10,D9617,False,reply,2026-09-14 14:17,M54084,False,0,123,"Các hoạt động trên lớp offline không liên quan đến hoạt động build, do đó XP cũng không liên quan gì đến điểm cộng trên lớp",logistics,False
+M30222,K4-L3-4,channel_10,D7315,False,reply,2026-09-14 14:31,M75443,False,0,23,Dạ vâng em cảm ơn anh ạ,greeting,False
+M80377,K4-L3-4,channel_10,D8866,False,message,2026-09-14 14:40,,True,0,145,"[@BOT] Em có giấy gọi khám sơ tuyển NVQS nhưng không về địa phương kịp thì BTC có hỗ trợ giấy tờ xác nhận hay gì không, để em nộp cho địa phương?",uncertain,True
+M76873,K4-L3-4,channel_10,D5508,False,reply,2026-09-14 14:44,M75443,False,0,121,"May quá điểm offline ko cộng XP, buổi học off nào em cũng phát biểu mà em ko làm request. Nếu cộng điểm XP là em lỗ rồi 😁",logistics,False
+M99973,K4-L3-4,channel_10,D5857,False,message,2026-09-14 14:46,,False,0,132,"mình đặt sai cú pháp khi tham gia zoom workshop nên không được ghi nhận, mình nên xử lí như nào, nếu tạo ticket thì mình làm như nào",logistics,False
+M22825,K4-L3-4,channel_10,D5508,False,reply,2026-09-14 14:47,M99973,False,0,19,tag @ trợ lý đi bạn,uncertain,False
+M22532,K4-L3-4,channel_11,D2228,False,message,2026-09-14 14:48,,False,0,741,"[@role]
+Xin chào các bạn, mình từ team sản xuất video bài giảng Vlearn.
+
+Bọn mình đang tuyển team QA video, gồm nhóm nhỏ học viên & lab coach xem và góp ý cho các video bài giảng trên VLearn. Mỗi bạn được phân công một số video, feedback theo template có sẵn về nội dung, voice, hình ảnh và các lỗi gặp phải.
+
+Tham gia team, các bạn sẽ được hưởng các quyền lợi hấp dẫn như công cụ AI từ chương trình, trực tiếp định hình chất lượng video của chính khóa mình, được làm việc cùng lab coach & giảng viên, và được ghi nhận đóng góp trong tài nguyên chương trình.
+
+Mọi background, mọi kinh nghiệm đều được hoan nghênh nha!!
+
+👉 Link đăng ký: https://forms.gle/QTTCH2QEASPf8trYA
+⏰ Hạn: hết ngày 16/9. Số lượng có hạn, bạn nào quan tâm điền sớm nhé!",logistics;academic;mixed,False
+M45740,K4-L3-4,channel_10,D5857,False,message,2026-09-14 14:48,,True,0,139,"[@BOT] mình đặt sai cú pháp khi tham gia zoom workshop nên không được ghi nhận, mình nên xử lí như nào, nếu tạo ticket thì mình làm như nào",logistics,False
+M70619,K4-L3-4,channel_10,D2935,False,message,2026-09-14 14:48,,True,0,68,[@BOT] làm sao để biết mình được ghi nhận khi tham gia zoom workshop,greeting,False
+M16662,K4-L3-4,channel_11,D7936,False,reply,2026-09-14 14:52,M22532,False,0,113,[@D2228] cho em hỏi trung bình mỗi bạn sẽ được phân công khoảng bao nhiêu video và deadline feedback là bao lâu ạ,logistics,False
+M10516,K4-L3-4,channel_10,D0099,False,message,2026-09-14 14:54,,True,0,97,"[@BOT] đối với đề tài max là 2 team, thế làm sao biết được đề tài đấy đã có người chọn hay chưa ?",logistics,True
+M75778,K4-L3-4,channel_10,D0099,False,message,2026-09-14 14:55,,True,0,79,[@BOT] ý tôi là làm sao biết được là đề tài đấy đã có bao nhiêu người chọn rồi?,uncertain,True
+M89373,K4-L3-4,channel_10,D8963,False,message,2026-09-14 14:57,,True,0,38,[@BOT] tạo ticket như nào và ở đâu vậy,logistics,False
+M91364,K4-L3-4,channel_10,D8963,False,message,2026-09-14 14:59,,True,0,23,[@BOT] tạo tại kênh nào,uncertain,False
+M88243,K4-L3-4,channel_10,D4761,False,message,2026-09-14 15:02,,True,0,30,[@BOT] tạo ticket tại kênh nào,logistics,False
+M07981,K4-L3-4,channel_10,D6509,False,message,2026-09-14 15:03,,True,0,31,[@BOT] mã đội với mã nhóm là gì,logistics,False
+M90856,K4-L3-4,channel_10,D6509,False,message,2026-09-14 15:03,,False,0,24,mã đội với mã nhóm là gì,logistics,False
+M01842,K4-L3-4,channel_11,D2228,False,reply,2026-09-14 15:04,M16662,False,0,143,"hiện tại thì mỗi bạn sẽ được phân khoảng 1-2 ngày, mỗi ngày tất cả video tầm 20 phút. các bạn sẽ feedback trong 24 tiếng sau khi nhận video nhé",greeting,False
+M20324,K4-L3-4,channel_10,D6509,False,message,2026-09-14 15:04,,True,0,43,[@BOT] Đã có lịch thông báo về mentors chưa,logistics,False
+M65817,K4-L3-4,channel_10,D6509,False,message,2026-09-14 15:04,,True,0,23,[@BOT] Xem đề tài ở đâu,logistics,False
+M82348,K4-L3-4,channel_10,D6509,False,message,2026-09-14 15:04,,True,0,31,[@BOT] tôi cần danh sách đề tài,uncertain,False
+M12506,K4-L3-4,channel_10,D4761,False,message,2026-09-14 15:05,,True,0,61,[@BOT] kiểm tra xem đề tài đã có nhóm chọn chưa bằng cách nào,logistics,False
+M51256,K4-L3-4,channel_10,D6509,False,message,2026-09-14 15:12,,True,0,54,"[@BOT] mỗi nhóm có 1 đề tài, đề tài sẽ lấy data từ đâu",logistics,False
+M81204,K4-L3-4,channel_10,D6509,False,message,2026-09-14 15:12,,True,0,40,[@BOT] sau data cho đề tài là btc cấp à?,uncertain,True
+M73003,K4-L3-4,channel_10,D6509,False,message,2026-09-14 15:13,,True,0,96,"[@BOT] mỗi nhóm có 1 đề tài, đề tài cần có dữ liệu để huấn luyện mô hình, dữ liệu này lấy từ đâu",logistics,False
+M34960,K4-L3-4,channel_10,D5762,False,message,2026-09-14 15:38,,True,0,70,[@BOT] Có xếp hạng cả XP nhóm không hay chỉ xếp hạng XP cá nhân thôi ?,logistics,True
+M69343,K4-L3-4,channel_11,D1855,False,message,2026-09-14 15:38,,False,1,122,Cho mình hỏi làm sao để được 10xp này vì hôm qua mình cũng tham gia workshop 2 từ đầu đến cuỗi nhưng không thấy được cộng.,logistics,True
+M98666,K4-L3-4,channel_10,D7506,False,message,2026-09-14 15:39,,True,0,160,"[@BOT] thời gian mở daily standup và kết thúc là khi nào vậy? hôm qua mình gửi sớm daily standup thì không được, chiều nay quá deadline thì nó lại blocked mình.",logistics,True
+M42138,K4-L3-4,channel_11,D5508,False,reply,2026-09-14 15:42,M69343,False,0,85,cần đặt tên hiển thị trên zoom theo đúng cú pháp và có tương tác trong workshop bạn ạ,uncertain,False
+M57810,K4-L3-4,channel_10,D7506,False,message,2026-09-14 15:42,,True,0,89,[@BOT]cho biết thời gian mở và đóng mentor duty hằng ngày để không bị blocked như hôm nay,uncertain,False
+M78917,K4-L3-4,channel_10,D9617,False,message,2026-09-14 15:46,,False,0,207,"Khung giờ daily standup để được cộng XP: 0h-10h sáng. Nộp trễ vẫn ghi nhận nhưng không +XP.
+
+Khung giờ nộp mentor duty để được cộng XP: Trước 12h00 các buổi mentor duty. Nộp trễ vẫn ghi nhận nhưng không +XP.",logistics,False
+M45316,K4-L3-4,channel_10,D7506,False,reply,2026-09-14 16:07,M78917,False,0,150,"Trợ lý Kute blocked k cho em nộp nữa :(( mentor duty thì nộp ngày hôm trước miễn 12h hôm sau là vẫn được anh nhỉ, hay có giới hạn trước 24h hay gì k ạ",uncertain,False
+M79177,K4-L3-4,channel_10,D9617,False,reply,2026-09-14 16:09,M45316,False,0,48,Nộp hôm trước miễn trước 12h hôm sau là được nhé,uncertain,False
+M04785,K4-L3-4,channel_10,D8670,False,message,2026-09-14 16:12,,True,0,66,[@BOT] làm thế nào để biết những chủ đề nào đã được các team chọn?,logistics,True
+M36622,K4-L3-4,channel_10,D1631,False,message,2026-09-14 16:23,,False,0,23,Cách nộp daily stand up,uncertain,False
+M41736,K4-L3-4,channel_10,D1631,False,message,2026-09-14 16:23,,True,0,31,[@BOT]  cách nộp daily stand up,uncertain,False
+M77684,K4-L3-4,channel_10,D1631,False,message,2026-09-14 16:24,,True,0,44,[@BOT]  nơi nộp và cú pháp nộp daily standup,logistics,False
+M90994,K4-L3-4,channel_10,D1631,False,message,2026-09-14 16:24,,True,0,33,[@BOT]  cú pháp nộp daily standup,logistics,False
+M41464,K4-L3-4,channel_10,D5337,False,message,2026-09-14 16:29,,True,0,41,[@BOT] Các câu lệnh chọn đề tài cho team.,logistics,False
+M94492,K4-L3-4,channel_10,D5337,False,message,2026-09-14 16:30,,True,0,34,xem lại topic đã chọn ở đâu [@BOT],logistics,False
+M87414,K4-L3-4,channel_10,D9703,False,message,2026-09-14 16:33,,True,0,66,[@BOT] làm sao để biết chủ đề mình định đăng ký còn slot hay không,uncertain,False
+M44653,K4-L3-4,channel_10,D5337,False,message,2026-09-14 16:34,,True,0,33,[@BOT] Bao giờ mở đăng ký đề tài?,logistics,True
+M68755,K4-L3-4,channel_10,D0223,False,message,2026-09-14 16:51,,True,0,57,[@BOT] chat riêng với b để ko cho ng khác tham gia kiểu j,uncertain,False
+M85618,K4-L3-4,channel_10,D5523,False,message,2026-09-14 16:53,,True,0,43,[@BOT] làm sao biết đề tài nào đã được chọn,uncertain,False
+M99277,K4-L3-4,channel_10,D2743,False,message,2026-09-14 17:27,,True,0,44,[@BOT] Tạo kênh voice riêng cho nhóm kiểu gì,logistics,False
+M54695,K4-L3-4,channel_10,D4146,False,message,2026-09-14 17:31,,True,0,60,[@BOT] [HV] gì vào biến yesterday và today của Daily-standup,logistics,False
+M67858,K4-L3-4,channel_10,D4146,False,message,2026-09-14 17:32,,True,0,38,[@BOT] Cách sử dụng lệnh daily-standup,logistics,False
+M35533,K4-L3-4,channel_10,D0712,False,message,2026-09-14 17:33,,True,0,29,[@BOT] xem xp của tôi và team,logistics_personal;logistics,False
+M58005,K4-L3-4,channel_10,D0712,False,message,2026-09-14 17:33,,True,0,19,[@BOT] xem xp ở đâu,logistics,False
+M16166,K4-L3-4,channel_10,D3444,False,message,2026-09-14 17:48,,True,0,143,[@BOT] Tham gia workshop đăng nhập Zoom với đúng email đã đăng ký với chương trình và nhưng đặt tên không đúng cú pháp thì được điểm danh không,logistics,False
+M48369,K4-L3-4,channel_10,D3046,False,message,2026-09-14 17:49,,True,0,69,[@BOT] sau khi chốt nhóm muốn đổi tên nhóm thì cần làm những bước gì?,logistics,True
+M92098,K4-L3-4,channel_11,D7056,False,message,2026-09-14 17:49,,False,0,1,.,uncertain,False
+M18056,K4-L3-4,channel_10,D1922,False,message,2026-09-14 17:52,,False,0,12,xem xp ở đâu,logistics,False
+M37242,K4-L3-4,channel_10,D0526,False,message,2026-09-14 17:52,,True,0,28,[@BOT] làm sao để tạo ticket,logistics,False
+M50414,K4-L3-4,channel_10,D1922,False,message,2026-09-14 17:52,,True,0,19,[@BOT] xem xp ở đâu,logistics,False
+M55412,K4-L3-4,channel_10,D0526,False,message,2026-09-14 17:52,,True,0,28,[@BOT] Làm sao để tạo ticket,logistics,False
+M21731,K4-L3-4,channel_10,D7474,False,message,2026-09-14 18:14,,True,0,95,[@BOT] Hôm qua chưa đổi tên thêm mã team trên zoom mà đã vào team rồi thì có nhận xp workshop k,logistics,False
+M29397,K4-L3-4,channel_10,D2494,False,message,2026-09-14 18:15,,True,0,44,[@BOT] tôi muốn lấy slide tài liệu học ở đâu,logistics,False
+M65465,K4-L3-4,channel_10,D6944,False,message,2026-09-14 18:20,,True,0,25,[@BOT]  Mã nhóm lấy ở đau,logistics,False
+M20366,K4-L3-4,channel_10,D6676,False,message,2026-09-14 18:35,,True,0,40,[@BOT] cach xem rank cua ca nhan nhu nao,uncertain,False
+M83678,K4-L3-4,channel_10,D6676,False,reply,2026-09-14 18:36,M78174,True,0,37,điểm XP của cá nhân trên nền tảng này,logistics,False
+M56834,K4-L3-4,channel_10,D9854,False,message,2026-09-14 18:42,,True,0,57,[@BOT] chọn topic như thế nào và nên nhắn vô channel nào?,uncertain,True
+M97932,K4-L3-4,channel_10,D2935,False,message,2026-09-14 18:58,,True,0,43,[@BOT] 3 track của chương trình như thế nào,uncertain,False
+M05791,K4-L3-4,channel_10,D4508,False,message,2026-09-14 19:04,,True,0,49,[@BOT] cần daily standup trước mấy giờ để nhận XP,logistics,False
+M41902,K4-L3-4,channel_10,D7108,False,message,2026-09-14 19:18,,True,0,11,[@BOT] 1 đi,uncertain,False
+M86498,K4-L3-4,channel_10,D7108,False,message,2026-09-14 19:18,,True,0,53,[@BOT] có thể lấy nội dung channel của nhóm tôi không,logistics,False
+M82163,K4-L3-4,channel_10,D6944,False,message,2026-09-14 19:35,,True,0,82,[@BOT]  cái daly-standup sao m ghi là hết hôm nay nhưng nộp bài thì m kêu hết hạn.,logistics,False
+M63524,K4-L3-4,channel_10,D4992,False,message,2026-09-14 19:48,,False,0,11,cách xem xp,logistics,False
+M39389,K4-L3-4,channel_10,D4992,False,message,2026-09-14 19:49,,True,0,23,[@BOT] các cách nhận xp,logistics,False
+M97998,K4-L3-4,channel_10,D4992,False,message,2026-09-14 19:49,,True,0,18,cách xem xp [@BOT],logistics,False
+M35080,K4-L3-4,channel_10,D6944,False,message,2026-09-14 20:08,,True,0,47,[@BOT]  nếu nộp muộn daily-standup có bị sao ko,logistics,False
+M48376,K4-L3-4,channel_10,D6791,False,message,2026-09-14 20:12,,True,0,37,[@BOT] check điểm xp của team kiểu gì,logistics,False
+M65517,K4-L3-4,channel_10,D9881,False,message,2026-09-14 20:13,,True,0,35,[@BOT] có xem được lịch sử +XP ko ?,logistics,True
+M30457,K4-L3-4,channel_10,D5889,False,message,2026-09-14 20:15,,True,0,33,[@BOT] điểm xp này dùng để làm gì,logistics,False
+M83132,K4-L3-4,channel_10,D9585,False,message,2026-09-14 20:23,,True,0,35,[@BOT] điểm cộng trên lớp xem ở đâu,logistics,False
+M69776,K4-L3-4,channel_10,D9585,False,message,2026-09-14 20:24,,True,0,8,[@BOT] 2,uncertain,False
+M78600,K4-L3-4,channel_10,D9585,False,message,2026-09-14 20:24,,False,0,1,2,uncertain,False
+M64361,K4-L3-4,channel_11,D8976,False,message,2026-09-14 20:28,,False,0,259,"Mọi người muốn leo BXH nhanh thì tích cực chia sẻ thông tin, mẹo vặt hữu ích liên quan đến AI hoặc cho chương trình học tại [#channel] nhaaa. Càng hay càng nhiều điểm, lên top vù vù. ~~Top trong tim mình và các bạn học viên, còn top server thì mình chịu nhé~~",uncertain,False
+M45299,K4-L3-4,channel_11,D9617,False,reply,2026-09-14 20:29,M64361,False,0,106,Dù mùa này không +XP cho các hoạt động này nhưng vẫn khuyến khích các bạn chia sẻ và cùng nhau học tập nhé,logistics,False
+M87083,K4-L3-4,channel_11,D1616,False,message,2026-09-14 20:29,,False,1,46,B nào hôm nay nghỉ học thì thua cả con mèo nha,uncertain,False
+M07156,K4-L3-4,channel_11,D8976,False,message,2026-09-14 20:30,,False,0,62,Điểm cộng trong lòng người hâm mộ là điểm cộng cao quý nhất ạ.,uncertain,False
+M05023,K4-L3-4,channel_11,D1138,False,message,2026-09-14 20:39,,False,1,93,cho mình hỏi tại sao truy cập lại thấy trống nhỉ và làm sao tìm repo để setup AI log được nhỉ,academic,False
+M13539,K4-L3-4,channel_11,D8976,False,reply,2026-09-14 20:40,M05023,False,0,70,GitHub của bạn có cùng email với email bạn đăng ký chương trình không?,uncertain,True
+M54704,K4-L3-4,channel_11,D1138,False,message,2026-09-14 20:41,,False,0,112,"à em thấy chỗ acccept rồi ạ, em muốn hỏi là team sẽ clone và quản lý trên repo này thôi mà không cần fork về ạ ?",logistics,True
+M85719,K4-L3-4,channel_11,D3694,False,reply,2026-09-14 20:41,M54704,False,0,45,"Thao tác trên repo này nhé , commit, pr .....",uncertain,False
+M33670,K4-L3-4,channel_11,D8976,False,message,2026-09-14 20:43,,False,0,9,[:emoji:],uncertain,False
+M44883,K4-L3-4,channel_11,D8976,False,message,2026-09-14 20:43,,False,0,171,"Với cả repo cũng không có quyền fork nữa... Bạn cần dev riêng thì cứ tạo nhánh mới là được. Nhớ git diff để giữ commit của thành viên khác nha, tránh merge bay hết commit.",uncertain,False
+M34917,K4-L3-4,channel_11,D1138,False,message,2026-09-14 20:45,,False,0,73,em hỏi chút chỗ ai log thì mọi thành viên sẽ log chung 1 file phải ko ạ ?,uncertain,True
+M60263,K4-L3-4,channel_11,D8976,False,reply,2026-09-14 20:46,M34917,False,0,32,"Không nha, mỗi người 1 file log.",uncertain,False
+M60186,K4-L3-4,channel_11,D1138,False,message,2026-09-14 20:48,,False,0,296,"em hiểu là 
+1. mỗi cá nhân tự setup để log trên local 
+2. khi push thì có thể chỉnh sửa trước khi push rồi file sẽ lên server chấm điểm chứ không vào branch nào cả 
+em muốn hỏi cái folder ai-log/ đó có bị đẩy lên branch khi dev ko hay nó được đưa vào ignore rồi ạ
+
+thì có chỗ nào ngộ nhận không ạ",greeting,False
+M26883,K4-L3-4,channel_11,D8976,False,message,2026-09-14 20:49,,False,0,78,À bạn nhớ bỏ `.ai-logs` vô `.gitignore` không lại pull 1 phát bay hết logs đó.,uncertain,False
+M46632,K4-L3-4,channel_11,D8976,False,message,2026-09-14 20:51,,False,0,74,Trong `.gitignore` có sẵn rồi nhưng cứ edit để cả thư mục vào cho an toàn.,uncertain,False
+M59723,K4-L3-4,channel_11,D1138,False,message,2026-09-14 20:51,,False,0,4,ok ạ,greeting,False
+M89749,K4-L3-4,channel_11,D1138,False,message,2026-09-14 20:51,,False,0,171,"là repo chưa có chỗ nào ignore phải ko ạ, teamate phải tự chủ động ignore nó đi còn file log sẽ được tự đẩy lên server khi git push thông qua apikey trên phoenix phải ko ạ",logistics,False
+M90367,K4-L3-4,channel_11,D8976,False,reply,2026-09-14 20:51,M89749,False,0,58,Có rồi nhưng mình chủ động thêm cả folder thì yên tâm hơn.,uncertain,False
+M36677,K4-L3-4,channel_11,D8976,False,reply,2026-09-14 20:55,M90367,False,0,324,"Tại vì một số coding agent/dòng máy không hỗ trợ, nhiều lúc phải bảo agent sửa thủ công script đẩy logs, gây ra tình trạng files log được tạo ra khác với quy định có sẵn, khiến nhiều lúc có tình trạng mất logs trong thư mục. Nên bạn nào không thấy logs đẩy, có bảo agent sửa này sửa kia thì cứ ignore cả thư mục cho an toàn.",uncertain,False
+M90393,K4-L3-4,channel_11,D1138,False,message,2026-09-14 20:57,,False,0,241,"em muốn hỏi lại chút là các đội khi demo sẽ có 5p vừa trình bày vừa QnA hay chỉ trình bày thôi vậy ạ, và quá trình lọc để chọn top vào demo day offline là có sự tham gia vote của học vien hay toàn bộ việc chọn đánh giá đều do BTC thực hiện ạ",greeting,False
+M34524,K4-L3-4,channel_11,D8976,False,message,2026-09-14 20:59,,False,0,9,[:emoji:],uncertain,False
+M46984,K4-L3-4,channel_11,D8976,False,reply,2026-09-14 20:59,M90393,False,0,221,"Quy định demo mình không biết có thay đổi chưa, nhưng quá trình chọn top để demo offline là do BTC thực hiện hoàn toàn nha. Tất nhiên các bạn học viên vẫn có đặc quyền bình chọn ở một giai đoạn khác, cứ hóng là biết nhaa.",uncertain,True
+M89624,K4-L3-4,channel_10,D4567,False,message,2026-09-14 20:59,,True,0,42,[@BOT]. hạn nộp bài L3-L4 - Khóa 4 Phase 1,logistics,False
+M54287,K4-L3-4,channel_10,D6509,False,message,2026-09-14 21:00,,True,0,96,"[@BOT] Sinh viên tham gia AI thực chiến được sử dụng cơ sở vật chất nào của trường, ngoài trừ gì",uncertain,False
+M54679,K4-L3-4,channel_11,D1138,False,message,2026-09-14 21:00,,False,0,45,về thời gian demo + QnA thì sao vậy anh nhỉ ?,uncertain,True
+M18313,K4-L3-4,channel_11,D8976,False,message,2026-09-14 21:03,,False,0,52,"*Để thời gian trả lời~*
+Cái gì bất ngờ sẽ thú zị hơn",uncertain,False
+M55373,K4-L3-4,channel_11,D8976,False,message,2026-09-14 21:03,,False,0,9,[:emoji:],uncertain,False
+M78882,K4-L3-4,channel_10,D1770,False,message,2026-09-14 21:18,,True,0,60,[@BOT] khóa học lv3-lv4 khóa 4 có những track chuyên sâu nào,uncertain,False
+M34860,K4-L3-4,channel_10,D6805,False,message,2026-09-14 21:26,,True,0,55,[@BOT] trong các buổi mentor-duty thì nhóm phải làm gì?,logistics,True
+M22848,K4-L3-4,channel_11,D4013,False,message,2026-09-14 21:37,,False,0,183,Các anh chị lab coach cho em hỏi một số đề tài về xử lý ảnh/video từ camera thì sản phẩm có cần phải có thiết bị phần cứng camera không hay chỉ cần tải ảnh/video lên app xử lý thôi ạ.,academic,False
+M90646,K4-L3-4,channel_10,D0614,False,message,2026-09-14 21:37,,True,0,93,[@BOT] làm thế nào để biết được là chủ đề nào đã được chọn và đăng ký chủ đề cho nhóm ở đâu ?,logistics,True
+M20411,K4-L3-4,channel_10,D0614,False,message,2026-09-14 21:40,,True,0,61,[@BOT] tôi chưa nhận thẻ sinh viên thì liên hệ ai để nhận đây,uncertain,False
+M33335,K4-L3-4,channel_11,D6509,False,message,2026-09-14 21:40,,False,0,358,"Mọi người cho em hỏi một chút ạ:
+Phần dataset là do BTC cung cấp hay chúng em sẽ tự tìm ạ em có đọc thấy là có thể sử dụng cả dữ liệu mô phỏng nên không nắm được phần này mình có yêu cầu cụ thể nào không ạ?
+Với một số phần liên quan đến phần cứng như chuông, robot,... thì BTC có hỗ trợ thiết bị/phần cứng hay chúng em sẽ tự chuẩn bị ạ
+Em cảm ơn mọi người ạ!",greeting,True
+M76256,K4-L3-4,channel_11,D3694,False,reply,2026-09-14 21:41,M33335,False,0,116,"Như thông tin trước đó có chia sẻ trong buổi ws thì BTC không cung cấp data, thiết bị,.... nhé, team phải tự chủ nha",logistics,False
+M03224,K4-L3-4,channel_11,D3694,False,message,2026-09-14 21:42,,False,0,162,"Cho nên cân nhắc phù hợp với khả năng của team mà chọn đề tài nhé, time vẫn còn dài nên không vội, suy nghĩ kĩ, phân tích khảo sát đánh giá ròi hãy đăng kí đề tài",logistics,False
+M16663,K4-L3-4,channel_10,D3856,False,message,2026-09-14 21:44,,True,0,127,[@BOT] nhóm tôi muốn xây dựng ý tưởng dự án nhưng không theo project bank thì làm thế nào để xét duyệt dự án ngoài project bank,logistics,False
+M21700,K4-L3-4,channel_10,D2323,False,message,2026-09-14 21:57,,False,0,44,tôi muốn đề xuất đề tài mới thì phải làm sao,uncertain,False
+M74296,K4-L3-4,channel_10,D2323,False,message,2026-09-14 21:57,,True,0,51,[@BOT] tôi muốn đề xuất đề tài mới thì phải làm sao,uncertain,False
+M57008,K4-L3-4,channel_11,D8976,False,reply,2026-09-14 22:00,M22848,False,0,70,"Làm cách nào cũng được nha, miễn ra kết quả tốt nhất là được [:emoji:]",uncertain,False
+M80040,K4-L3-4,channel_11,D8976,False,message,2026-09-14 22:01,,False,0,112,"Cái gì khó quá thì mình phải cố, cố không được thì mình bỏ qua. Còn cái gì trong khả năng thì phải làm bằng hết.",uncertain,False
+M84299,K4-L3-4,channel_11,D8976,False,message,2026-09-14 22:01,,False,0,54,"Đừng cố quá để rồi quá cố, nhớ lời các cụ dạy là được.",uncertain,False
+M90244,K4-L3-4,channel_10,D9617,False,reply,2026-09-14 22:01,M21700,False,0,48,Ngay ở trên có bạn cùng câu hỏi luôn kìa [HV] :3,uncertain,False
+M38917,K4-L3-4,channel_11,D2938,False,message,2026-09-14 22:06,,False,1,31,em tưởng hạn 12h trưa mai chứ ạ,uncertain,False
+M81526,K4-L3-4,channel_11,D8976,False,reply,2026-09-14 22:07,M38917,False,0,173,"Bot vẫn trong quá trình phát triển nha, thời gian mặc định sẽ là 12 giờ đêm cùng ngày. Thời gian thực tế các bạn follow up theo hướng dẫn thực tế của Lab Coach trên lớp nhé.",logistics;academic;mixed,False
+M54911,K4-L3-4,channel_10,D9082,False,message,2026-09-14 22:08,,True,0,32,[@BOT]  cách đăng kí đề tài nhóm,logistics,False
+M65865,K4-L3-4,channel_11,D1138,False,message,2026-09-14 22:08,,False,0,219,"em muốn hỏi về doanh nghiệp sau này bản thân aim, có phải đề tài thuộc doanh nghiệp đó thì khả năng được cử đi thực tập tại đó sẽ cao hơn ko ạ, và tiêu chí để được apply vào doanh nghiệp đó phụ thuộc vào các yếu tố gì ạ",uncertain,False
+M99246,K4-L3-4,channel_10,D5284,False,message,2026-09-14 22:09,,True,0,66,[@BOT] Cách xem mình đã được công nhận hoàn thành bài lab hay chưa,academic,False
+M46898,K4-L3-4,channel_11,D8976,False,reply,2026-09-14 22:10,M65865,False,0,178,"Dựa vào nhiều yếu tố lắm nha, project chỉ là một phần rất nhỏ thôi. Còn tiêu chí đánh giá thì không có thông tin và công tiết lộ được nè. Bạn chỉ cần cố gắng hết sức là được nha.",uncertain,False
+M44168,K4-L3-4,channel_11,D1138,False,message,2026-09-14 22:11,,False,0,176,"em hỏi thêm là khi apply vào doanh nghiệp hoặc được phân phôi vào doanh nghiệp sẽ dựa trên CV, bản CV này là từ đầu khóa nộp lên hệ thống hay đến khi đó sẽ viết lại 1 CV khác ạ",greeting,False
+M52891,K4-L3-4,channel_11,D8976,False,reply,2026-09-14 22:13,M44168,False,0,78,CV gửi doanh nghiệp và CV gửi để tham gia chương trình là 2 cái khác nhau nha.,uncertain,False
+M79892,K4-L3-4,channel_11,D1138,False,message,2026-09-14 22:13,,False,0,10,e cảm ơn ạ,greeting,False
+M40490,K4-L3-4,channel_10,D6667,False,message,2026-09-14 22:16,,True,0,90,[@BOT] tôi muốn nộp daily standup bây giờ được không hay phải để sang sáng hôm sau mới nộp,logistics,False
+M04968,K4-L3-4,channel_10,D0010,False,message,2026-09-14 22:21,,True,0,94,[@BOT]  xin hỗ trợ xác nhận cộng điểm trên lớp ở đâu ạ. Vlearn đóng lớp không tạo yêu cầu được,logistics,False
+M63113,K4-L3-4,channel_10,D0010,False,reply,2026-09-14 22:22,M73803,True,0,1,2,uncertain,False
+M74820,K4-L3-4,channel_11,D4411,False,message,2026-09-14 22:23,,False,1,35,lớp tối mai mới học lab 4 thì sao ạ,logistics;academic;mixed,False
+M96721,K4-L3-4,channel_11,D8976,False,reply,2026-09-14 22:24,M81526,False,0,50,[@D4411] bạn tham khảo thông tin này của mình nhé.,logistics_personal,False
+M54069,K4-L3-4,channel_10,D6670,False,message,2026-09-14 22:25,,True,0,37,"[@BOT] AI log là gì, làm sao để setup",uncertain,False
+M91245,K4-L3-4,channel_10,D5284,False,message,2026-09-14 22:39,,True,0,58,[@BOT] Điểm XP ngoài cày rank discord còn có tác dụng gì ?,logistics,True
+M50584,K4-L3-4,channel_11,D2044,False,reply,2026-09-14 22:40,M96721,False,0,80,vậy những bạn mà có lịch chiều nay (1h30 - 5h) đi học thì chưa cần nộp bài lab ạ,logistics;academic;mixed,False
+M45994,K4-L3-4,channel_11,D8976,False,reply,2026-09-14 22:41,M50584,False,0,59,Cái này theo lịch của Lab Coach thông báo nhé bạn [:emoji:],logistics;academic;mixed,False
+M59849,K4-L3-4,channel_10,D2748,False,message,2026-09-14 22:54,,True,0,90,[@BOT] [HV] có hỗ trợ book phòng riêng để thảo luận dành cho học viên AI thực chiến không?,greeting,True
+M93823,K4-L3-4,channel_11,D5508,False,message,2026-09-14 23:07,,False,0,134,Rất mong có team K4 nào đó build phase 1 con AI hỗ trợ điều chỉnh theo thời khóa biểu của chương trình =))) đỡ phải setup bot mất công,logistics,False
+M45220,K4-L3-4,channel_10,D2748,False,message,2026-09-14 23:15,,True,0,93,[@BOT]  Trường có hỗ trợ book phòng riêng để thảo luận dành cho học viên AI thực chiến không?,greeting,True
+M85804,K4-L3-4,channel_10,D2748,False,message,2026-09-14 23:17,,True,0,48,[@BOT] đưa link kênh  #🎫-support-ticket giùm tôi,logistics,False
+M68737,K4-L3-4,channel_10,D3587,False,message,2026-09-14 23:26,,True,0,20,[@BOT] xem điểm danh,logistics,False
+M53517,K4-L3-4,channel_10,D3982,False,message,2026-09-14 23:38,,True,0,176,"[@BOT] Tôi đã setup API Keys trên Phoenix Agent nhưng sao trong mục AI Logs chưa có gì? Nó vẫn còn dòng chữ ""No AI logs yet. Set up an API key to start logging from your repo"".",uncertain,True
+M77452,K4-L3-4,channel_10,D6543,False,message,2026-09-14 23:44,,True,0,63,[@BOT] có thể tra cứu mình đã điểm danh những hôm nào không bạn,logistics,False
+M31751,K4-L3-4,channel_10,D1631,False,message,2026-09-14 23:53,,True,0,45,[@BOT] các setup cần thiết trên phoenix là gì,uncertain,False
+M40682,K4-L3-4,channel_10,D1631,False,message,2026-09-14 23:53,,True,0,48,[@BOT] Thiết lập liên quan đến AI Log và API Key,uncertain,False
