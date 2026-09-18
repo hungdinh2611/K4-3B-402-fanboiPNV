@@ -40,11 +40,15 @@ Không có mẩu nguồn nào nói về **"mentor duty"** — cài có chủ ý 
 
 ## 3 · Ngưỡng đang dùng trong bản mẫu
 
-| Tham số | Giá trị CP2 | Vì sao đặt thế | Chốt lại khi nào |
+| Tham số | Giá trị | Vì sao đặt thế | Trạng thái |
 |---|---|---|---|
-| `τ_cao` | 0.75 | Trên ngưỡng này mới cho bot trả lời thẳng | CP4 — sau khi chạy golden set ở CP3 |
-| `τ_thấp` | 0.45 | Dưới ngưỡng này coi như **không có căn cứ**, không trả lời | CP4 |
-| Hạn hiệu lực nguồn | 14 ngày | Build Phase 6 tuần, thông báo hay bị đính chính trong 2 tuần đầu | CP4 |
-| Số nguồn lấy về | top-3 | Đủ để phát hiện mâu thuẫn mà không làm câu trả lời dài | CP4 |
+| `τ_cao` | 0.75 | Trên ngưỡng này mới cho bot trả lời thẳng | **Chốt tại CP4 (21:00 · 18/9), giữ nguyên giá trị CP2** |
+| `τ_thấp` | 0.45 | Dưới ngưỡng này coi như **không có căn cứ**, không trả lời | **Chốt tại CP4 — giữ 0.45, cố ý KHÔNG nâng lên 0.55** |
+| Hạn hiệu lực nguồn | 14 ngày | Build Phase 6 tuần, thông báo hay bị đính chính trong 2 tuần đầu | **Chốt tại CP4, giữ nguyên** |
+| Số nguồn lấy về | top-3 | Đủ để phát hiện mâu thuẫn mà không làm câu trả lời dài | **Chốt tại CP4, giữ nguyên** |
 
-Các con số này là **giả định thiết kế ở CP2**, chưa phải quality bar. Quality bar chốt tại CP4 (21:00 18/9) theo §7 của `spec.md`.
+**Tại sao không nâng `τ_thấp` lên 0.55:** nhóm biết rõ làm thế là sửa xong ngay hai câu trượt `G15`/`G17`
+(nguồn xa chủ đề vẫn được mô hình chấm ~0.50, vừa đủ vượt ngưỡng nên ra low-confidence thay vì từ chối hẳn).
+Nhưng chỉnh ngưỡng **sau khi đã nhìn bộ câu thử** là chỉnh cho vừa đề thi, không phải chỉnh theo thiết kế —
+xem `spec.md` §7 và §10 mục 5. Bốn con số trên là **giả định thiết kế từ CP2**, được giữ nguyên và khoá tại CP4;
+quality bar (chuẩn "đạt") nằm ở §7 của `spec.md`, cũng khoá tại cùng mốc.
