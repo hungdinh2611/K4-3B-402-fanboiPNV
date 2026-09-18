@@ -1,0 +1,27 @@
+# Khoá API của lời gọi AI thật ở CP3 — luật hackathon: không commit API key.
+codebase/prototype/config.local.js
+.env
+.env.*
+*.key
+
+# Dữ liệu được BTC cấp — sổ tay trang 11 luật 2-3: không commit data pack vào
+# repo nộp bài (repo phải công khai). Golden set chỉ ghi mã tin nhắn M#####.
+# LƯU Ý: classified_messages.csv ĐÃ nằm trong history từ commit 7939f3d và đã
+# lên origin/main — dòng dưới chỉ chặn việc thêm lại, KHÔNG tự xoá file đang
+# được theo dõi. Muốn xoá thật phải: git rm --cached + viết lại history + force-push.
+classified_messages.csv
+data/
+*-discord-pack*
+*-vlearn-pack*
+
+# Tài liệu của BTC, không phải bài làm của nhóm
+Số tay Hackathon K4 - Dành cho học viên.pdf
+
+# Rác hệ điều hành / trình soạn thảo
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
+__pycache__/
+*.pyc
