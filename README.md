@@ -8,10 +8,10 @@
 
 | Họ và Tên | Mã Học Viên | Vai trò chính | Phần việc đảm nhiệm trong dự án |
 |---|---|---|---|
-|Đinh Bảo Hưng  |2A202602524  |  |  |
-| Hoàng Anh Tú  |2A202602643  |  |  |
-| Nguyễn Thanh Nam |2A202602694  |  |  |
-|  Nguyễn Minh Quân|2A202602490  |  |  |
+| Đinh Bảo Hưng | 2A202602524 | **Đội trưởng · Prototype** | Dựng bản mẫu `codebase/prototype/index.html`: máy trạng thái G0–G5, hai lớp chặn ở G0, ngưỡng τ (0.45 / 0.75), hàm `callAI()` gọi mô hình thật (Groq `gpt-oss-120b`) và system prompt của bot · quay video demo dự phòng CP5 · **người nộp form cố định cho cả 5 mốc CP1–CP5** + push repo |
+| Hoàng Anh Tú | 2A202602643 | **Chủ bút spec** | Viết `spec.md` §1–§6, §9 (changelog), §10 (tự khai 10 mục chưa xong) và chốt bản CP4 (khoá quality bar) · `canvas.md` 7 dòng ở CP1 · sơ đồ luồng `codebase/flow/flowchart.md` (CP2) · xuất slide 6 trang ra `demo-slides.pdf` (CP5) |
+| Nguyễn Thanh Nam | 2A202602694 | **Kiểm thử & số đo** | Bộ 24 câu thử `eval/golden-set.md` + 3 chiều chấm và cách chấm · máy chạy `eval/run-golden.mjs`, bộ kiểm căn cứ `eval/check-grounding.mjs`, bộ tự kiểm `eval/selftest/` · 3 lượt chạy thật + log thô trong `eval/results/` (19–20/24 đạt, nhiễu ±1 câu) · viết §7 Kiểm thử trong `spec.md` |
+| Nguyễn Minh Quân | 2A202602490 | **Bằng chứng & người dùng** | Khai thác 779 tin Discord bằng `mine_pain_points.py` → `report_pain_points.md` (318 tin logistics = 40.8%) · khảo sát 21 học viên ngoài nhóm → `khao_sat_tong_hop.md`, `survey_dump.txt` · chốt và liên hệ 5 willing user từ CP1 · chạy vòng dùng thử R6 và ghi biên bản `validation/` (2/5 người, khai rõ phần còn thiếu) · dựng `demo-slides.html` |
 
 > Nhóm copy nguyên file README này về repo của mình, rồi điền bảng trên. Cột **Phần việc đảm nhiệm** ghi càng cụ thể càng tốt.
 
