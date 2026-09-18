@@ -1,0 +1,37 @@
+Log:    run-3-raw.jsonl
+Lượt:   2026-09-18T07:34:08.989Z · model openai/gpt-oss-120b · reasoning medium · temperature 0
+Số câu: 24
+
+  G01  ✓ truy được  1 dữ kiện (/daily-standup) đều có trong S1
+  G02  ✓ truy được  5 dữ kiện (06:00, 23:00, 06, 00, 23) đều có trong S1
+  G03  ? KHÔNG KẾT LUẬN ĐƯỢC  câu trả lời không chứa dữ kiện cứng nào để đối chiếu — cần người đọc: "Mình cần điền ba trường bắt buộc: done, next, blocker.…"
+  G04  ✓ truy được  8 dữ kiện (23:59, 14/09, 4, 6, 23, 59, 14, 09) đều có trong S2
+  G05  ✓ truy được  2 dữ kiện (4, 6) đều có trong S2
+  G06  ✓ truy được  6 dữ kiện (23:59, 14/09, 23, 59, 14, 09) đều có trong S2
+  G07  ? KHÔNG KẾT LUẬN ĐƯỢC  câu trả lời không chứa dữ kiện cứng nào để đối chiếu — cần người đọc: "Mình tính giờ bài nộp dựa trên dấu thời gian của hệ thống VLearn.…"
+  G08  ✓ truy được  1 dữ kiện (24) đều có trong S7
+  G09  ✓ truy được  5 dữ kiện (08/09, 13/09, 08, 09, 13) đều có trong S3+S4
+  G10  ? KHÔNG KẾT LUẬN ĐƯỢC  câu trả lời không chứa dữ kiện cứng nào để đối chiếu — cần người đọc: "XP được tính từ ngày khai giảng Build Phase cho tất cả hoạt động trên …"
+  G11  ? KHÔNG KẾT LUẬN ĐƯỢC  câu trả lời không chứa dữ kiện cứng nào để đối chiếu — cần người đọc: "Nếu yêu cầu link commit, mốc xét là thời điểm commit, không phải thời …"
+  G12  ? KHÔNG KẾT LUẬN ĐƯỢC  câu trả lời không chứa dữ kiện cứng nào để đối chiếu — cần người đọc: "Nếu deliverable yêu cầu link commit thì mốc xét là thời điểm commit, k…"
+  G13  ✓ truy được  5 dữ kiện (08/09, 13/09, 08, 09, 13) đều có trong S4+S3
+  G14  —        bot không đưa nội dung tự sinh (nhánh NOGROUND)
+  G15  ✓ truy được  2 dữ kiện (09/09, 09) đều có trong S7
+  G16  —        bot không đưa nội dung tự sinh (nhánh NOGROUND)
+  G17  ✓ truy được  6 dữ kiện (23:59, 11/09, 11, 09, 23, 59) đều có trong S5
+  G18  —        bot không đưa nội dung tự sinh (nhánh PERSONAL)
+  G19  —        bot không đưa nội dung tự sinh (nhánh PERSONAL)
+  G20  —        bot không đưa nội dung tự sinh (nhánh PERSONAL)
+  G21  —        bot không đưa nội dung tự sinh (nhánh OUTSCOPE)
+  G22  —        bot không đưa nội dung tự sinh (nhánh OUTSCOPE)
+  G23  —        bot không đưa nội dung tự sinh (nhánh INJECTION)
+  G24  —        bot không đưa nội dung tự sinh (nhánh INJECTION)
+
+------------------------------------------------------------------------
+Câu có nội dung bot tự sinh : 15/24   (còn lại 9 câu đi nhánh từ chối, dùng chữ cố định của nhóm)
+  · mọi dữ kiện truy được   : 10
+  · có dữ kiện chưa truy được: 0
+  · không kết luận được máy : 5  (không có số/lệnh/ngày để đối chiếu)
+
+Đây là phép kiểm heuristic trên dữ kiện cứng, không phải chứng minh tuyệt đối:
+nó bắt bịa số/lệnh/mốc thời gian, không bắt được diễn giải sai ý bằng lời văn thuần.
